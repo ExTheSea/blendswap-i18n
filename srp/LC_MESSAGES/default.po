@@ -1,163 +1,162 @@
 # LANGUAGE translation of CakePHP Application
-# Copyright 2013 Blend Swap, LLC <support@blendswap.com>
+# Copyright YEAR NAME <EMAIL@ADDRESS>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Blend Swap Translation 0.1\n"
 "POT-Creation-Date: 2013-08-01 10:47-0600\n"
-"PO-Revision-Date: 2013-09-03 00:35+0100\n"
-"Last-Translator: CerFriBar <cerfribar@googlemail.com>\n"
-"Language-Team: Blend Swap Translators <support@blendswap.com>\n"
-"Language: de_DE\n"
+"PO-Revision-Date: 2013-10-23 00:52+0100\n"
+"Last-Translator: Vido89 <vidovic.slobodan@yahoo.com>\n"
+"Language-Team: Blend Swap Translators <vidovic.slobodan89@gmail.com>\n"
+"Language: Serbian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
+# atom
 #: Controller/AtomsController.php:31;75;101
 msgid "Invalid atom"
-msgstr "Ungültiges Atom"
+msgstr "Atom nije ispravan"
 
+# atom
 #: Controller/AtomsController.php:58;79
 msgid "The atom has been saved"
-msgstr "Das Atom wurde gespeichert"
+msgstr "Atom je sačuvan"
 
+# atom
 #: Controller/AtomsController.php:60;82
 msgid "The atom could not be saved. Please, try again."
-msgstr "Das Atom konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Atom nije sačuvan. Molim vas, pokušajte ponovo."
 
+# atom
 #: Controller/AtomsController.php:104
 msgid "Atom deleted"
-msgstr "Atom gelöscht"
+msgstr "Atom je obrisan"
 
+# atom
 #: Controller/AtomsController.php:107
 msgid "Atom was not deleted"
-msgstr "Atom wurde nicht gelöscht"
+msgstr "Atom nije obrisan"
 
 #: Controller/BadgesController.php:35;76;107;133
 msgid "Invalid badge"
-msgstr "Ungültiges Abzeichen"
+msgstr "Bedž nije ispravan"
 
 #: Controller/BadgesController.php:90;111
 msgid "The badge has been saved"
-msgstr "Das Abzeichen wurde gespeichert"
+msgstr "Bedž je sačuvan"
 
 #: Controller/BadgesController.php:93;114
 msgid "The badge could not be saved. Please, try again."
-msgstr "Das Abzeichen konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Bedž nije mogao biti sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/BadgesController.php:136
 msgid "Badge deleted"
-msgstr "Abzeichen gelöscht"
+msgstr "Bedž je obrisan"
 
 #: Controller/BadgesController.php:139
 msgid "Badge was not deleted"
-msgstr "Abzeichen wurde nicht gelöscht"
+msgstr "Bedž nije obrisan"
 
 #: Controller/BlendsController.php:198;1684;1708;1738
 msgid "Invalid blend"
-msgstr "Ungültige Blend"
+msgstr "Blend fajl nije ispravan"
 
 #: Controller/BlendsController.php:562
 msgid "Thank you! Your new blend was saved and is now publicly visible!"
-msgstr ""
-"Danke! Ihre neue Blend wurde gespeichert und ist nun öffentlich sichtbar!"
+msgstr "Hvala vam! Vaš novi blend fajl je sačuvan i sada je javno dostupan!"
 
 #: Controller/BlendsController.php:564
 msgid ""
 "There was an error saving your blend as published, please report you saw "
 "this error!"
 msgstr ""
-"Beim veröffentlichen Ihrer Blend gab es einen Fehler. Bitte melden Sie "
-"diesen Fehler!"
+"Dogodila se greška prilikom čuvanja vašeg blend fajla, prijavite da ste "
+"vidjeli  ovu grešku!"
 
 #: Controller/BlendsController.php:568
 msgid ""
 "Your new blend was saved and is now waiting moderation! Please be patient "
 "for an adminn to check your file."
 msgstr ""
-"Ihre neue Blend wurde gespeichert und wird geprüft! Bitte haben Sie geduld "
-"bis ein Admin Ihre Datei prüft."
+"Vaš novi blend fajl je sačuvan i sada čeka odobrenje! Molimo budete "
+"strpljivi dok admin ne provjeri vaš fajl."
 
 #: Controller/BlendsController.php:572
 msgid ""
 "You blend was saved to the database, but one of the files failed to upload, "
 "please fix below the file type marked in red!"
 msgstr ""
-"Ihre Blend wurde in der Datenbank gespeichert, aber das Hochladen einer der "
-"Dateien ist fehlgeschlagen. Bitte korrigieren Sie die Datei welche unten rot "
-"markiert ist!"
+"Vaš blend fajl je sačuvan u bazi podataka, ali jedan od fajlova nije dodat, "
+"molimo ispravite fajl naznačen crvenom bojom!"
 
 #: Controller/BlendsController.php:577
 msgid ""
 "The blend could not be saved. Please ckeck any errors below and try again. "
 "Don't forget to re-select the files."
 msgstr ""
-"Die Blend konnte nicht gespeichert werden. Bitte prüfen Sie unten alle "
-"Fehler und versuchen es erneut. Vergessen Sie nicht die Dateien erneut "
-"auszuwählen."
+"Blend fajl nije sačuvan. Provjerite na greške ispod i pokušajte ponovo. "
+"Morate opet označiti fajlove za dodavanje."
 
 #: Controller/BlendsController.php:646
 msgid "The requested blend does not exist."
-msgstr "Die angeforderte Blend existiert nicht."
+msgstr "Traženi blend fajl ne postoji."
 
 #: Controller/BlendsController.php:686;1712
 msgid "The blend has been saved"
-msgstr "Die Blend wurde gespeichert"
+msgstr "Blend fajl je sačuvan"
 
 #: Controller/BlendsController.php:688
 msgid ""
 "The blend has been saved, but there was an error while updating the license "
 "file, please report that you saw this message."
 msgstr ""
-"Ihre Blend wurde gespeichert, aber es gab einen Fehler beim hochladen der "
-"Lizenz Datei. Bitte melden Sie diesen Fehler!"
+"Blend fajl je sačuvan, ali se dogodila greška prilikom ažuriranja licence,"
+"molimo prijavite da ste vidjeli ovu poruku."
 
 #: Controller/BlendsController.php:691
 msgid "ERRORS! Please check any red messages below and try again."
-msgstr ""
-"FEHLER! Bitte prüfen Sie unten alle roten Meldungen und versuchen es erneut."
+msgstr "GREŠKA! Molimo provjerite poruku crveno označenu i pokušajte ponovo."
 
 #: Controller/BlendsController.php:1173
 msgid "The blend you requested does not exist"
-msgstr "Die angeforderte Blend existiert nicht."
+msgstr "Traženi blend fajl ne postoji"
 
 #: Controller/BlendsController.php:1205
 msgid "Downloading"
-msgstr "Runterladen"
+msgstr "Preuzima se"
 
 #: Controller/BlendsController.php:1207
 msgid "This blend is licensed"
-msgstr "Diese Blend ist lizenziert"
+msgstr "Ovaj blend fajl je lincenciran"
 
 #: Controller/BlendsController.php:1209
 msgid "Do you agree with this license"
-msgstr "Sind Sie mit dieser Lizenz einverstanden?"
+msgstr "Da li se slažeš sa ovom licencom"
 
+#  imposed by the Fan Art marking
 #: Controller/BlendsController.php:1210
 msgid "and the limitations imposed by the Fan Art marking"
-msgstr ""
-"und die Beschrenkungen werden durch die Fan Art Kennzeichnung auferlegt"
+msgstr "i odgraničenja navedena kao zabavna umjetnost oznake"
 
 #: Controller/BlendsController.php:1215
 msgid "I accept the license. Start file download, please"
-msgstr ""
-"Ich akzeptiere die Lizenzvereinbarung. Starten Sie bitte den download der "
-"Datei"
+msgstr "Prihvatam ovu licencu. Počni preuzimanje fajla"
 
 #: Controller/BlendsController.php:1215
 msgid "Yes. Download now!"
-msgstr "Ja. Jetzt Runterladen!"
+msgstr "Da. Preuzimi sada!"
 
 #: Controller/BlendsController.php:1216
 msgid "Cancel download"
-msgstr "Download abbrechen"
+msgstr "Otkaži preuzimanje"
 
 #: Controller/BlendsController.php:1216 View/Blends/edit.ctp:95
 msgid "Cancel"
-msgstr "abbrechen"
+msgstr "Otkaži"
 
 #: Controller/BlendsController.php:1226
 msgid ""
@@ -165,52 +164,54 @@ msgid ""
 "failed you still have %d hours and %d minutes to retry without losing extra "
 "bandwidth"
 msgstr ""
-"Sie haben diese Blend vor weniger als 24 Stunden heruntergeladen. Falls Ihr "
-"erster Versuch scheitert verbleiben ihnen noch %d Stunden und %d Minuten für "
-"einen Neuversuch ohne verlust von extra Bandbreite"
+"Preuzeli ste ovaj blend fajl pre manje od 24 sata, ako ovaj pokušaj ne "
+"uspije imate još % sat(a) i % minut(a) da pokušate opet bez gubljenja "
+"dodatnog protoka"
 
 #: Controller/BlendsController.php:1230
 msgid ""
 "If your download fails you have 24 hours to try again with no extra "
 "bandwidth subtracted from your monthly allocation!"
 msgstr ""
-"Falls Ihr Download fehlschlägt, haben sie 24 Stunden um es erneut zu "
-"versuchen ohne extra Bandbreite von ihrem monatlichem Kontingent abzuziehen!"
+"Ako se preuzimanje imate 24 sata do pokušate opet bez dodatnog umanjivanja "
+"vašeg mjesečnog protoka !"
 
 #: Controller/BlendsController.php:1237
 msgid "Looks like you are logged out, maybe your session expired"
-msgstr ""
-"Es sieht so aus als wären Sie ausgelogt, vielleicht ist Ihre Sitzung "
-"abgelaufen."
+msgstr "Izgleda da ste odjavljeni, možda je vaša sesija istekla"
 
 #: Controller/BlendsController.php:1238
 msgid "Please %s and try again."
-msgstr "Bitte %s und erneut versuchen."
+msgstr "Molimo % i pokušajte ponovo"
 
 #: Controller/BlendsController.php:1238
 msgid "log in"
-msgstr "Einloggen"
+msgstr "Prijavi se"
 
+# Public Domain Mark 1.0
 #: Controller/BlendsController.php:1258;1259
 msgid "Creative Commons Public Domain Mark 1.0"
 msgstr "Creative Commons Public Domain Mark 1.0"
 
 #: Controller/BlendsController.php:1260
 msgid "which has no requirements:"
-msgstr "welche keine Anforderungen hat:"
+msgstr "koji nema zahtjeva:"
 
+# Creative Commons Attribution 3.0
 #: Controller/BlendsController.php:1264;1265
 msgid "Creative Commons Attribution 3.0"
-msgstr "Creative Commons Attribution 3.0"
+msgstr "Creative Commons Autorstvo 3.0"
 
 #: Controller/BlendsController.php:1266;1272;1278
 msgid "which has the following requirements:"
-msgstr "welche folgende Anforderungen hat:"
+msgstr "koji ima slijedeće zahtjeve :"
 
+# Creative Commons Attribution-ShareAlike 3.0
 #: Controller/BlendsController.php:1270;1271
 msgid "Creative Commons Attribution-ShareAlike 3.0"
 msgstr "Creative Commons Attribution-ShareAlike 3.0"
 
+# Creative Commons Attribution-NonCommercial 3.0
 #: Controller/BlendsController.php:1276;1277
 msgid "Creative Commons Attribution-NonCommercial 3.0"
 msgstr "Creative Commons Attribution-NonCommercial 3.0"
@@ -220,803 +221,791 @@ msgid ""
 "Blend Swap recommends you give credit to the blend author, but there is no "
 "obligation to do so"
 msgstr ""
-"Es wird empfohlen, dass Sie den Autor dieser Blend benennen, aber Sie sind "
-"nicht dazu verpflichtet"
+"Blend Swap preporučuje da navedete ime autora ovog blend fajla, ali nemate "
+"obavezu da to uradite"
 
 #: Controller/BlendsController.php:1294 View/Helper/SingleBlendHelper.php:148
 msgid "You must give credit to the author of this blend"
-msgstr "Sie müssen den Autor dieser Blend benennen."
+msgstr "Morate da navedete ime autora ovog blend fajla"
 
 #: Controller/BlendsController.php:1297 View/Helper/SingleBlendHelper.php:151
 msgid "You must distribute any derivative works under the same license"
-msgstr "Sie müssen abgeleitete Werke unter der gleichen Lizenz verbreiten"
+msgstr ""
+"Bilo kakve izmjene na blend fajlovima obavezni ste da distribuirate pod "
+"istom lincencom"
 
 #: Controller/BlendsController.php:1300 View/Helper/SingleBlendHelper.php:154
 msgid "You can not use this blend commercially under any circumstance"
-msgstr "Se können unter keinen Umständen diese Blend kommerziell nutzen."
+msgstr ""
+"Ti ne možeš koristiti ovaj blend fajl u komercijalne svrhe pod bilo kojim "
+"uslovima"
 
+# giving credits
 #: Controller/BlendsController.php:1304
 msgid "What's the deal with all this \"giving credits\" thing?"
-msgstr "Was hat es mit der \"Namensnennung\" auf sich?"
+msgstr "Šta znači ovo \"davanje zasluga\"  ?"
 
 #: Controller/BlendsController.php:1717
 msgid "The blend could not be saved. Please, try again."
-msgstr ""
-"Die Blend konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+msgstr "Blend fajl nije sačuvan. Molimo, pokušajte ponovo."
 
 #: Controller/BlendsController.php:1741
 msgid "Blend deleted"
-msgstr "Blend gelöscht"
+msgstr "Blend fajl je obrisan"
 
 #: Controller/BlendsController.php:1744
 msgid "Blend was not deleted"
-msgstr "Blend wurde nicht gelöscht"
+msgstr "Blend fajl nije obrisan"
 
 #: Controller/BlendsController.php:1764
 msgid ""
 "The blend was removed from all lists. We will preserve copy of all the data "
 "for archival purposes."
 msgstr ""
-"Die Blend wurde aus allen Listen entfernt. Wir bewahren eine Kopie aller "
-"Daten für Archivierungszwecke."
+"Blend fajl je obrisan sa svih listi. Mi će mo sačuvati kopiju svih podataka "
+"u arhivske svrhe."
 
 #: Controller/BlendsController.php:1767
 msgid ""
 "There was an error while removing the blend from all listings, please try "
 "again and report if this error repeats."
 msgstr ""
-"Es gab einen Fehler beim Entfernen der Blend aus allen Angeboten. Versuchen "
-"Sie es erneut und berichten Sie, falls der Fehler erneut auftaucht."
+"Došlo je do problema prilikom brisanju blend fajla, pokušajte ponovo a "
+"grešku prijavite ako se ponovi."
 
 #: Controller/BlendsController.php:1770
 msgid ""
 "This blend is published! Only an admin can take it down, please get in touch "
 "with the site admins to let them know why you want this blend taken down."
 msgstr ""
-"Diese Blend ist veröffentlicht! Nur ein Admin kann Sie entfernen. Bitte "
-"kontaktieren Sie einen Admin, um ihm mitzuteilen warum Sie die Blend "
-"entfernen lassen wollen."
+"Ovaj blen fajl je objavljen! Samo ga admin može ukloniti, molimo stupite u "
+"kontak sa adminima i kažite im zbog ćega želite da uklonite ovaj blend fajl."
 
 #: Controller/ChatsController.php:67;201;230
 msgid "Invalid chat"
-msgstr "Ungültige Unterhaltung"
+msgstr "Neispravno ćaskanje"
 
 #: Controller/ChatsController.php:205
 msgid "The chat has been saved"
-msgstr "Die Unterhaltung wurde gespeichert"
+msgstr "Ćaskanje je sačuvano"
 
 #: Controller/ChatsController.php:208
 msgid "The chat could not be saved. Please, try again."
-msgstr ""
-"Die Unterhaltung konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Ćaskanje nije sačuvano. Molimo pokušajte opet."
 
 #: Controller/ChatsController.php:235
 msgid "Chat deleted"
-msgstr "Unterhaltung gelöscht"
+msgstr "Ćaskanje obrisano"
 
 #: Controller/ChatsController.php:238
 msgid "Chat was not deleted"
-msgstr "Unterhaltung wurde nicht gelöscht"
+msgstr "Ćaskanje nije obrisano"
 
 #: Controller/CollectionsController.php:79
 msgid "Latest Blend Collections"
-msgstr "Neuste Blend Sammlungen"
+msgstr "Najnovija kolekcije blend fajlova"
 
 #: Controller/CollectionsController.php:135;262;319
 msgid "Invalid collection"
-msgstr "Ungültige Sammlung"
+msgstr "Nevažeća kolekcija"
 
 #: Controller/CollectionsController.php:155
 msgid ""
 "Some items were removed from this collection because they are not available "
 "on Blend Swap anymore..."
 msgstr ""
-"Einige Artikel wurden aus dieser Sammlung entfernt, da sie nicht mehr auf "
-"Blend-Swap sind ..."
+"Neki blend fajlovi su uklonjeni iz ove kolekcije zato što oni više nisu "
+"dostupni na Blen Swap-u"
 
 #: Controller/CollectionsController.php:293
 msgid "The Collection was saved"
-msgstr "Die Sammlung wurde gespeichert"
+msgstr "Kolekcija je sačuvana"
 
 #: Controller/CollectionsController.php:295
 msgid "The Collection could not be saved. Please, try again."
-msgstr "Die Sammlung konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Kolekcija nije sačuvana. Molimo, pokušajte ponovo."
 
 #: Controller/CollectionsController.php:324
 msgid "Collection deleted"
-msgstr "Sammlung gelöscht"
+msgstr "Kolekcija obrisana"
 
 #: Controller/CollectionsController.php:326
 msgid "Collection was not deleted"
-msgstr "Sammlung wurde nicht gelöscht"
+msgstr "Kolekcija nije obrisana"
 
 #: Controller/CollectionsController.php:384
 msgid "Error while starting the request"
-msgstr "Fehler beim starten der Anfrage"
+msgstr "Dogodila se greška prilikom slanja zahtjeva"
 
 #: Controller/CollectionsController.php:435
 msgid "Click to like this blend"
-msgstr "Klicken um diese Blend zu liken"
+msgstr "Kliknite da bi Vam se dopadao ovaj blen fajl"
 
+# Like
 #: Controller/CollectionsController.php:437
 #: View/Elements/bars/blend_actions.ctp:10
 msgid "Like"
-msgstr "Gefällt mir"
+msgstr "Sviđa mi se"
 
 #: Controller/CollectionsController.php:440
 msgid ""
 "Something went wrong while processing your request. Please try again and "
 "report if this happens again."
 msgstr ""
-"Es gab ein Problem beim bearbeiten Ihrer Anfrage. Versuchen Sie es erneut "
-"und berichten Sie, falls der Fehler erneut auftaucht."
+"Došlo je do problema u obradi vašeg zahtjeva. Pokušajte ponovo i prijavite "
+"grešku ako se ponovi."
 
 #: Controller/CollectionsController.php:493
 msgid "Add to a collection"
-msgstr "zu einer Sammlung hinzufügen"
+msgstr "Dodaj u kolekciju"
 
 #: Controller/CollectionsController.php:500
 msgid "Click to remove from this collection"
-msgstr "Klicken zum entfernen aus der Sammlung"
+msgstr "Klikni i ukolini iz kolekcije"
 
 #: Controller/CollectionsController.php:500
 msgid "Click to add to this collection."
-msgstr "Klicken zum hinzufügen in diese Sammlung"
+msgstr "Klikni da dodaš u kolekciju"
 
 #: Controller/CollectionsController.php:507
 msgid "You have not created any collections yet, create one now! :)"
-msgstr "Sie haben noch keine Sammlung erstellt. Erstellen Sie welche :)"
+msgstr "Trenutno nemate ni jednu kolekciju, kreirajte jednu sada !"
 
 #: Controller/CollectionsController.php:514
 msgid "Manage collections"
-msgstr "Sammlungen verwalten"
+msgstr "Izmjena kolekcija"
 
 #: Controller/CollectionsController.php:516
 msgid "Create"
-msgstr "erstellen"
+msgstr "Kreiraj"
 
 #: Controller/CollectionsController.php:518
 msgid "Publicly visible"
-msgstr "Öffentlich sichtbar"
+msgstr "Javno vidljiv"
 
 #: Controller/CollectionsController.php:522
 msgid "You have a %s, to create more Collections you'll have to become an "
-msgstr ""
-"Sie haben ein %s, um weitere Sammlungen zu erstellen, müssen Sie werden"
+msgstr "Imate %s, da bi kreirali više kolekcija morate da postanete"
 
 #: Controller/CollectionsController.php:522 View/App/home.ctp:61
 msgid "Free Account"
-msgstr "Kostenloser Account"
+msgstr "Besplatan nalog"
 
+# Associate ???
 #: Controller/CollectionsController.php:523
 msgid "Associate Member"
-msgstr "Partner Mitglied"
+msgstr "Pridruženi član"
 
 #: Controller/CollectionsController.php:569
 msgid "Error while creating the collection"
-msgstr "Fehler beim erstellen der Sammlung"
+msgstr "Greška prilikom kreiranja kolekcije"
 
 #: Controller/CollectionsController.php:573
 msgid "Sorry, to create more collections you have to be an Associate Member."
 msgstr ""
-"Sorry, um weitere Sammlungen erstellen zu können, müssen Sie ein Partner "
-"Mitglied sein."
+"Žao nam je, da bi kreirali više kolekcija morate da postanete pridruženi član"
 
 #: Controller/CollectionsController.php:625
 msgid "Error saving the item. please report you saw this message."
-msgstr "Fehler beim speichern des Items. Bitte melden Sie diesen Fehler!"
+msgstr "Greška prilikom čuvanja.Prijavite da ste vidjeli  ovu grešku!"
 
 #: Controller/CollectionsController.php:630
 msgid "Invalid blend id."
-msgstr "Ungültige Blend ID"
+msgstr "Neispravan blender id."
 
 #: Controller/CollectionsController.php:634
 msgid "To create new collection you have to purchase a paid membership."
-msgstr ""
-"Um eine neue Kollektion zu erstellen, müssen sie eine kostenpflichtige "
-"Mitgliedschaft erwerben"
+msgstr "Da bi kreirali novu kolekciju morate da imate plaćeno članstvo."
 
 #: Controller/CommentsController.php:211
 msgid "Your comment did not validate, is it empty? Please try again."
-msgstr "Dein Kommentar ist ungültig. Ist er leer? Bitte erneut versuchen."
+msgstr "Vaš komentar nije prihvaćen, da li je prazan? Molimo pokušajte ponovo."
 
 #: Controller/CommentsController.php:250;264;290;365
 msgid "Invalid comment"
-msgstr "Ungültiger Kommentar"
+msgstr "Komentar nije ispravan"
 
 #: Controller/CommentsController.php:270;331
 msgid "The comment has been saved"
-msgstr "Der Kommentar wurde gespeichert"
+msgstr "Komentar je sačuvan"
 
 #: Controller/CommentsController.php:273;334
 msgid "The comment could not be saved. Please, try again."
-msgstr "Der Kommentar konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Komentar nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/CommentsController.php:368
 msgid "Comment deleted"
-msgstr "Kommentar gelöscht"
+msgstr "Komentar je obrisan"
 
 #: Controller/CommentsController.php:371
 msgid "Comment was not deleted"
-msgstr "Kommentar wurde nicht gelöscht"
+msgstr "Komentar nije obrisan"
 
 #: Controller/ContactsController.php:82
 msgid ""
 "The contact entry was saved to our database. Thanks for getting in touch!"
-msgstr ""
-"Der Kontakt Eintrag wurde in unsere Datenbank gespeichert. Vielen Dank, dass "
-"Sie uns immer auf dem laufendem halten."
+msgstr "Kontakt adresa je unijeta u našu bazu. Hvala Vam što nas kntaktirate!"
 
 #: Controller/ContactsController.php:84
 msgid ""
 "The submission could not be saved correctly please correct any errors and "
 "try again."
-msgstr ""
-"Ihre Vorlage konnte nicht korrekt gespeichert werden. Bitte korrigieren Sie "
-"alle Fehler und versuchen es erneut."
+msgstr "Vaš zahtjev nije sačuvan, molimo ispravite grešku i pokušajte ponovo."
 
 #: Controller/ContactsController.php:141;164;190
 msgid "Invalid contact"
-msgstr "Ungültiger Kontakt"
+msgstr "Kontakt nije ispravan"
 
 #: Controller/ContactsController.php:168
 msgid "The contact has been saved"
-msgstr "Der Kontakt wurde gespeichert"
+msgstr "Kontakt je sačuvan"
 
 #: Controller/ContactsController.php:171
 msgid "The contact could not be saved. Please, try again."
-msgstr "Der Kontakt konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Kontakt nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/ContactsController.php:193
 msgid "Contact deleted"
-msgstr "Kontakt gelöscht"
+msgstr "Kontakt obrisan"
 
 #: Controller/ContactsController.php:196
 msgid "Contact was not deleted"
-msgstr "Kontakt wurde nicht gelöscht"
+msgstr "Kontakt nije obrisan"
 
 #: Controller/DownloadsController.php:40
 msgid "Invalid download"
-msgstr "Ungültiger Download"
+msgstr "Fajl za preuzimanje nije ispravan"
 
 #: Controller/FeaturesController.php:30;62;90
 msgid "Invalid feature"
-msgstr "Ungültiges Feature"
+msgstr "Nepostojeća opcija"
 
 #: Controller/FeaturesController.php:44;66
 msgid "The feature has been saved"
-msgstr "Das Feature wurde gespeichert"
+msgstr "Izmjena je sačuvana"
 
 #: Controller/FeaturesController.php:47;69
 msgid "The feature could not be saved. Please, try again."
-msgstr "Das Feature konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Izmejna nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/FeaturesController.php:93
 msgid "Feature deleted"
-msgstr "Feature gelöscht"
+msgstr "Izmjena obrisana"
 
 #: Controller/FeaturesController.php:96
 msgid "Feature was not deleted"
-msgstr "Feature wurde nicht gelöscht"
+msgstr "Izmjena nije sačuvan"
 
 #: Controller/KeysController.php:37;68;94
 msgid "Invalid key"
-msgstr "Ungültiger Schlüssel"
+msgstr "Nevažeći ključ"
 
 #: Controller/KeysController.php:51;72
 msgid "The key has been saved"
-msgstr "Der Schlüssel wurde gespeichert"
+msgstr "Ključ je sačuvan"
 
 #: Controller/KeysController.php:54;75
 msgid "The key could not be saved. Please, try again."
-msgstr "Der Schlüssel konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Kluč nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/KeysController.php:97
 msgid "Key deleted"
-msgstr "Schlüssel gelöscht"
+msgstr "Ključ je obrisan"
 
 #: Controller/KeysController.php:100
 msgid "Key was not deleted"
-msgstr "Schlüssel wurde nicht gelöscht"
+msgstr "Ključ nije obrisan"
 
 #: Controller/LimitsController.php:42;73;99
 msgid "Invalid limit"
-msgstr "Ungültiges Limit"
+msgstr "Neispravno ograničenje"
 
 #: Controller/LimitsController.php:56;77
 msgid "The limit has been saved"
-msgstr "Das Limit wurde gespeichert"
+msgstr "Ograničenje je sačuvano"
 
 #: Controller/LimitsController.php:59;80
 msgid "The limit could not be saved. Please, try again."
-msgstr "Das Limit konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Ograničenje nije sačuvano. Molimo pokušajte ponovo."
 
 #: Controller/LimitsController.php:102
 msgid "Limit deleted"
-msgstr "Limit gelöscht"
+msgstr "Ograničenje obrisano"
 
 #: Controller/LimitsController.php:105
 msgid "Limit was not deleted"
-msgstr "Limit wurde nicht gelöscht"
+msgstr "Ograničenje nije obrisano"
 
 #: Controller/LimitsController.php:202
 msgid "Your bandwidth was recalculated"
-msgstr "Ihre Bandbreite wurde neu berechnet"
+msgstr "Vaš protok je obnovljen"
 
 #: Controller/LimitsController.php:202
 msgid "No changes were made to your bandwidth limit."
-msgstr "Es wurden keine Änderungen an Ihrem Bandbreite Limit vorgenommen."
+msgstr "Nismo umanjili vaš protok."
 
 #: Controller/LimitsController.php:204
 msgid ""
 "You made %d downloads that can be counted on that month, totaling %d "
 "Megabytes. %s"
 msgstr ""
-"Sie haben %d Downloads, die auf diesem Monat gezählt werden können, "
-"insgesamt %d Megabytes. %s"
+"Imate %d preuzimanja koja mogu biti brojana u tom mjesecu, ukupno %d "
+"Megabajta. %s"
 
 #: Controller/MembershipsController.php:62;108;136
 msgid "Invalid membership"
-msgstr "Ungültige Mitgliedschaft"
+msgstr "Članski nalog nije ispravan"
 
 #: Controller/MembershipsController.php:87;112
 msgid "The membership has been saved"
-msgstr "Die Mitgliedschaft wurde gespeichert"
+msgstr "Članski nalog  je sačuvan"
 
 #: Controller/MembershipsController.php:90;115
 msgid "The membership could not be saved. Please, try again."
-msgstr ""
-"Die Mitgliedschaft konnte nicht gespeichert werden. Bitte erneut versuchen"
+msgstr "Članski nalog nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/MembershipsController.php:139
 msgid "Membership deleted"
-msgstr "Mitgliedschaft gelöscht"
+msgstr "Članski nalog je obrisan"
 
 #: Controller/MembershipsController.php:142
 msgid "Membership was not deleted"
-msgstr "Mitgliedschaft wurde nicht gelöscht"
+msgstr "Članski nalog nije obrisan"
 
 #: Controller/MessagesController.php:47;260;289;314
 msgid "Invalid message"
-msgstr "Ungültige Mitteilung"
+msgstr "Neispravna poruka"
 
 #: Controller/MessagesController.php:211;267
 msgid "The message could not be saved. Please, try again."
-msgstr ""
-"Die Mitteilung konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Poruka nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/MessagesController.php:264
 msgid "The message has been saved"
-msgstr "Die Mitteilung wurde gespeichert"
+msgstr "Poruka je sačuvana"
 
 #: Controller/MessagesController.php:292;321
 msgid "Message deleted"
-msgstr "Mitteilung gelöscht"
+msgstr "Poruka je obrisana"
 
 #: Controller/MessagesController.php:295;323
 msgid "Message was not deleted"
-msgstr "Mitteilung wurde nicht gelöscht"
+msgstr "Poruka nije obrisana"
 
 #: Controller/MetasController.php:32;63;89
 msgid "Invalid meta"
-msgstr "Ungültige Metadaten"
+msgstr "Nespravna meta"
 
 #: Controller/MetasController.php:46;67
 msgid "The meta has been saved"
-msgstr "Metadaten wurden gespeichert"
+msgstr "Meta je sačuvana"
 
 #: Controller/MetasController.php:49;70
 msgid "The meta could not be saved. Please, try again."
-msgstr "Metadaten konnten nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Meta nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/MetasController.php:92
 msgid "Meta deleted"
-msgstr "Metadaten gelöscht"
+msgstr "Meta je obriasana"
 
 #: Controller/MetasController.php:95
 msgid "Meta was not deleted"
-msgstr "Metadaten wurden nicht gelöscht"
+msgstr "Meta nije obrisana"
 
 #: Controller/NewsController.php:94;175;230
 msgid "Invalid news"
-msgstr "Ungültige Neuigkeiten"
+msgstr "Neispravna vijest"
 
 #: Controller/NewsController.php:155
 msgid "The news has been saved"
-msgstr "Die Neuigkeiten wurden gespeichert"
+msgstr "Vijest je sačuvana"
 
 #: Controller/NewsController.php:158;205
 msgid "The news could not be saved. Please, try again."
-msgstr ""
-"Die Neuigkeiten konnten nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Vijest nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/NewsController.php:202
 msgid "The news entry has been updated"
-msgstr "Der Neuigkeiten Eintrag wurde aktualisiert"
+msgstr "Vijest je ažurirana"
 
 #: Controller/NewsController.php:233
 msgid "News deleted"
-msgstr "Neuigkeiten gelöscht"
+msgstr "Vijest je obrisana"
 
 #: Controller/NewsController.php:236
 msgid "News was not deleted"
-msgstr "Neuigkeiten wurden nicht gelöscht"
+msgstr "Vijest nije obrisana"
 
 #: Controller/OptionsController.php:69;104;130
 msgid "Invalid option"
-msgstr "Ungültige Option"
+msgstr "Neispravna opcija"
 
 #: Controller/OptionsController.php:87;108
 msgid "The option has been saved"
-msgstr "Die Option wurde gespeichert"
+msgstr "Opcija je sačuvana"
 
 #: Controller/OptionsController.php:90
 msgid "The option could not be saved. Please, try again."
-msgstr "Die Option konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Opcija nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/OptionsController.php:111
 msgid "Error! The option could not be saved. Please, try again."
-msgstr ""
-"Fehler! Die Option konnte nicht gespechert werden. Bitte erneut versuchen."
+msgstr "Greška ! Opcija nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/OptionsController.php:133
 msgid "Option deleted"
-msgstr "Option gelöscht"
+msgstr "Opcija obrisana"
 
 #: Controller/OptionsController.php:136
 msgid "Error! The option was not deleted"
-msgstr "Fehler! Die Option wurde nicht gelöscht"
+msgstr "Greška ! Opcija nije obrisana"
 
 #: Controller/PagesController.php:119;125;130;181;212
 msgid "Invalid page"
-msgstr "Ungültige Seite"
+msgstr "Neispravna stranica"
 
 #: Controller/PagesController.php:147;185
 msgid "The page has been saved"
-msgstr "Die Seite wurde gespeichert"
+msgstr "Stranica je sačuvana"
 
 #: Controller/PagesController.php:150;188
 msgid "The page could not be saved. Please, try again."
-msgstr "Die Seite konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Stranica nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/PagesController.php:215
 msgid "Page deleted"
-msgstr "Seite gelöscht"
+msgstr "Stranica obrisana"
 
 #: Controller/PagesController.php:218
 msgid "Page was not deleted"
-msgstr "Seite wurde nicht gelöscht"
+msgstr "Stranica nije obrisana"
 
 #: Controller/PaymentsController.php:59;327
 msgid "Invalid payment"
-msgstr "Ungültige Bezahlung"
+msgstr "Neispravno plaćanje"
 
 #: Controller/PaymentsController.php:330
 msgid "Payment deleted"
-msgstr "Bezahlung gelöscht"
+msgstr "Plaćanje obrisano"
 
 #: Controller/PaymentsController.php:333
 msgid "Payment was not deleted"
-msgstr "Bezahlung wurde nicht gelöscht"
+msgstr "Plaćanje nije obrisano"
 
 #: Controller/PlansController.php:33;64;90;118;149;175
 msgid "Invalid plan"
-msgstr "Ungültiger Plan"
+msgstr "Plan nije ispravan"
 
 #: Controller/PlansController.php:47;68;132;153
 msgid "The plan has been saved"
-msgstr "Der Plan wurde gespeichert"
+msgstr "Plan je sačuvan"
 
 #: Controller/PlansController.php:50;71;135;156
 msgid "The plan could not be saved. Please, try again."
-msgstr "Der Plan konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Plan nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/PlansController.php:93;178
 msgid "Plan deleted"
-msgstr "Plan gelöscht"
+msgstr "Plan je obrisan"
 
 #: Controller/PlansController.php:96;181
 msgid "Plan was not deleted"
-msgstr "Plan nicht gelöscht"
+msgstr "Plan nije obrisan"
 
 #: Controller/ProfilesController.php:27;127;158;184
 msgid "Invalid profile"
-msgstr "Ungültiges Profil"
+msgstr "Profil nije ispravan"
 
 #: Controller/ProfilesController.php:84;141;162
 msgid "The profile has been saved"
-msgstr "Das Profil wurde gespeichert"
+msgstr "Profil je sačuvan"
 
 #: Controller/ProfilesController.php:86;144;165
 msgid "The profile could not be saved. Please, try again."
-msgstr "Das Profil konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Profil nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/ProfilesController.php:187
 msgid "Profile deleted"
-msgstr "Profil gelöscht"
+msgstr "Profil obrisan"
 
 #: Controller/ProfilesController.php:190
 msgid "Profile was not deleted"
-msgstr "Profil wurde nicht gelöscht"
+msgstr "Profil nije obrisan"
 
 #: Controller/QuestionsController.php:80;192;266;298;326
 msgid "Invalid question"
-msgstr "Ungültige Frage"
+msgstr "Neispravno pitanje"
 
 #: Controller/QuestionsController.php:172;210;280;302
 msgid "The question has been saved"
-msgstr "Die Frage wurde gespeichert"
+msgstr "Pitanje je sačuvano"
 
 #: Controller/QuestionsController.php:177;213;283;305
 msgid "The question could not be saved. Please, try again."
-msgstr "Die Frage konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Pitanje nije sačuvano. Molimo pokušajte ponovo."
 
 #: Controller/QuestionsController.php:329
 msgid "Question deleted"
-msgstr "Frage gelöscht"
+msgstr "Pitanje obrisano"
 
 #: Controller/QuestionsController.php:332
 msgid "Question was not deleted"
-msgstr "Frage wurde nicht gelöscht"
+msgstr "Pitanje nije obrisano"
 
 #: Controller/ReportsController.php:25;46
 msgid "Invalid address"
-msgstr "Ungültige Addresse"
+msgstr "Neispravna adresa"
 
 #: Controller/ReportsController.php:49;205;238;264
 msgid "Invalid report"
-msgstr "Ungültiger Report"
+msgstr "Neispravna prijava"
 
 #: Controller/ReportsController.php:242
 msgid "The report has been saved"
-msgstr "Der Report wurde gespeichert"
+msgstr "Prijava je sačuvana"
 
 #: Controller/ReportsController.php:245
 msgid "The report could not be saved. Please, try again."
-msgstr "Der Report wurde nicht gespeichert. Bitte erneut versuchen."
+msgstr "Prijava nije sačuvana. Molimo pokušajte ponovo."
 
 #: Controller/ReportsController.php:267
 msgid "Report deleted"
-msgstr "Report gelöscht"
+msgstr "Prijava obrisana"
 
 #: Controller/ReportsController.php:270
 msgid "Report was not deleted"
-msgstr "Report wurde nicht gelöscht"
+msgstr "Prijava nije obrisana"
 
 #: Controller/RequestsController.php:73;212;262;305;542;576;617
 msgid "Invalid request"
-msgstr "Ungültige Anfrage"
+msgstr "Zahtjev nije ispravan"
 
 #: Controller/RequestsController.php:179
 msgid "The request has been saved. Now upload some concept arts!"
-msgstr "Die Anfrage wurde gespeichert. Jetzt lade einige Concept Arts hoch!"
+msgstr "Zahtjev je sačuvan. Sada postavite neki umjetnički koncept !"
 
 #: Controller/RequestsController.php:184;232;559;584
 msgid "The request could not be saved. Please, try again."
-msgstr "Die Anfrage konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Zahtjev nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/RequestsController.php:229;556;581
 msgid "The request has been saved"
-msgstr "Die Anfrage wurde gespeichert"
+msgstr "Zahtjev je sačuvan"
 
 #: Controller/RequestsController.php:620
 msgid "Request deleted"
-msgstr "Anfrage gelöscht"
+msgstr "Zahtjev je obrisan"
 
 #: Controller/RequestsController.php:623
 msgid "Request was not deleted"
-msgstr "Anfrage wurde nicht gelöscht"
+msgstr "Zahtjev nije obrisan"
 
 #: Controller/ResponsesController.php:34;69;100
 msgid "Invalid response"
-msgstr "Ungültige Antwort"
+msgstr "Odgovor nije ispravan"
 
 #: Controller/ResponsesController.php:48;73
 msgid "The response has been saved"
-msgstr "Die Antwort wurde gespeichert"
+msgstr "Odgovor je sačuvan"
 
 #: Controller/ResponsesController.php:51;76
 msgid "The response could not be saved. Please, try again."
-msgstr "Die Antwort konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Odgovor nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/ResponsesController.php:103
 msgid "Response deleted"
-msgstr "Antwort gelöscht"
+msgstr "Odgovor je obrisan"
 
 #: Controller/ResponsesController.php:106
 msgid "Response was not deleted"
-msgstr "Antwort wurde nicht gelöscht"
+msgstr "Odgovor nije obrisan"
 
+# sub ???
 #: Controller/SubsController.php:40;71;97
 msgid "Invalid sub"
-msgstr "Ungültiger Untertitel"
+msgstr "Zahtjev nije ispravan"
 
+# sub
 #: Controller/SubsController.php:54;75
 msgid "The sub has been saved"
-msgstr "Untertitel wurde gespeichert"
+msgstr "Zahtjev je sačuvan"
 
 #: Controller/SubsController.php:57;78
 msgid "The sub could not be saved. Please, try again."
-msgstr "Untertitel konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Zahtjev nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/SubsController.php:100
 msgid "Sub deleted"
-msgstr "Untertitel gelöscht"
+msgstr "Zahtjev je obrisan"
 
 #: Controller/SubsController.php:103
 msgid "Sub was not deleted"
-msgstr "Untertitel wurde nicht gelöscht"
+msgstr "Zahtjev nije obrisan"
 
 #: Controller/SubsController.php:115
 msgid "Subscription dispatch started, but not finished."
-msgstr "Abonnement senden gestartet, jedoch noch nicht fertig."
+msgstr "Praćenje rada započeto, ali ne i završeno."
 
 #: Controller/SubsController.php:179 View/Elements/bars/blend_actions.ctp:41
 #: View/Elements/bars/news_actions.ctp:24
 #: View/Elements/bars/request_actions.ctp:58
 msgid "Unfollow"
-msgstr "Nicht mehr Verfolgen"
+msgstr "Ne prati više"
 
 #: Controller/SubsController.php:184
 msgid "You are now following %s"
-msgstr "Sie folgen nicht %s"
+msgstr "Ti sada pratiš %"
 
 #: Controller/SubsController.php:191
 msgid "You are again following %s"
-msgstr "Sie folgen wieder %s"
+msgstr "Ti opet pratiš %"
 
 #: Controller/SubsController.php:197
 msgid "You are already following %s"
-msgstr "Sie foglen bereits %s"
+msgstr "Već pratiš %"
 
 #: Controller/SubsController.php:204 View/Elements/bars/blend_actions.ctp:34
 #: View/Elements/bars/news_actions.ctp:31
 #: View/Elements/bars/request_actions.ctp:50
 msgid "Follow"
-msgstr "Verfolgen"
+msgstr "Prati"
 
 #: Controller/SubsController.php:208
 msgid "Hey! it doesn't seem you're following %s"
-msgstr "Hey! Anscheinend folgen Sie %s nicht"
+msgstr "Hej ! Ne izgleda da pratiš %"
 
 #: Controller/SubsController.php:214
 msgid "You are no longer following %s"
-msgstr "Sie folgen nicht länger %s"
+msgstr "Više ne pratiš %"
 
 #: Controller/SubsController.php:219
 msgid ""
 "There was a problem processing your request, try again and report if the "
 "rror repeats."
 msgstr ""
-"Es gab ein Problem beim bearbeiten Ihrer Anfrage. Versuchen Sie es erneut "
-"und berichten Sie, falls der Fehler erneut auftaucht."
+"Došlo je do problema u obradi vašeg zahtjeva, pokušajte ponovo i prijavite "
+"grešku ako se ponovi."
 
 #: Controller/SubsController.php:226
 msgid ""
 "You're not even following this entry, please let us know that you saw this "
 "message and we will try to fix this bug."
 msgstr ""
-"Sie folgen nichteinmal diesem Eintrag, bitte lassen Sie es uns wissen, dass "
-"Sie diese Nachricht bekamen und wir werden den Fehler beheben"
+"Vi ni ne pratite ovaj unos, molimo javite nam da ste vidjeli ovu poruku a mi "
+"ćemo pokušati popraviti grešku."
 
 #: Controller/SubsController.php:232
 msgid "Looks like you're trying to follow yourself, but that's not allowed."
-msgstr "Anscheinend wollen Sie sich selbst folgen, aber das ist nicht erlaubt."
+msgstr "Izgleda da pokušavate da pratite sami sebe, ali to nije dozvoljeno."
 
 #: Controller/TermsController.php:35
 msgid "Blend Categories"
-msgstr "Blend Kategorien"
+msgstr "Blend kategorije"
 
 #: Controller/TermsController.php:47
 msgid "Invalid category name, these are the ones available."
-msgstr "Ungültiger Kategorie-Name, dies sind die Verfügbaren."
+msgstr "Neispravno ime za kategoriju, samo su ovi dostupni."
 
 #: Controller/TermsController.php:95
 msgid "Category: %s"
-msgstr "Kategorie: %s"
+msgstr "Kategorija: %"
 
 #: Controller/TermsController.php:130
 msgid "Tag: %s"
-msgstr "Tag: %s"
+msgstr "Tag: "
 
 #: Controller/UserbadgesController.php:29;60;86
 msgid "Invalid userbadge"
-msgstr "Ungültiges Benutzer-Abzeichen"
+msgstr "Korisnički bedž nije ispravan"
 
 #: Controller/UserbadgesController.php:43;64
 msgid "The userbadge has been saved"
-msgstr "Das Benutzer-Abzeichen wurde gespeichert"
+msgstr "Korisnički bedž je sačuvan."
 
 #: Controller/UserbadgesController.php:46;67
 msgid "The userbadge could not be saved. Please, try again."
-msgstr ""
-"Das Benutzer-Abzeichen konnte nicht gespeichert werden. Bitte erneut "
-"versuchen."
+msgstr "Korisnički bedž nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/UserbadgesController.php:89
 msgid "Userbadge deleted"
-msgstr "Benutzer-Abzeichen gelöscht"
+msgstr "Korisnički bedž je obrisan"
 
 #: Controller/UserbadgesController.php:92
 msgid "Userbadge was not deleted"
-msgstr "Benutzer-Abzeichen wurde nicht gelöscht"
+msgstr "Korisnički bedž nije obrisan"
 
 #: Controller/UsersController.php:161;163
 msgid "This user does not exist on Blend Swap."
-msgstr "Dieser Benutzer existiert nicht auf Blend Swap."
+msgstr "Ovaj korisnik nepostoji na Blend Swap-u."
 
 #: Controller/UsersController.php:325;1504;1536;1563
 msgid "Invalid user"
-msgstr "Ungültiger Benutzer"
+msgstr "Korisnik nije ispravan"
 
 #: Controller/UsersController.php:349
 msgid "Account and settings saved"
-msgstr "Account und Einstellungen gespeichert"
+msgstr "Nalog i podešavanja sačuvani"
 
 #: Controller/UsersController.php:364
 msgid ""
 "The setting could not be saved. Please review the rrors below and try again."
-msgstr ""
-"Die Einstellungen konnten nicht gespeichert werden. Bitte überprüfen Sie "
-"unten die Fehlermeldungen und versuchen es erneut."
+msgstr "Podešavanja nisu sačuvana. Molimo ispravite greške i pokušajte ponovo."
 
 #: Controller/UsersController.php:397
 msgid "Your username was changed. you must use it to log in from now on."
 msgstr ""
-"Ihr Benutzername wurde geändert. Sie müssen diesen von nun an benutzen zum "
-"einloggen."
+"Tvoje korisničko ime je promijenjeno. Koristiti ga u buduće prilikom "
+"prijavljivanja."
 
 #: Controller/UsersController.php:404
 msgid "The username you enteres is not valid, please check the rules again."
 msgstr ""
-"Ihr eingegebener Benutzername ist ungültig. Butte überprüfen Sie die Regeln "
-"erneut."
+"Korisničko ime koje ste unijeli nije ispravno, molimo probajte neko drugo."
 
 #: Controller/UsersController.php:501;616
 msgid "Captcha was incorrect please try again."
-msgstr "Das Captcha war falsch. Bitte erneut versuchen."
+msgstr "Capcha je neispravna probajte ponovo."
 
 #: Controller/UsersController.php:542
 msgid ""
 "There was a problem sending your verification email. please contact the "
 "admins with your username and email so they can activate your account!"
 msgstr ""
-"Es gab ein Problem beim senden Ihrer Verifikation Email. Bitte kontaktieren "
-"Sie die Admins mit ihrem Benutzername und Ihrer Email, damit Sie Ihren "
-"Account aktivieren können."
+"Došlo je do problema prilikom slanja verifikacionog email-a. Kontaktirajte "
+"admina sa svojim korisničkim imenom i e-mail-om, tako da možete da "
+"aktivirate svoj nalog!"
 
 #: Controller/UsersController.php:562
 msgid ""
 "The data entered did not validate, so the account was not created. Please "
 "correct the errors marked in red below, re-enter your password and try again."
 msgstr ""
-"Die eingegebenen Daten sind ungültig, also wurde der Account nicht erstellt. "
-"Bitte  korrigieren Sie die unten rot markierten Fehler, geben Sie erneut Ihr "
-"Passwort ein und versuchen es erneut."
+"Unjeti podaci nisu ispravni, tako da nalog nije napravljen. Ispravite greške "
+"označene crvenom bojom ispod, unesite vašu lozinku i pokušajte ponovo."
 
 #: Controller/UsersController.php:1519;1541
 msgid "The user has been saved"
-msgstr "Der Benutzer wurde gespeichert"
+msgstr "Korisnik je sačuvan"
 
 #: Controller/UsersController.php:1522;1544
 msgid "The user could not be saved. Please, try again."
-msgstr "Der Benutzer konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Korisnik nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/UsersController.php:1566
 msgid "User deleted"
-msgstr "Benutzer gelöscht"
+msgstr "Korisink je obrisan"
 
 #: Controller/UsersController.php:1569
 msgid "User was not deleted"
-msgstr "Benutzer wurde nicht gelöscht"
+msgstr "Korisnik nije obrisan"
 
 #: Controller/UsersController.php:1895
 msgid "Error while saving your account."
-msgstr "Fehler beim Speichern Ihres Kontos."
+msgstr "Dogodila se greška prilikom čuvanja vašeg naloga."
 
 #: Controller/UsersController.php:1945
 msgid "You just recovered %d likes from Blend Swap 4!"
-msgstr "Sie haben %d Likes von Blend Swap 4 erhalten!"
+msgstr "Upravo ste primili %d sviđanja sa Blend Swap(a) 4"
 
 #: Controller/UsersController.php:1947
 msgid ""
@@ -1024,34 +1013,33 @@ msgid ""
 "you are already well setup for adding likes. If this is an error, please "
 "report it!"
 msgstr ""
-"Wir konnten keine alten Likes von Blend Swap 4 für Sie finden. So wie es "
-"aussieht sind Sie bereits gut vorbereitet um Likes hinzuzufügen. Wenn dies "
-"ein Fehler ist, melden Sie dies bitte!"
+"Nismo pronašli nijedno sviđanje sa Blend Swap(a) 4 za Vas, to znači da je "
+"sve dobro podešeno za nova sviđanja. Ako je ovo greška, molimo prijavite "
+"nam !"
 
 #: Controller/VotesController.php:107;175;196
 msgid "The vote has been saved"
-msgstr "Die Abstimmung wurde gespeichert"
+msgstr "Vaš glas je sačuvan"
 
 #: Controller/VotesController.php:110;178;199
 msgid "The vote could not be saved. Please, try again."
-msgstr ""
-"Die Abstimmung konnte nicht gespeichert werden. Bitte erneut versuchen."
+msgstr "Vaš glas nije sačuvan. Molimo pokušajte ponovo."
 
 #: Controller/VotesController.php:161;192;218
 msgid "Invalid vote"
-msgstr "Ungültige Abstimmung"
+msgstr "Glas nije ispravan"
 
 #: Controller/VotesController.php:221
 msgid "Vote deleted"
-msgstr "Abstimmung gelöscht"
+msgstr "Glas je obrisan"
 
 #: Controller/VotesController.php:224
 msgid "Vote was not deleted"
-msgstr "Abstimmung wurde nicht gelöscht"
+msgstr "Glas nije obrisan"
 
 #: View/Answers/admin_add.ctp:4
 msgid "Admin Add Response"
-msgstr "Antwort hinzufügen (Admin)"
+msgstr "Admin dodavanje odgovora"
 
 #: View/Answers/admin_add.ctp:11 View/Answers/admin_edit.ctp:12
 #: View/Blends/admin_add.ctp:27 View/Blends/admin_edit.ctp:60
@@ -1072,7 +1060,7 @@ msgstr "Antwort hinzufügen (Admin)"
 #: View/Requests/edit.ctp:42 View/Users/account.ctp:31
 #: View/Users/admin_add.ctp:25 View/Users/admin_edit.ctp:26
 msgid "Submit"
-msgstr "einreichen"
+msgstr "Pošalji"
 
 #: View/Answers/admin_add.ctp:14 View/Answers/admin_edit.ctp:15
 #: View/Answers/admin_index.ctp:11;50 View/Answers/admin_view.ctp:37
@@ -1106,11 +1094,11 @@ msgstr "einreichen"
 #: View/Requests/admin_view.ctp:42;65 View/Users/account.ctp:34
 #: View/Users/admin_index.ctp:28;79 View/Users/admin_view.ctp:229
 msgid "Actions"
-msgstr "Aktionen"
+msgstr "Akcije"
 
 #: View/Answers/admin_edit.ctp:4
 msgid "Admin Edit Response"
-msgstr "Antwort bearbeiten (Admin)"
+msgstr "Admin izmjena odgovora"
 
 #: View/Answers/admin_edit.ctp:18 View/Answers/admin_index.ctp:29
 #: View/Blends/admin_index.ctp:56
@@ -1130,7 +1118,7 @@ msgstr "Antwort bearbeiten (Admin)"
 #: View/Requests/admin_view.ctp:80 View/Users/account.ctp:37
 #: View/Users/admin_index.ctp:58
 msgid "Delete"
-msgstr "löschen"
+msgstr "Obriši"
 
 #: View/Answers/admin_edit.ctp:18 View/Answers/admin_index.ctp:29
 #: View/Answers/admin_view.ctp:40 View/Blends/admin_edit.ctp:67
@@ -1157,12 +1145,12 @@ msgstr "löschen"
 #: View/Requests/admin_view.ctp:45;80 View/Users/account.ctp:37
 #: View/Users/admin_index.ctp:58 View/Users/admin_view.ctp:232
 msgid "Are you sure you want to delete # %s?"
-msgstr "Sind sie sicher, dass Sie  # %s löschen wollen?"
+msgstr "Siguran si da želiš da obrišeš # % ?"
 
 #: View/Answers/admin_index.ctp:2 View/Requests/index.ctp:32
 #: View/Requests/view.ctp:51
 msgid "Responses"
-msgstr "Antworten"
+msgstr "Odgovori"
 
 #: View/Answers/admin_index.ctp:27 View/Blends/admin_index.ctp:54
 #: View/Blends/admin_view.ctp:181;216;279;314;355
@@ -1175,7 +1163,7 @@ msgstr "Antworten"
 #: View/Reports/admin_index.ctp:39 View/Requests/admin_index.ctp:33
 #: View/Requests/admin_view.ctp:78 View/Users/admin_index.ctp:56
 msgid "View"
-msgstr "zeigen"
+msgstr "Pogledaj"
 
 #: View/Answers/admin_index.ctp:28 View/Blends/admin_index.ctp:55
 #: View/Blends/admin_view.ctp:182;217;280;315;356 View/Blends/edit.ctp:3
@@ -1189,7 +1177,7 @@ msgstr "zeigen"
 #: View/Reports/admin_index.ctp:40 View/Requests/admin_index.ctp:34
 #: View/Requests/admin_view.ctp:79 View/Users/admin_index.ctp:57
 msgid "Edit"
-msgstr "bearbeiten"
+msgstr "Izmijeni"
 
 #: View/Answers/admin_index.ctp:37 View/Blends/admin_index.ctp:64
 #: View/Blends/search.ctp:103 View/Blends/user.ctp:30 View/Chats/index.ctp:25
@@ -1205,7 +1193,9 @@ msgstr "bearbeiten"
 #: View/Requests/index.ctp:49 View/Users/admin_index.ctp:66
 #: View/Users/featured.ctp:53
 msgid "Page {:page} of {:pages}, showing {:current} out of {:count} total."
-msgstr "Seite {:page} von {:pages}, zeigt {:current} von {:count} insgesamt."
+msgstr ""
+"Strana {:page} od {:pages}, prikazano {:current} od ukupno {:count} strane(a)"
+"ca."
 
 #: View/Answers/admin_index.ctp:43 View/Blends/admin_index.ctp:71
 #: View/Blends/index.ctp:29 View/Blends/search.ctp:109 View/Blends/user.ctp:36
@@ -1224,7 +1214,7 @@ msgstr "Seite {:page} von {:pages}, zeigt {:current} von {:count} insgesamt."
 #: View/Users/featured.ctp:60 View/Users/search.ctp:100
 #: View/Users/stats.ctp:43
 msgid "previous"
-msgstr "zurück"
+msgstr "predodna"
 
 #: View/Answers/admin_index.ctp:45 View/Blends/admin_index.ctp:73
 #: View/Blends/index.ctp:31 View/Blends/search.ctp:111 View/Blends/user.ctp:38
@@ -1243,17 +1233,17 @@ msgstr "zurück"
 #: View/Users/featured.ctp:62 View/Users/search.ctp:102
 #: View/Users/stats.ctp:45
 msgid "next"
-msgstr "nächste"
+msgstr "sledeća"
 
 #: View/Answers/admin_index.ctp:52 View/Answers/admin_view.ctp:42
 #: View/Requests/admin_add.ctp:22 View/Requests/admin_edit.ctp:25
 #: View/Requests/admin_index.ctp:62 View/Requests/admin_view.ctp:51;89
 msgid "New Response"
-msgstr "Neue Antwort"
+msgstr "Novi odgovor"
 
 #: View/Answers/admin_view.ctp:2
 msgid "Response"
-msgstr "Antwort"
+msgstr "Odgovor"
 
 #: View/Answers/admin_view.ctp:4
 #: View/Blends/admin_view.ctp:4;142;201;236;299;334
@@ -1263,7 +1253,7 @@ msgstr "Antwort"
 #: View/Questions/admin_view.ctp:4 View/Reports/view.ctp:4
 #: View/Requests/admin_view.ctp:4;59
 msgid "Id"
-msgstr "ID"
+msgstr "Id"
 
 #: View/Answers/admin_view.ctp:9 View/Blends/admin_view.ctp:59;155;237;338
 #: View/Comments/admin_view.ctp:29 View/Feedbacks/admin_view.ctp:69
@@ -1271,7 +1261,7 @@ msgstr "ID"
 #: View/Profiles/admin_view.ctp:29 View/Questions/admin_view.ctp:9
 #: View/Reports/view.ctp:9 View/Requests/admin_view.ctp:9;60
 msgid "Created"
-msgstr "erstellt"
+msgstr "Kreiran"
 
 #: View/Answers/admin_view.ctp:14 View/Blends/admin_view.ctp:64;156;238;339
 #: View/Comments/admin_view.ctp:34 View/Feedbacks/admin_view.ctp:74
@@ -1279,17 +1269,17 @@ msgstr "erstellt"
 #: View/Profiles/admin_view.ctp:34 View/Questions/admin_view.ctp:14
 #: View/Reports/view.ctp:14 View/Requests/admin_view.ctp:14;61
 msgid "Modified"
-msgstr "geändert"
+msgstr "Izmijenjen"
 
 #: View/Answers/admin_view.ctp:19 View/Blends/admin_view.ctp:9
 #: View/Comments/admin_view.ctp:69 View/Feedbacks/admin_view.ctp:14
 #: View/Requests/admin_view.ctp:19 View/Users/admin_view.ctp:2
 msgid "User"
-msgstr "Benutzer"
+msgstr "Korisnik"
 
 #: View/Answers/admin_view.ctp:24 View/Requests/admin_view.ctp:2
 msgid "Request"
-msgstr "Anfrage"
+msgstr "Zahtjev"
 
 #: View/Answers/admin_view.ctp:29 View/Blends/admin_view.ctp:29;151
 #: View/Comments/admin_view.ctp:49 View/Feedbacks/admin_view.ctp:49
@@ -1300,27 +1290,27 @@ msgstr "Status"
 
 #: View/Answers/admin_view.ctp:39
 msgid "Edit Response"
-msgstr "Antwort bearbeiten"
+msgstr "Izmijeni odgovor"
 
 #: View/Answers/admin_view.ctp:40
 msgid "Delete Response"
-msgstr "Antwort löschen"
+msgstr "Obriši odgovor"
 
 #: View/App/home.ctp:20 View/Blends/user.ctp:2 View/Questions/index.ctp:19
 #: View/Questions/view.ctp:10
 msgid "by"
-msgstr "von"
+msgstr "autor"
 
 #: View/App/home.ctp:33
 msgid "and counting"
-msgstr "und zunehmend mehr"
+msgstr "i brojanje"
 
 #: View/App/home.ctp:37
 msgid ""
 "We're the one place for Free 3D assets by Blender users for Blender users."
 msgstr ""
-"Wir sind die einzig wahre Seite für Kostenlose 3D Assets von Blender "
-"Benutzer für Blender Benutzer."
+"Mi smo jedno mijesto za besolatne 3D radove od Blender korisnika za Blender "
+"korisnike."
 
 #: View/App/home.ctp:40
 msgid ""
@@ -1328,158 +1318,161 @@ msgid ""
 "building the greatest Blender based 3D assets library, all free for personal "
 "and commercial use."
 msgstr ""
-"Blend Swap ist eine stolze Gemeinschaft von 3D-Künstler die ihre Werke "
-"teilen und damit die größte Blender basierte 3D Asset Bibliothek augbauen. "
-"Alles kostenlos für persönlichen und kommerziellen Gebrauch."
+"Blend Swap je ponosna zajednica 3D umjetnika koji dijele svoj rad i "
+"učestvuju u izgradnji najveće Blender 3D zajednice radova, sve je besplatno "
+"za privatnu i komercionalnu upotrebu."
 
 #: View/App/home.ctp:43
 msgid "Joins us now and get instant access!"
-msgstr "Schließen Sie sich uns jetzt an und erhalten Sie sofortigen Zugang!"
+msgstr "Pridruži nam se i imat ćeš trenutni pristuš!"
 
 #: View/App/home.ctp:47
 msgid "Check out the features"
-msgstr "Schauen Sie sich die Features an"
+msgstr "Pogledajte karakteristike"
 
 #: View/App/home.ctp:50 View/Users/m_login.ctp:15
 msgid "Register now"
-msgstr "Jetzt registrieren"
+msgstr "Registruj se"
 
 #: View/App/home.ctp:53 View/Layouts/frontend.ctp:238
 msgid "Log in"
-msgstr "Einloggen"
+msgstr "Prijavi se"
 
 #: View/App/home.ctp:63
 msgid "Quick limited access for everybody."
-msgstr "Schneller eingeschränkter Zugriff für jeden."
+msgstr "Brzi ograničen pristup za sve"
 
 #: View/App/home.ctp:66
 msgid "Free forever"
-msgstr "für immer kostenlos"
+msgstr "Besplatno zauvijek"
 
 #: View/App/home.ctp:67
 msgid "Download 200 Megabytes a month"
-msgstr "Downloaden Sie 200 Megabytes im Monat"
+msgstr "Preuzmite 200 Megabajta mjesečno"
 
 #: View/App/home.ctp:68;85
 msgid "Upload your original creations any time"
-msgstr "Uploaden Sie eigene Kreationen jeder Zeit"
+msgstr "Dodajte vaš rad bilo kada"
 
 #: View/App/home.ctp:69
 msgid "One public Blend Collection"
-msgstr "Eine öffentliche Blend Sammlung"
+msgstr "Jedna javna blend kolekcija"
 
 #: View/App/home.ctp:70
 msgid "Message, comment, rate and like."
-msgstr "Anschreiben, kommentieren, bewerten und liken."
+msgstr "Poruka, komentar, ocjena i sviđanje."
 
 #: View/App/home.ctp:71;88
 msgid "Follow Blends, Requests, and Users"
-msgstr "Folge Blends, Anfragen und Benutzern"
+msgstr "Prati blend radove, zahtjeve i korisnike"
 
 #: View/App/home.ctp:72
 msgid "Open One Request a Month (Swappers)"
-msgstr "Öffnen Sie eine Anfrage pro Monat (Swappers)"
+msgstr "Otvori jedan zahtjev mjesečno (Swappers)"
 
+# Associates - saradnici, označeni
 #: View/App/home.ctp:77
 msgid "Associate Account"
-msgstr "Fördermitglied Account"
+msgstr "Saradnički nalog"
 
 #: View/App/home.ctp:80
 msgid "Enhanced and dedicated power features!"
-msgstr "Verbesserte und engagierte Power-Features!"
+msgstr "Poboljšane karakteristike  i posvećene energije!"
 
 #: View/App/home.ctp:83
 msgid "Paid subscription of $10/month or $80/year"
-msgstr "Kostenpflichtige Abonnement für $ 10 pro Monat oder $ 80 pro Jahr"
+msgstr "Plaćena predplata od 10$ mjesečno ili 80$ godišnje"
 
 #: View/App/home.ctp:84
 msgid "Download all the assets you want!"
-msgstr "Downloaden Sie alle Assets die Sie wollen!"
+msgstr "Preuzmite sve radove koje želite!"
 
 #: View/App/home.ctp:86
 msgid "Unlimited & Private Blend Collections"
-msgstr "Unbegrenzt & Private Blend Sammlungen"
+msgstr "Neograničena & privatna kolekcije blend fajlova"
 
 #: View/App/home.ctp:87
 msgid "Message, comment, rate and like"
-msgstr "Anschreiben, kommentieren, bewerten und liken"
+msgstr "Poruka, komentar, ocjena i sviđanje"
 
 #: View/App/home.ctp:89
 msgid "Lightboxed full size previews"
-msgstr "Lightboxed Vorschau in voller Größe"
+msgstr "Lightboxed pune veličine prikaz"
 
 #: View/App/home.ctp:90
 msgid "Open Unlimited Blend Requests"
-msgstr "Eröffnen Sie Unbegrenzt viele Blend Anfragen"
+msgstr "Otvoreni neograničeni Blend zahtjevi"
 
 #: View/App/home.ctp:91
 msgid "Advanced Search filters"
-msgstr "Erweiterte Suche Filter"
+msgstr "Dodatn filteri za pretragu"
 
 #: View/App/home.ctp:92
 msgid "Portfolio Gallery"
-msgstr "Portfoliogalerie"
+msgstr "Portfolio galerija"
 
+# Associate ???
 #: View/App/home.ctp:93
 msgid "Associate Badge in comments"
-msgstr "Fördermitglied Abzeichen in den Kommentaren"
+msgstr "Saradnički bedž u komentarima"
 
 #: View/App/home.ctp:94
 msgid "For Hire Badge in profile and comments"
-msgstr "Zum Anheuern Abzeichen im Profil und Kommentaren"
+msgstr "Bedž zaposli me u profilu i komentari"
 
 #: View/App/home.ctp:95
 msgid "Advanced blend and profile stats"
-msgstr "Erweiterte Blend und Profil Statistiken"
+msgstr "Napredni blend i profil status"
 
 #: View/App/home.ctp:96
 msgid "More social media fields to link to"
-msgstr "Weitere Social Media Felder zum verlinken"
+msgstr "Dodatna polja za linkove društvenih medija"
 
 #: View/App/home.ctp:97
 msgid "Up to 60 blends per page"
-msgstr "Bis zu 60 Blends pro Seite"
+msgstr "Do 60 blend fajlova po stranici"
 
 #: View/App/home.ctp:105 View/Elements/menus/topMenu.ctp:315
 msgid "Register Now"
-msgstr "Jetzt registrieren"
+msgstr "Registruj se sad"
 
 #: View/Blends/add.ctp:2
 msgid "Upload a new Blend"
-msgstr "Eine neue Blend hochladen"
+msgstr "Dodaj novi blend fajl"
 
 #: View/Blends/add.ctp:3 View/Elements/menus/topMenu.ctp:17;19
 msgid "Upload New Blend"
-msgstr "Neue Blend hochladen"
+msgstr "Dodaj novi blend fajl"
 
 #: View/Blends/add.ctp:40 View/Users/edit.ctp:14
 msgid "Basic Data"
-msgstr "Basis Daten"
+msgstr "Osnovni podaci"
 
 #: View/Blends/add.ctp:45 View/Blends/edit.ctp:12
 msgid "Blend Name"
-msgstr "Blend Name"
+msgstr "Blend ime"
 
 #: View/Blends/add.ctp:46 View/Blends/edit.ctp:13
 #: View/Options/admin_view.ctp:19
 msgid "Description"
-msgstr "Beschreibung"
+msgstr "Opis"
 
+# Provjeriti
 #: View/Blends/add.ctp:46 View/Blends/edit.ctp:13
 msgid "%d characters long min."
-msgstr "Mindestens %d Zeichen lang"
+msgstr "% min dužina karaktera."
 
 #: View/Blends/add.ctp:47 View/Blends/edit.ctp:14
 msgid "3D Preview URL"
-msgstr "3D Vorschau URL"
+msgstr "URL za prikaz u 3D"
 
 #: View/Blends/add.ctp:47 View/Blends/edit.ctp:14
 msgid "Optional"
-msgstr "optional"
+msgstr "Opciono"
 
 #: View/Blends/add.ctp:47 View/Blends/edit.ctp:14
 msgid "Supports any %s or %s"
-msgstr "Unterstützt alle %s oder %s"
+msgstr "Podržava svaki % ili %"
 
 #: View/Blends/add.ctp:48 View/Elements/navs/taxonomies.ctp:36
 #: View/Questions/index.ctp:35 View/Questions/view.ctp:19
@@ -1488,201 +1481,203 @@ msgstr "Tags"
 
 #: View/Blends/add.ctp:48
 msgid "Separated by commas"
-msgstr "Durch Kommas getrennt"
+msgstr "Odvojite zarezima"
 
 #: View/Blends/add.ctp:52 View/Blends/admin_view.ctp:49
 #: View/Blends/edit.ctp:19
 msgid "Blender Version"
-msgstr "Blender Version"
+msgstr "Blender verzija"
 
 #: View/Blends/add.ctp:53
 msgid "Choose the blender version this blend was created with"
-msgstr ""
-"Wählen Sie die Blender Version, welche für diese Blend verwendet wurde."
+msgstr "Odaberi verziju blendera u kojoj je ovaj fajl kreiran"
 
 #: View/Blends/add.ctp:73 View/Blends/edit.ctp:41
 msgid "Fan Art"
-msgstr "Fan Art"
+msgstr "Zabavna umjetnost"
 
 #: View/Blends/add.ctp:74 View/Blends/edit.ctp:42
 msgid ""
 "Check yes if your blend features third party company logos, designs, or TV/"
 "Game/Movie characters"
 msgstr ""
-"Aktivieren Sie Ja, wenn Ihre Blend Firmenlogos, TV/Spiel oder Film "
-"Charaktere von Drittanbietern beinhaltet"
+"Označi da ako tvoj blend fajl sadrži logo kompanije, lik iz filma, tv(a) ili "
+"igrice"
 
 #: View/Blends/add.ctp:76
 msgid "No"
-msgstr "Nein"
+msgstr "Ne"
 
 #: View/Blends/add.ctp:76
 msgid "Yes"
-msgstr "Ja"
+msgstr "Da"
 
 #: View/Blends/add.ctp:82
 msgid "Learn more about %s licenses and how they affect you"
-msgstr "Mehr über %s Lizenz erfahren und ihre Auswirkungen auf Sie."
+msgstr "Pročitaj više o $s licenci i kako ona utiče na tebe"
 
 #: View/Blends/add.ctp:88
 msgid ""
 "I waive all my copyright of this blend and place it in the Public Domain"
 msgstr ""
-"Ich verzichte auf alle meine Urheberrechte dieser Blend und lege Sie sie in "
-"die öffentliche Domain"
+"Odričem se svih mojih prava nad ovim blend fajlom i stavljam ga u slobodnu "
+"upotrebu"
 
 #: View/Blends/add.ctp:89
 msgid ""
 "Users can do whatever they want with this blend, but they must give me credit"
 msgstr ""
-"Benutzer können tun was sie wollen mit dieser Blend, aber sie müssen den "
-"Autor benennen"
+"Korisnici mogu da rade šta hoće sa ovim blend radom, ali me moraju navesti "
+"kao autora"
 
 #: View/Blends/add.ctp:90
 msgid ""
 "Same as CC-BY, but users must also release their derivates under CC-BY-SA"
 msgstr ""
-"Wie CC-BY, aber die Nutzer müssen auch Ableitungen dieses Realeses unter CC-"
-"BY-SA verbreiten."
+"Ista kao i CC-BY, ali korisnici moraju da objave nihove izmjene pod CC-BY-SA"
 
 #: View/Blends/add.ctp:96 View/Blends/edit.ctp:51
 #: View/Elements/menus/topMenu.ctp:65 View/Elements/navs/taxonomies.ctp:4
 msgid "Categories"
-msgstr "Kategorien"
+msgstr "Kategorije"
 
 #: View/Blends/add.ctp:100 View/Blends/edit.ctp:55
 msgid "Chose at least 1, and up to 4 categories"
-msgstr "Wählen Sie wenigstens 1 und bis zu 4 Kategorien"
+msgstr "Odaberite minimalno 1-nu kategoriju, max dozvoljene su 4"
 
 #: View/Blends/add.ctp:121
 msgid "Files"
-msgstr "Dateien"
+msgstr "Fajlovi"
 
 #: View/Blends/add.ctp:124
 msgid "Blend File"
-msgstr "Blend Datei"
+msgstr "Blend fajl"
 
 #: View/Blends/add.ctp:124;146
 msgid "or"
-msgstr "oder"
+msgstr "ili"
 
 #: View/Blends/add.ctp:125
 msgid "Learn more about"
-msgstr "Mehr darüber erfahren"
+msgstr "Saznaj više o"
 
 #: View/Blends/add.ctp:127
 msgid "File Management"
-msgstr "Datei Verwaltung"
+msgstr "Menadžer fajlova"
 
 #: View/Blends/add.ctp:130
 msgid "Rar compression is not allowed"
-msgstr "RAR Komprimierung ist nicht erlaubt"
+msgstr "Rar kompresija nije dozvoljena"
 
 #: View/Blends/add.ctp:139;155
 msgid "Something failed above, you will have to re-select this file"
-msgstr "Etwas ist oben fehlgeschlagen. Sie müssen diese Datei erneut auswählen"
+msgstr "Nešto nije uspjelo, moraćete ponovo da odberete ovaj fajl"
 
 #: View/Blends/add.ctp:146
 msgid "Image"
-msgstr "Bild"
+msgstr "Slika"
 
 #: View/Blends/add.ctp:147
 msgid "Recommended: SQUARE, PNG, 1024px wide, object centered"
-msgstr "Empfohlen: Quadrat, PNG, 1024 Pixel breit, Objekt zentriert."
+msgstr ""
+"Preporučljivo : Kvadratan prikaz, PNG, 1204px širine, objekat centriran"
 
 #: View/Blends/add.ctp:161
 msgid "Save New Blend"
-msgstr "Speichere neue Blend"
+msgstr "Sačuvaj novi blend fajl"
 
 #: View/Blends/admin_add.ctp:4
 msgid "Admin Add Blend"
-msgstr "Blend hinzufügen (Admin)"
+msgstr "Admin dodavanje blend fajla"
 
 #: View/Blends/admin_add.ctp:33 View/Blends/admin_view.ctp:121
 #: View/Comments/admin_edit.ctp:21 View/Comments/admin_index.ctp:93
 #: View/Comments/admin_view.ctp:88 View/Feedbacks/add.ctp:28
 #: View/Feedbacks/admin_view.ctp:93
 msgid "List Blends"
-msgstr "Blends auflisten"
+msgstr "Lista blend radova"
 
 #: View/Blends/admin_add.ctp:36 View/Blends/admin_view.ctp:125
 #: View/Comments/admin_edit.ctp:20 View/Comments/admin_view.ctp:86
 #: View/Feedbacks/add.ctp:27 View/Feedbacks/admin_edit.ctp:47
 #: View/Feedbacks/admin_view.ctp:91
 msgid "List Comments"
-msgstr "Kommentare auflisten"
+msgstr "Lista komentara"
 
 #: View/Blends/admin_add.ctp:37 View/Blends/admin_view.ctp:126;192
 #: View/Comments/admin_index.ctp:92 View/Comments/admin_view.ctp:87
 #: View/Feedbacks/admin_view.ctp:92
 msgid "New Comment"
-msgstr "Neuer Kommentar"
+msgstr "Novi komentar"
 
 #: View/Blends/admin_add.ctp:38 View/Blends/admin_view.ctp:127
 msgid "List Metas"
-msgstr "Metadaten auflisten"
+msgstr "Meta lista"
 
 #: View/Blends/admin_add.ctp:39 View/Blends/admin_view.ctp:128;227
 msgid "New Meta"
-msgstr "Neue Metadaten"
+msgstr "Nova meta"
 
 #: View/Blends/admin_add.ctp:40 View/Blends/admin_view.ctp:129
 msgid "List Medias"
-msgstr "Medien auflisten"
+msgstr "Lista medija"
 
 #: View/Blends/admin_add.ctp:41 View/Blends/admin_view.ctp:130;290
 msgid "New Media"
-msgstr "Neue Medien"
+msgstr "Novi medija"
 
+# Termrel ???
 #: View/Blends/admin_add.ctp:42 View/Blends/admin_view.ctp:131
 msgid "List Termrels"
-msgstr "AGB Beziehungen auflisten"
+msgstr "Lista termrela"
 
+# termrel ???
 #: View/Blends/admin_add.ctp:43 View/Blends/admin_view.ctp:132;325
 msgid "New Termrel"
-msgstr "Neue AGB Beziehung"
+msgstr "Novi termrel"
 
 #: View/Blends/admin_add.ctp:44 View/Blends/admin_view.ctp:133
 #: View/Users/admin_index.ctp:88
 msgid "List Items"
-msgstr "Gegenstände auflisten"
+msgstr "Lista artikala"
 
 #: View/Blends/admin_add.ctp:45 View/Blends/admin_view.ctp:134;366
 #: View/Users/admin_index.ctp:89
 msgid "New Item"
-msgstr "Neuer Gegenstand"
+msgstr "Novi artikl"
 
 #: View/Blends/admin_edit.ctp:4
 msgid "Admin Edit Blend"
-msgstr "Blend bearbeiten (Admin)"
+msgstr "Admin izmjena blend fajla"
 
 #: View/Blends/admin_edit.ctp:67
 msgid "Delete Blend and associated data"
-msgstr "Blend und dazugehörende Dateien löschen"
+msgstr "Obriši blend fajl i pripadajuće podatke"
 
 #: View/Blends/admin_index.ctp:70 View/Blends/index.ctp:28
 #: View/Blends/search.ctp:108 View/Collections/index.ctp:48
 #: View/Collections/view.ctp:20 View/Users/featured.ctp:59
 #: View/Users/search.ctp:99
 msgid "First Page"
-msgstr "Erste Seite"
+msgstr "Prva strana"
 
 #: View/Blends/admin_index.ctp:74 View/Blends/index.ctp:32
 #: View/Blends/search.ctp:112 View/Collections/index.ctp:52
 #: View/Collections/view.ctp:24 View/Users/featured.ctp:63
 #: View/Users/search.ctp:103
 msgid "Last Page"
-msgstr "Letzte Seite"
+msgstr "Zadnja strana"
 
 #: View/Blends/admin_view.ctp:2 View/Comments/admin_view.ctp:9
 #: View/Feedbacks/admin_view.ctp:9
 msgid "Blend"
-msgstr "Blend"
+msgstr "Blend fajl"
 
 #: View/Blends/admin_view.ctp:14;243 View/Requests/admin_view.ctp:24
 msgid "Title"
-msgstr "Titel"
+msgstr "Naslov"
 
+# Slug ???
 #: View/Blends/admin_view.ctp:19
 msgid "Slug"
 msgstr "Slug"
@@ -1692,48 +1687,48 @@ msgstr "Slug"
 #: View/Questions/admin_view.ctp:24 View/Reports/view.ctp:29
 #: View/Requests/admin_view.ctp:29
 msgid "Body"
-msgstr "Body"
+msgstr "Tijelo"
 
 #: View/Blends/admin_view.ctp:34;245 View/Messages/view.ctp:19
 msgid "Type"
-msgstr "Typ"
+msgstr "Tip"
 
 #: View/Blends/admin_view.ctp:39
 msgid "P3d Url"
-msgstr "P3D Url"
+msgstr "P3d Url"
 
 #: View/Blends/admin_view.ctp:44
 msgid "Blend License"
-msgstr "Blend Lizenz"
+msgstr "Blend licenca"
 
 #: View/Blends/admin_view.ctp:54
 msgid "Ported"
-msgstr "portiert"
+msgstr "Portovan"
 
 #: View/Blends/admin_view.ctp:69
 msgid "Publish Date"
-msgstr "Veröffentlichungsdatum"
+msgstr "Datum objavljivanja"
 
 #: View/Blends/admin_view.ctp:74
 msgid "Change Log"
-msgstr "Protokoll ändern"
+msgstr "Izmijeni log"
 
 #: View/Blends/admin_view.ctp:79
 msgid "Blend File Size"
-msgstr "Blend Datei Grösse"
+msgstr "Veličina blend fajla"
 
 #: View/Blends/admin_view.ctp:84
 msgid "Render Preview"
-msgstr "Render Vorschau"
+msgstr "Prikaz render-a"
 
 #: View/Blends/admin_view.ctp:89 View/Blends/view.ctp:63
 #: View/Downloads/admin_index.ctp:2
 msgid "Downloads"
-msgstr "Downloads"
+msgstr "Preuzimanja"
 
 #: View/Blends/admin_view.ctp:94
 msgid "Fav Count"
-msgstr "Favoriten Zähler"
+msgstr "Brojač sviđanja"
 
 #: View/Blends/admin_view.ctp:99;253
 msgid "Bytes"
@@ -1741,435 +1736,449 @@ msgstr "Bytes"
 
 #: View/Blends/admin_view.ctp:104 View/Blends/view.ctp:64
 msgid "Views"
-msgstr "Ansichten"
+msgstr "Pregleda"
 
+# parent ???
 #: View/Blends/admin_view.ctp:109;145 View/Feedbacks/admin_view.ctp:19
 msgid "Parent Id"
-msgstr "Zugehörige ID"
+msgstr "Id vlasnika"
 
 #: View/Blends/admin_view.ctp:119
 msgid "Edit Blend"
-msgstr "Blend bearbeiten"
+msgstr "Izmijeni blend"
 
 #: View/Blends/admin_view.ctp:120 View/Blends/view.ctp:151;155
 #: View/Elements/bars/owner_bar.ctp:44
 msgid "Delete Blend"
-msgstr "Blend löschen"
+msgstr "Obriši blend"
 
 #: View/Blends/admin_view.ctp:122 View/Comments/admin_edit.ctp:22
 #: View/Comments/admin_index.ctp:94 View/Comments/admin_view.ctp:89
 #: View/Feedbacks/add.ctp:29 View/Feedbacks/admin_view.ctp:94
 msgid "New Blend"
-msgstr "Neue Blend"
+msgstr "Novi blend"
 
 #: View/Blends/admin_view.ctp:138
 msgid "Related Comments"
-msgstr "Verwandte Kommentare"
+msgstr "Slični komentari"
 
 #: View/Blends/admin_view.ctp:143;240;300
 msgid "Object Id"
-msgstr "Objekt ID"
+msgstr "Id objekta"
 
 #: View/Blends/admin_view.ctp:144;239;337 View/Keys/view.ctp:9
 #: View/Limits/admin_view.ctp:9 View/Messages/view.ctp:9
 #: View/Profiles/admin_view.ctp:9 View/Questions/admin_view.ctp:19
 #: View/Reports/view.ctp:19 View/Requests/admin_view.ctp:62
 msgid "User Id"
-msgstr "Benutzer ID"
+msgstr "Id korisnika"
 
 #: View/Blends/admin_view.ctp:146 View/Comments/admin_view.ctp:14
 #: View/Feedbacks/admin_view.ctp:24 View/Users/edit.ctp:20
 msgid "Username"
-msgstr "Benutzername"
+msgstr "Korisničko ime"
 
 #: View/Blends/admin_view.ctp:147 View/Comments/admin_view.ctp:19
 #: View/Feedbacks/admin_view.ctp:29
 msgid "User Email"
-msgstr "Benutzer Emal"
+msgstr "Email korisnika"
 
 #: View/Blends/admin_view.ctp:148 View/Comments/admin_view.ctp:24
 #: View/Feedbacks/admin_view.ctp:34
 msgid "User Ip"
-msgstr "Benutzer IP"
+msgstr "Ip korisnika"
 
 #: View/Blends/admin_view.ctp:150 View/Comments/admin_view.ctp:44
 #: View/Feedbacks/admin_view.ctp:44 View/Profiles/admin_view.ctp:84
 #: View/Questions/admin_view.ctp:29
 msgid "Points"
-msgstr "Punkte"
+msgstr "Bodovi"
 
+# Brovswer
 #: View/Blends/admin_view.ctp:152 View/Comments/admin_view.ctp:54
 #: View/Feedbacks/admin_view.ctp:54
 msgid "Comment Agent"
-msgstr "Kommentar Agent"
+msgstr "Agent komentara"
 
+# Type - Tip ???
+# Type - Pisanje ???
 #: View/Blends/admin_view.ctp:153 View/Comments/admin_view.ctp:59
 #: View/Feedbacks/admin_view.ctp:59
 msgid "Comment Type"
-msgstr "Kommentar Typ"
+msgstr "Pisanje komentara"
 
 #: View/Blends/admin_view.ctp:154 View/Comments/admin_view.ctp:74
 #: View/Feedbacks/admin_view.ctp:64
 msgid "Comment Subscribe"
-msgstr "Kommentar einschreiben"
+msgstr "Praćenje komentara"
 
 #: View/Blends/admin_view.ctp:157;241;302 View/Feedbacks/admin_view.ctp:79
 msgid "Object Class"
-msgstr "Objekt Klasse"
+msgstr "Object Class"
 
 #: View/Blends/admin_view.ctp:197
 msgid "Related Metas"
-msgstr "Verwandte Metadaten"
+msgstr "Slični Meta"
 
 #: View/Blends/admin_view.ctp:202;335
 msgid "Blend Id"
-msgstr "Blend ID"
+msgstr "Id blend fajla"
 
 #: View/Blends/admin_view.ctp:203
 msgid "Meta Key"
-msgstr "Metadaten Schlüssel"
+msgstr "Meta ključ"
 
 #: View/Blends/admin_view.ctp:204
 msgid "Meta Value"
-msgstr "Metadaten Wert"
+msgstr "Meta vrijednost"
 
+# Related Medias
 #: View/Blends/admin_view.ctp:232
 msgid "Related Medias"
-msgstr "Verwandte Medien"
+msgstr "Slični mediji"
 
 #: View/Blends/admin_view.ctp:244;340
 msgid "Is"
-msgstr "IsEs"
+msgstr "je"
 
+# Type - Tip ???
+# Type - Pisanje ???
 #: View/Blends/admin_view.ctp:246
 msgid "Mime Type"
-msgstr "Mime Typ"
+msgstr "Mime pisnje"
 
 #: View/Blends/admin_view.ctp:247
 msgid "Path"
-msgstr "Pfad"
+msgstr "Putanja"
 
 #: View/Blends/admin_view.ctp:248
 msgid "Thumb"
-msgstr "Daumen"
+msgstr "Sličica"
 
 #: View/Blends/admin_view.ctp:249
 msgid "Small"
-msgstr "klein"
+msgstr "Mali"
 
 #: View/Blends/admin_view.ctp:250
 msgid "Medium"
-msgstr "mittel"
+msgstr "Srednji"
 
 #: View/Blends/admin_view.ctp:251
 msgid "Big"
-msgstr "gross"
+msgstr "Veliki"
 
 #: View/Blends/admin_view.ctp:252
 msgid "Zip"
 msgstr "Zip"
 
+# Related Termrels
 #: View/Blends/admin_view.ctp:295
 msgid "Related Termrels"
-msgstr "Verwandte AGB Beziehungen"
+msgstr "Slični termini"
 
+# Term Id
 #: View/Blends/admin_view.ctp:301
 msgid "Term Id"
-msgstr "AGB ID"
+msgstr "Id termina"
 
+# Items
 #: View/Blends/admin_view.ctp:330
 msgid "Related Items"
-msgstr "Verwandte Gegenstände"
+msgstr "Slični artikli"
 
 #: View/Blends/admin_view.ctp:336
 msgid "Collection Id"
-msgstr "Sammlung ID"
+msgstr "Id kolekcije"
 
 #: View/Blends/edit.ctp:8
 msgid "Basic data"
-msgstr "Basis Daten"
+msgstr "Osnovni podaci"
 
 #: View/Blends/edit.ctp:87
 msgid "Log your changes"
-msgstr "Log Ihrer Änderungen"
+msgstr "Navedite izmjene"
 
 #: View/Blends/edit.ctp:89
 msgid "What did you change?"
-msgstr "Was haben Sie geändert?"
+msgstr "Šta ste izmijenili ?"
 
 #: View/Blends/edit.ctp:92 View/Users/edit.ctp:139
 msgid "Save Changes"
-msgstr "Änderungen speichern"
+msgstr "Sačuvaj izmjene"
 
 #: View/Blends/index.ctp:6 View/Blends/user.ctp:8 View/Requests/index.ctp:7
 msgid "Edit Date"
-msgstr "Datum ändern"
+msgstr "Izmijeni datum"
 
 #: View/Blends/index.ctp:22
 msgid ""
 "Page {:page} of {:pages}, showing {:current} blends out of {:count} total."
 msgstr ""
-"Seite {:page} von {:pages}, zeigt {:current} Blends von {:count} insgesamt."
+"Strana {:page} od {:pages}, prikazan(a)o {:current} blend fajl(a)ova od "
+"ukupno {:count} ."
 
 #: View/Blends/media.ctp:3
 msgid "Media"
-msgstr "Medien"
+msgstr "Medij"
 
 #: View/Blends/view.ctp:24
 msgid "Click to start following this user"
-msgstr "Klicken um diesen Benutzer zu folgen"
+msgstr "Klikni za praćenje ovog korisnika"
 
 #: View/Blends/view.ctp:54 View/Users/index.ctp:35
 msgid "Collections"
-msgstr "Sammlungen"
+msgstr "Kolekcija"
 
 #: View/Blends/view.ctp:61
 msgid "Site Stats"
-msgstr "Seite Statistiken"
+msgstr "Status sajta"
 
 #: View/Blends/view.ctp:65 View/Users/index.ctp:31
 msgid "Likes"
-msgstr "Likes"
+msgstr "Sviđanja(e)"
 
 #: View/Blends/view.ctp:66
 msgid "Blender %s and up"
-msgstr "Blender %s und höher"
+msgstr "Blendova % i više"
 
 #: View/Blends/view.ctp:71
 msgid "Blend File Stats"
-msgstr "Blend Datei Statistik"
+msgstr "Status blend fajla"
 
 #: View/Blends/view.ctp:75
 msgid "Objects"
-msgstr "Objekte"
+msgstr "Objekti"
 
 #: View/Blends/view.ctp:78
 msgid "Vertices"
-msgstr "Vertices"
+msgstr "Tačaka"
 
 #: View/Blends/view.ctp:81
 msgid "Polygons"
-msgstr "Polygone"
+msgstr "Poligona"
 
 #: View/Blends/view.ctp:84
 msgid "Vert. Modified"
-msgstr "Vertices verändert"
+msgstr "Tač. izmijenjeno"
 
 #: View/Blends/view.ctp:87
 msgid "Poly. Modified"
-msgstr "Polys verändert"
+msgstr "Mnogougl. izmijenjeno"
 
 #: View/Blends/view.ctp:93
 msgid "License"
-msgstr "Lizenz"
+msgstr "Licenca"
 
 #: View/Blends/view.ctp:101
 msgid "This blend is marked as fan art"
-msgstr "Diese Blend ist markiert als Fan Art"
+msgstr "Ovaj blend fajl je označen kao zabavna umjetnost"
 
 #: View/Blends/view.ctp:110
 msgid "Download"
-msgstr "Download"
+msgstr "Preuzmi"
 
 #: View/Blends/view.ctp:141 View/Elements/bars/request_actions.ctp:65
 msgid "Manage"
-msgstr "Verwalten"
+msgstr "Izmijeni"
 
 #: View/Blends/view.ctp:144 View/Elements/bars/owner_bar.ctp:19
 #: View/Elements/bars/request_actions.ctp:69
 msgid "Edit Data"
-msgstr "Datei bearbeiten"
+msgstr "Izmijeni podatke"
 
 #: View/Blends/view.ctp:147 View/Elements/bars/owner_bar.ctp:32
 msgid "Manage Files"
-msgstr "Dateien verwalten"
+msgstr "Izmijena fajlova"
 
 #: View/Blends/view.ctp:161 View/Elements/bars/blend_actions.ctp:46
 #: View/Reports/admin_view.ctp:2 View/Reports/view.ctp:2
 msgid "Report"
-msgstr "Berichten"
+msgstr "Prijavi"
 
 #: View/Blends/view.ctp:235;247 View/Elements/bars/blend_actions.ctp:13
 msgid "Add this blend to a collection"
-msgstr "Diese Blend in eine Sammlung hinzufügen"
+msgstr "Dodaj ovaj blend fajl u kolekciju"
 
 #: View/Blends/view.ctp:239;251
 msgid "Collect"
-msgstr "sammeln"
+msgstr "Sakupi"
 
 #: View/Blends/rss/index.ctp:3
 msgid "Latest Blends"
-msgstr "Neuste Blends"
+msgstr "Najnoviji blend fajlovi"
 
 #: View/Blends/rss/index.ctp:5
 msgid "Most recent blends on Blend Swap."
-msgstr "Neusten Blends auf Blend Swap."
+msgstr "Ne davno dodati blend fajlovi na Blend Swap-u."
 
 #: View/Chats/add.ctp:4
 msgid "Add Chat"
-msgstr "Unterhaltung hinzufügen"
+msgstr "Dodaj ćaskanje"
 
 #: View/Chats/add.ctp:17 View/Chats/edit.ctp:19
 msgid "List Chats"
-msgstr "Unterhaltungen auflisten"
+msgstr "Lista ćaskanja"
 
 #: View/Chats/edit.ctp:4
 msgid "Edit Chat"
-msgstr "Unterhaltung bearbeiten"
+msgstr "Izmijeni ćaskanje"
 
 #: View/Chats/index.ctp:1
 msgid "Chats"
-msgstr "Unterhaltungen"
+msgstr "Ćaskanje"
 
 #: View/Comments/admin_edit.ctp:4 View/Comments/admin_view.ctp:84
 #: View/Feedbacks/admin_edit.ctp:5 View/Feedbacks/admin_view.ctp:89
 msgid "Edit Comment"
-msgstr "Kommentar bearbeiten"
+msgstr "Izmijeni kometar"
 
 #: View/Comments/admin_index.ctp:2 View/Elements/placeholder.ctp:59
 #: View/Elements/navs/usernav.ctp:25 View/Feedbacks/admin_index.ctp:2
 msgid "Comments"
-msgstr "Kommentare"
+msgstr "Komentari"
 
 #: View/Comments/admin_view.ctp:2 View/Feedbacks/admin_view.ctp:2
 msgid "Comment"
-msgstr "Kommentar"
+msgstr "Komentar"
 
+# parent - vezan za ???
+# parent - sličan ???
 #: View/Comments/admin_view.ctp:64
 msgid "Comment Parent"
-msgstr "Kommentiere Zugehörige"
+msgstr "Kometar srodan"
 
 #: View/Comments/admin_view.ctp:85 View/Feedbacks/admin_view.ctp:90
 msgid "Delete Comment"
-msgstr "Kommentar löschen"
+msgstr "Obriši komentar"
 
 #: View/Contacts/admin_edit.ctp:4 View/Contacts/admin_view.ctp:89
 msgid "Edit Contact"
-msgstr "Kontakt bearbeiten"
+msgstr "Izmijeni kotakt"
 
 #: View/Contacts/admin_edit.ctp:24 View/Contacts/admin_view.ctp:91
 msgid "List Contacts"
-msgstr "Kontakte auflisten"
+msgstr "Lista kontakata"
 
 #: View/Contacts/admin_index.ctp:64 View/Contacts/admin_view.ctp:92
 msgid "New Contact"
-msgstr "Neuer Kontakt"
+msgstr "Novi kontakt"
 
 #: View/Contacts/admin_view.ctp:90
 msgid "Delete Contact"
-msgstr "Kontakt löschen"
+msgstr "Obriši kontakt"
 
 #: View/Downloads/admin_index.ctp:48
 msgid "New Download"
-msgstr "Neuer Download"
+msgstr "Novo preuzimanje"
 
 #: View/Elements/commentList.ctp:10
 msgid "No %s yet, leave yours!"
-msgstr "Keine %s bisher. Kommentieren Sie!"
+msgstr "Nema % još uvijek, ostavite vaš!"
 
 #: View/Elements/new_question.ctp:3
 msgid "Need help with Blender?"
-msgstr "Brauchen Sie hilfe bei Blender?"
+msgstr "Trebate pomoć oko Blender(a) ?"
 
 #: View/Elements/new_question.ctp:5
 msgid "Ask a Question!"
-msgstr "Stell eine Frage!"
+msgstr "Postavi pitanje!"
 
 #: View/Elements/placeholder.ctp:4
 msgid "Animals"
-msgstr "Tiere"
+msgstr "Životinje"
 
 #: View/Elements/placeholder.ctp:5
 msgid "Appliances"
-msgstr "Haushaltsgeräte"
+msgstr "Uređaji"
 
 #: View/Elements/placeholder.ctp:6;37
 msgid "Animation"
-msgstr "Animation"
+msgstr "Animacije"
 
 #: View/Elements/placeholder.ctp:7
 msgid "Architecture"
-msgstr "Architektur"
+msgstr "Arhiktertura"
 
 #: View/Elements/placeholder.ctp:8
 msgid "Blender Themes"
-msgstr "Blender Themen"
+msgstr "Blender teme"
 
 #: View/Elements/placeholder.ctp:9
 msgid "Brushes"
-msgstr "Brushes"
+msgstr "Četke"
 
 #: View/Elements/placeholder.ctp:10
 msgid "Characters"
-msgstr "Charaktere"
+msgstr "Karakteri"
 
 #: View/Elements/placeholder.ctp:11
 msgid "Clothes"
-msgstr "Kleidung"
+msgstr "Odjeća"
 
 #: View/Elements/placeholder.ctp:12
 msgid "Electronics"
-msgstr "Elektronik"
+msgstr "Elektronika"
 
 #: View/Elements/placeholder.ctp:13
 msgid "Food"
-msgstr "Lebensmittel"
+msgstr "Hrana"
 
 #: View/Elements/placeholder.ctp:14
 msgid "Furniture"
-msgstr "Möbel"
+msgstr "Namještaj"
 
 #: View/Elements/placeholder.ctp:15
 msgid "Landscapes"
-msgstr "Landschaften"
+msgstr "Peizaži"
 
 #: View/Elements/placeholder.ctp:16
 msgid "Looping Patterns"
-msgstr "Wiederholende Muster"
+msgstr "Ponavljajući obrasci"
 
 #: View/Elements/placeholder.ctp:17
 msgid "Low Poly"
-msgstr "Low Poly"
+msgstr "Mali br. kvadratića"
 
 #: View/Elements/placeholder.ctp:18
 msgid "Materials"
-msgstr "Materialien"
+msgstr "Materijali"
 
 #: View/Elements/placeholder.ctp:19
 msgid "Miscellaneous Objects"
-msgstr "Sonstige Objekte"
+msgstr "Ostali objekti"
 
 #: View/Elements/placeholder.ctp:20
 msgid "Motion Graphics"
-msgstr "Bewegende Grafiken"
+msgstr "Pokretna grafika"
 
 #: View/Elements/placeholder.ctp:21
 msgid "Musical Instruments"
-msgstr "Musikinstrumente"
+msgstr "Muzički instrumenti"
 
 #: View/Elements/placeholder.ctp:22
 msgid "Node Setups"
-msgstr "Node Setups"
+msgstr "Node podešavanja"
 
 #: View/Elements/placeholder.ctp:23
 msgid "Particles"
-msgstr "Partikel"
+msgstr "Čestice"
 
 #: View/Elements/placeholder.ctp:24
 msgid "Accessories"
-msgstr "Zubehör"
+msgstr "Dodatci"
 
 #: View/Elements/placeholder.ctp:25
 msgid "Plants"
-msgstr "Pflanzen"
+msgstr "Biljke"
 
 #: View/Elements/placeholder.ctp:26
 msgid "Python Scripts"
-msgstr "Python Skripte"
+msgstr "Python skripte"
 
+# Real time Kategorija (?)
 #: View/Elements/placeholder.ctp:27
 msgid "Real Time"
-msgstr "Echtzeit"
+msgstr "Stvarno - uživo"
 
 #: View/Elements/placeholder.ctp:28
 msgid "Rigs"
@@ -2177,36 +2186,36 @@ msgstr "Rigs"
 
 #: View/Elements/placeholder.ctp:29
 msgid "Scenes"
-msgstr "Szenen"
+msgstr "Scene"
 
 #: View/Elements/placeholder.ctp:30
 msgid "Sci-Fi"
-msgstr "Sci-Fi"
+msgstr "Nauč-Fan"
 
 #: View/Elements/placeholder.ctp:31
 msgid "Simulations"
-msgstr "Simulationen"
+msgstr "Simulacije"
 
 #: View/Elements/placeholder.ctp:32 View/Elements/previewBox.ctp:38
 #: View/Elements/menus/topMenu.ctp:70
 msgid "Staff Picks"
-msgstr "Staff Picks"
+msgstr "Urednik odabrao"
 
 #: View/Elements/placeholder.ctp:33
 msgid "Textures"
-msgstr "Texturen"
+msgstr "Teksture"
 
 #: View/Elements/placeholder.ctp:34
 msgid "Tools"
-msgstr "Werkzeuge"
+msgstr "Alati"
 
 #: View/Elements/placeholder.ctp:35
 msgid "Vehicles"
-msgstr "Fahrzeuge"
+msgstr "Vozila"
 
 #: View/Elements/placeholder.ctp:36
 msgid "Weapons"
-msgstr "Waffen"
+msgstr "Oružje"
 
 #: View/Elements/placeholder.ctp:41
 msgid "January"
@@ -2218,7 +2227,7 @@ msgstr "Februar"
 
 #: View/Elements/placeholder.ctp:43
 msgid "March"
-msgstr "März"
+msgstr "Mart"
 
 #: View/Elements/placeholder.ctp:44
 msgid "April"
@@ -2226,275 +2235,280 @@ msgstr "April"
 
 #: View/Elements/placeholder.ctp:45
 msgid "May"
-msgstr "Mai"
+msgstr "Maj"
 
 #: View/Elements/placeholder.ctp:46
 msgid "June"
-msgstr "Juni"
+msgstr "Jun"
 
 #: View/Elements/placeholder.ctp:47
 msgid "July"
-msgstr "Juli"
+msgstr "Jul"
 
 #: View/Elements/placeholder.ctp:48
 msgid "August"
-msgstr "August"
+msgstr "Avgust"
 
 #: View/Elements/placeholder.ctp:49
 msgid "September"
-msgstr "September"
+msgstr "Septembar"
 
 #: View/Elements/placeholder.ctp:50
 msgid "October"
-msgstr "Oktober"
+msgstr "Oktobar"
 
 #: View/Elements/placeholder.ctp:51
 msgid "November"
-msgstr "November"
+msgstr "Novembar"
 
 #: View/Elements/placeholder.ctp:52
 msgid "December"
-msgstr "Dezember"
+msgstr "Decembar"
 
 #: View/Elements/placeholder.ctp:56
 msgid "answers"
-msgstr "antworten"
+msgstr "odgovor(i)a"
 
 #: View/Elements/placeholder.ctp:57
 msgid "comments"
-msgstr "Kommentare"
+msgstr "komentari"
 
 #: View/Elements/placeholder.ctp:58
 msgid "Answers"
-msgstr "Antworten"
+msgstr "Odgovor(i)a"
 
 #: View/Elements/previewBox.ctp:38
 msgid "This blend is in %s"
-msgstr "Diese Blend ist in% s"
+msgstr "Ovaj blend fajl je u %"
 
 #: View/Elements/bars/blend_actions.ctp:7
 msgid "Click to unlike this blend"
-msgstr "Klicken um diese Blend zu unliken"
+msgstr "Klikni i ukolini sa liste sviđanja"
 
 #: View/Elements/bars/blend_actions.ctp:16
 msgid "Add to"
-msgstr "Hinzufügen zu"
+msgstr "Dodaj u"
 
 #: View/Elements/bars/blend_actions.ctp:19
 msgid "Share this"
-msgstr "Diese teilen"
+msgstr "Podijeli ovo"
 
 #: View/Elements/bars/blend_actions.ctp:20
 #: View/Elements/bars/request_actions.ctp:28
 msgid "Share"
-msgstr "teilen"
+msgstr "Podijeli"
 
 #: View/Elements/bars/blend_actions.ctp:31
 #: View/Elements/bars/request_actions.ctp:46
 msgid "Click to start following comments here"
-msgstr "Klicken um folgende Kommetare hier zu starten"
+msgstr "Klikni ovdje za praćenje komentara"
 
 #: View/Elements/bars/blend_actions.ctp:38
 #: View/Elements/bars/request_actions.ctp:54
 msgid "Click to stop following comments here"
-msgstr "Klicken um folgende Kommetare hier zu stoppen"
+msgstr "Klikni ovadje za prestanak praćenja komentara"
 
 #: View/Elements/bars/blend_actions.ctp:48
 msgid "Report an infraction on this blend."
-msgstr "Berichte einen Verstoss an dieser Blend."
+msgstr "Prijavi prekršaj na ovom blend fajlu."
 
 #: View/Elements/bars/owner_bar.ctp:6
 msgid "Blend Page"
-msgstr "Blend Seite"
+msgstr "Blend stranica"
 
 #: View/Elements/bars/owner_bar.ctp:12
 msgid "View the blend page as it looks published"
-msgstr "Zeige die Blend Seite zum Zeitpunkt der Veröffentlichung"
+msgstr "Pogledaj stranicu kako izgleda kad bude objavljena"
 
 #: View/Elements/bars/owner_bar.ctp:25
 msgid "Edit all data and properties for this blend."
-msgstr "Bearbeite alle Dateien und Einstellungen für diese Blend."
+msgstr "Izmijeni podatke i svojstva ovog blend fajla."
 
 #: View/Elements/bars/owner_bar.ctp:38
 msgid "Manage the blend file and preview images for this blend."
-msgstr "Verwalte die blend Datei und Vorschau Bilder für diese Blend."
+msgstr "Izmijena slika kao i blend fajla."
 
 #: View/Elements/bars/owner_bar.ctp:50
 msgid ""
 "Delete this blend. Works only for incomplete, offline and rejected blends"
 msgstr ""
-"Löschen Sie diese Blend. Funktioniert nur für unvollständige, offline und "
-"abgelehnt Blends"
+"Obriši ovaj blend fajl. Dostupno samo za ne dovršene ,ne objavljene i "
+"odbijene blend fajlove"
 
 #: View/Elements/bars/owner_bar.ctp:55
 msgid ""
 "The blend and its files will be completely unavailable.\\nThis will not work "
 "for published blends.\\nAre you sure you want to continue?"
 msgstr ""
-"Die Blend und die zugehörigen Dateien werden vollständig unverfügbar sein. "
-"\\nDies wird nicht für veröffentlichte Blends funktionieren. \\nSind Sie "
-"sicher, dass Sie fortfahren möchten?"
+"Ovaj blend kao i pripadajući fajlovi će biti nedostupni.\\nOvo ne važi za "
+"objavljene blend fajlove.\\nDa li si siguran da želiš da nastaviš ?"
 
 #: View/Elements/bars/request_actions.ctp:7
 msgid "Remove from your work in progress list"
-msgstr "Von der \"in Arbeit\" Liste entfernen"
+msgstr "Ukloni sa liste rad u toku"
 
 #: View/Elements/bars/request_actions.ctp:10
 msgid "Cancel WIP"
-msgstr "WIP abbrechen"
+msgstr "Otkaži rad u toku"
 
 #: View/Elements/bars/request_actions.ctp:14
 msgid "Add to your work in progress list"
-msgstr "Zu der \"in Arbeit\" Liste hinzufügen"
+msgstr "Dodaj u tvoju listu  rad u toku"
 
 #: View/Elements/bars/request_actions.ctp:17
 msgid "Add to WIP"
-msgstr "Hinzufügen zu WIP"
+msgstr "Dodaj u rad u toku"
 
 #: View/Elements/bars/request_actions.ctp:21
 msgid "Add your Blend Response"
-msgstr "Deine Blend Antwort hinzufügen"
+msgstr "Dodaj tvoj Blend odgovor"
 
 #: View/Elements/bars/request_actions.ctp:24
 msgid "Submit Blend Response"
-msgstr "Blend Antwort einreichen"
+msgstr "Pošalji Blend odgovor"
 
 #: View/Elements/bars/request_actions.ctp:75
 msgid "Manage Images"
-msgstr "Bilder verwalten"
+msgstr "Izmijeni slike"
 
 #: View/Elements/bars/request_actions.ctp:81
 msgid "Close Request"
-msgstr "Anfrage schliessen"
+msgstr "Zatvori zahtjev"
 
 #: View/Elements/bars/request_actions.ctp:84
 msgid "This Blend Request will be closed to new answers. Are you sure?"
 msgstr ""
-"Diese Blend Anfrage wird für weitere Antworten geschlossen. Sind Sie sicher?"
+"Ovaj Blend zahtjev će biti zatvoren za nove odgovore. Da li si siguran ?"
 
 #: View/Elements/bars/request_actions.ctp:86
 msgid "Re-Open Request"
-msgstr "Anfrage wieder öffnen"
+msgstr "Obnovi zahtjev"
 
 #: View/Elements/bars/request_actions.ctp:88
 msgid "Click here to enable answers for this Request"
-msgstr "Hier klicken um Antworten für diese Anfrage zu ermöglichen"
+msgstr "Klikni ovdje da omogućiš odgovore za ovaj zahtjev"
 
+#  cool
 #: View/Elements/forms/commentForm.ctp:5
 msgid "Remember to keep your %s cool, harsh %s will be removed"
-msgstr "Denken Sie daran, halten sie ihre %s cool, gemeine %s werden gelöscht"
+msgstr "Ne zaboravite da vaši % budu cool, ne primjereni % će biti ukolnjeni"
 
+# profanity
 #: View/Elements/forms/commentForm.ctp:6
 msgid ""
 "%s containing profanity will be queued for moderation. Please report spam."
-msgstr ""
-"%s mit obszönen Inhalt werden zur überprüfung in eine Warteschlange "
-"gestellt. Bitte melden Sie Spam."
+msgstr "% koji sadrže psovke će biti uklonjeni. Molimo prijavite spam."
 
 #: View/Elements/forms/commentForm.ctp:19
 msgid "You must log in to leave a comment"
-msgstr "Sie müssen sich einloggen um einen Kommentar abzugeben"
+msgstr "Morate biti ulogovani da bi komentarisali"
 
 #: View/Elements/menus/topMenu.ctp:7
 msgid "Start"
-msgstr "Start"
+msgstr "Početak"
 
 #: View/Elements/menus/topMenu.ctp:11 View/Elements/navs/usernav.ctp:18
 #: View/Users/index.ctp:23
 msgid "Blends"
-msgstr "Blends"
+msgstr "Blendovi"
 
 #: View/Elements/menus/topMenu.ctp:13
 msgid "All blends"
-msgstr "Alle Blends"
+msgstr "Svi blend fajlovi"
 
 #: View/Elements/menus/topMenu.ctp:24
 msgid "All Blends"
-msgstr "Alle Blends"
+msgstr "Svi blend fajlovi"
 
 #: View/Elements/menus/topMenu.ctp:26
 msgid "Main Blend Index"
-msgstr "Haupt Blend Index"
+msgstr "Glavana blend stranica"
 
 #: View/Elements/menus/topMenu.ctp:31
 msgid "Only CC-Zero Blends"
-msgstr "Nur CC-Zero Blends"
+msgstr "Samo CC-Zero blend fajlovi"
 
 #: View/Elements/menus/topMenu.ctp:33
 msgid "Only CC-0"
-msgstr "Nur CC-0"
+msgstr "Samo CC-0"
 
 #: View/Elements/menus/topMenu.ctp:36
 msgid "Only CC-BY Blends"
-msgstr "Nur CC-BY Blends"
+msgstr "Samo CC-BY blend fajlovi"
 
 #: View/Elements/menus/topMenu.ctp:38
 msgid "Only CC-BY"
-msgstr "Nur CC-BY"
+msgstr "Samo CC-BY"
 
 #: View/Elements/menus/topMenu.ctp:41
 msgid "Only CC-BY-SA Blends"
-msgstr "Nur CC-BY-SA Blends"
+msgstr "Samo CC-BY-SA blend fajlovi"
 
 #: View/Elements/menus/topMenu.ctp:43
 msgid "Only CC-BY-SA"
-msgstr "Nur CC-BY-SA"
+msgstr "Samo CC-BY-SA"
 
 #: View/Elements/menus/topMenu.ctp:47;49
 msgid "Made with Blender 2.49"
-msgstr "Erstellt mit Blender 2.49"
+msgstr "Urađeno pomoću Blender(a)  2.49"
 
 #: View/Elements/menus/topMenu.ctp:52;54
 msgid "Made with Blender 2.5x"
-msgstr "Erstellt mit Blender 2.5x"
+msgstr "Urađeno pomoću  Blender(a)  2.5x"
 
 #: View/Elements/menus/topMenu.ctp:57;59
 msgid "Made with Blender 2.6x"
-msgstr "Erstellt mit Blender 2.6x"
+msgstr "Urađeno pomoću  Blender(a)  2.6x"
 
 #: View/Elements/menus/topMenu.ctp:62
 msgid "Filter Blends"
-msgstr "Blends filtern"
+msgstr "Filtriraj blend fajlove"
 
 #: View/Elements/menus/topMenu.ctp:67
 msgid "All blend categories."
-msgstr "Alle Blend Kategorien."
+msgstr "Sve blend kategorije."
 
 #: View/Elements/menus/topMenu.ctp:72
 msgid "Blends selected by the admins."
-msgstr "Blends welche von Admins ausgewählt wurden"
+msgstr "Blend fajlovi odabrani od admina."
 
 #: View/Elements/menus/topMenu.ctp:75
 msgid "Blend Collections"
-msgstr "Blend Sammlungen"
+msgstr "Kolekcije blend fajlova"
 
 #: View/Elements/menus/topMenu.ctp:77
 msgid "Publicly visible Blend Collections by our users."
-msgstr "Öffentlich sichtbare Blends Sammlungen von unseren Benutzern."
+msgstr "Javno vidljive blend kolekcije naših korisnika."
 
+# Durian OMP
 #: View/Elements/menus/topMenu.ctp:81
 msgid "Durian OMP"
 msgstr "Durian OMP"
 
+# Durian Open Movie Project.
 #: View/Elements/menus/topMenu.ctp:83
 msgid "Durian Open Movie Project."
-msgstr "Durian Open Movie Project."
+msgstr "Durian Open Movie Projekat."
 
+# HJM Contest
 #: View/Elements/menus/topMenu.ctp:86
 msgid "HJM Contest"
-msgstr "HJM Wettbewerb"
+msgstr "HJM Contest"
 
+# HJ Media Military Contest
 #: View/Elements/menus/topMenu.ctp:88
 msgid "HJ Media Military Contest"
-msgstr "HJ Media Military Wettbewerb"
+msgstr "HJ Media Military Contest"
 
+# Fantasy Contest
 #: View/Elements/menus/topMenu.ctp:91
 msgid "Fantasy Contest"
-msgstr "Fantasy Wettbewerb"
+msgstr "Fantasy Contest"
 
+# Fantasy Character Contest
 #: View/Elements/menus/topMenu.ctp:92
 msgid "Fantasy Character Contest"
-msgstr "Fantasy Character Wettbewerb"
+msgstr "Fantasy Character Contest"
 
 #: View/Elements/menus/topMenu.ctp:96;98;133;135;159;161
 msgid "RSS Feed"
@@ -2502,86 +2516,88 @@ msgstr "RSS Feed"
 
 #: View/Elements/menus/topMenu.ctp:104;112
 msgid "Requests"
-msgstr "Anfragen"
+msgstr "Zahtjevi"
 
 #: View/Elements/menus/topMenu.ctp:110
 msgid "New Request"
-msgstr "Neue Anfrage"
+msgstr "Novi zahtjev"
 
 #: View/Elements/menus/topMenu.ctp:112;148
 msgid "%s Main Index"
-msgstr "%s Haupt Index"
+msgstr "%s glavni index"
 
 #: View/Elements/menus/topMenu.ctp:117
 msgid "All Requests"
-msgstr "Alle Anfragen"
+msgstr "Svi ahtjevi"
 
 #: View/Elements/menus/topMenu.ctp:119
 msgid "Requests Main Index"
-msgstr "Anfragen Haupt Index"
+msgstr "Zahtjevi glavna stranica"
 
 #: View/Elements/menus/topMenu.ctp:122
 msgid "Open Requests"
-msgstr "Offene Anfragen"
+msgstr "Otvoreni zahtjevi"
 
 #: View/Elements/menus/topMenu.ctp:124
 msgid "Requests still open to responses"
-msgstr "Anfrage immernoch offen für Antworten"
+msgstr "Zahtjevi otvoreni za odgovaranje"
 
 #: View/Elements/menus/topMenu.ctp:127
 msgid "Closed Requests"
-msgstr "geschlossene Anfragen"
+msgstr "Zatvoreni zahtjevi"
 
 #: View/Elements/menus/topMenu.ctp:129
 msgid "Requests closed to new responses"
-msgstr "Anfrage geschlossen für neue Antworten"
+msgstr "Zahtjevi zatvoreni za nove odgovore"
 
 #: View/Elements/menus/topMenu.ctp:141;143;148 View/Layouts/frontend.ctp:125
 #: View/Questions/admin_index.ctp:2
 msgid "Questions"
-msgstr "Fragen"
+msgstr "Pitanja"
 
 #: View/Elements/menus/topMenu.ctp:146
 msgid "All Questions"
-msgstr "Alle Fragen"
+msgstr "Sva pitanja"
 
 #: View/Elements/menus/topMenu.ctp:152 View/Questions/admin_index.ctp:48
 #: View/Questions/admin_view.ctp:42
 msgid "New Question"
-msgstr "Neue Fragen"
+msgstr "Novo pitanje"
 
 #: View/Elements/menus/topMenu.ctp:154
 msgid "Create a new Question"
-msgstr "Erstelle eine neue Frage"
+msgstr "Kreiraj pitanje"
 
 #: View/Elements/menus/topMenu.ctp:167;169 View/Users/admin_index.ctp:2
 msgid "Users"
-msgstr "Benutzer"
+msgstr "Korisnici"
 
 #: View/Elements/menus/topMenu.ctp:172;174
 msgid "Users Showcase"
-msgstr "Benutzer Showcase"
+msgstr "Korisnik prikazuje"
 
+# Artist - korisnik
 #: View/Elements/menus/topMenu.ctp:177;179
 msgid "Find Artists"
-msgstr "Artist finden"
+msgstr "Pronađi korisnika"
 
+# Featured - Istaknuti
 #: View/Elements/menus/topMenu.ctp:182;184 View/Layouts/frontend.ctp:145
 #: View/Users/featured.ctp:1
 msgid "Featured Artists"
-msgstr "Vorgestellte Artists"
+msgstr "Istaknuti korisnici"
 
 #: View/Elements/menus/topMenu.ctp:188;190 View/Layouts/frontend.ctp:122
 msgid "User Badges"
-msgstr "Benutzer Abzeichen"
+msgstr "Bedževi korisnika"
 
 #: View/Elements/menus/topMenu.ctp:196 View/Layouts/frontend.ctp:222
 msgid "Help"
-msgstr "Hilfe"
+msgstr "Pomoć"
 
 #: View/Elements/menus/topMenu.ctp:198
 msgid "Help and documentation"
-msgstr "Hilfe und Dokumentation"
+msgstr "Pomoć i dokumentacija"
 
 #: View/Elements/menus/topMenu.ctp:201
 msgid "FAQ"
@@ -2589,101 +2605,102 @@ msgstr "FAQ"
 
 #: View/Elements/menus/topMenu.ctp:203
 msgid "Frequently asked questions (and answers)"
-msgstr "Häufig gestellte Fragen (und Antworten)"
+msgstr "Često postavljanja pitanja (i odgovori)"
 
 #: View/Elements/menus/topMenu.ctp:206
 msgid "All Documentation"
-msgstr "Alle Dokumentation"
+msgstr "Sva dokumentacija"
 
 #: View/Elements/menus/topMenu.ctp:208
 msgid "All site documentation"
-msgstr "Alle Seiten Dokumentation"
+msgstr "Dokumentacija sajta"
 
 #: View/Elements/menus/topMenu.ctp:211 View/Layouts/frontend.ctp:225
 msgid "Known Issues"
-msgstr "Bekannte Probleme"
+msgstr "Poznati problemi"
 
 #: View/Elements/menus/topMenu.ctp:213
 msgid "Known issues"
-msgstr "Bekannte Probleme"
+msgstr "Poznati problemi"
 
 #: View/Elements/menus/topMenu.ctp:218;220 View/Layouts/frontend.ctp:228
 msgid "Report Errors"
-msgstr "Fehler melden"
+msgstr "Prijavi grešku"
 
 #: View/Elements/menus/topMenu.ctp:228
 msgid "Search"
-msgstr "Suchen"
+msgstr "Pretraga"
 
 #: View/Elements/menus/topMenu.ctp:235
 msgid "Me"
-msgstr "Ich"
+msgstr "Ja"
 
 #: View/Elements/menus/topMenu.ctp:237;243;245
 #: View/Elements/navs/usernav.ctp:73
 msgid "My Profile"
-msgstr "Mein Profil"
+msgstr "Moj profil"
 
 #: View/Elements/menus/topMenu.ctp:252;254 View/Elements/navs/usernav.ctp:80
 msgid "My Blends"
-msgstr "Meine Blends"
+msgstr "Moji blendovi"
 
 #: View/Elements/menus/topMenu.ctp:260;262 View/Elements/navs/usernav.ctp:104
 msgid "My Collections"
-msgstr "Meine Sammlungen"
+msgstr "Moja kolekcija"
 
 #: View/Elements/menus/topMenu.ctp:268;270 View/Elements/navs/usernav.ctp:97
 msgid "My Likes"
-msgstr "Meine Likes"
+msgstr "Šta mi se dopalo"
 
 #: View/Elements/menus/topMenu.ctp:277;279 View/Elements/navs/usernav.ctp:163
 #: View/Users/bandwidth.ctp:1 View/Users/view.ctp:95
 msgid "Bandwidth History"
-msgstr "Bandbreite History"
+msgstr "Istorija protoka"
 
 #: View/Elements/menus/topMenu.ctp:286
 msgid "Log out"
-msgstr "Ausloggen"
+msgstr "Odjavi se"
 
 #: View/Elements/menus/topMenu.ctp:288
 msgid "Log Out"
-msgstr "Ausloggen"
+msgstr "Odjavi se"
 
 #: View/Elements/menus/topMenu.ctp:297 View/Layouts/frontend.ctp:232
 msgid "Access"
-msgstr "Zugriff"
+msgstr "Pristup"
 
 #: View/Elements/menus/topMenu.ctp:305;307
 msgid "Log In"
-msgstr "Einloggen"
+msgstr "Prijavi se"
 
 #: View/Elements/menus/topMenu.ctp:313 View/Layouts/frontend.ctp:235
 msgid "Register"
-msgstr "Registrierung"
+msgstr "Registruj se"
 
 #: View/Elements/menus/topMenu.ctp:323;324
 msgid "Search Blends"
-msgstr "Suche Blends"
+msgstr "Traži blend fajlove"
 
+# criteria
 #: View/Elements/menus/topMenu.ctp:324
 msgid "Change your search criteria!"
-msgstr "Ändere deine Suchkriterien"
+msgstr " Izmijeni kriterije za pretragu !"
 
 #: View/Elements/navs/usernav.ctp:7
 msgid "Around me"
-msgstr "Um mich herum"
+msgstr "Oko mene"
 
 #: View/Elements/navs/usernav.ctp:11
 msgid "All Activity"
-msgstr "Alle Aktivitäten"
+msgstr "Sve aktivnosti"
 
 #: View/Elements/navs/usernav.ctp:33
 msgid "Site News Blog"
-msgstr "Seite Neuigkeiten Blog"
+msgstr "Vijesti sa bloga"
 
 #: View/Elements/navs/usernav.ctp:40
 msgid "Admin Notifications"
-msgstr "Admin Benachrichtigungen"
+msgstr "Obavještenja admina"
 
 #: View/Elements/navs/usernav.ctp:49
 msgid "Buzz"
@@ -2691,252 +2708,261 @@ msgstr "Buzz"
 
 #: View/Elements/navs/usernav.ctp:61 View/Messages/index.ctp:2
 msgid "Messages"
-msgstr "Nachrichten"
+msgstr "Poruke"
 
 #: View/Elements/navs/usernav.ctp:69
 msgid "My Stuff"
-msgstr "Meine Sachen"
+msgstr "Moji radovi"
 
 #: View/Elements/navs/usernav.ctp:89
 msgid "My Badges"
-msgstr "Meine Abzeichen"
+msgstr "Moje bedževi"
 
 #: View/Elements/navs/usernav.ctp:112
 msgid "Advanced Stats"
-msgstr "Detailierte Statistiken"
+msgstr "Dodatna statistika"
 
 #: View/Elements/navs/usernav.ctp:121
 msgid "Management"
-msgstr "Management"
+msgstr "Rukovodstvo"
 
 #: View/Elements/navs/usernav.ctp:125 View/Profiles/admin_view.ctp:94
 #: View/Users/view.ctp:86
 msgid "Edit Profile"
-msgstr "Profil bearbeiten"
+msgstr "Izmijeni profil"
 
 #: View/Elements/navs/usernav.ctp:132
 msgid "Edit Portfolio"
-msgstr "Portfolio bearbeiten"
+msgstr "Izmijena portfolija"
 
 #: View/Elements/navs/usernav.ctp:139
 msgid "Account &amp; Settings"
-msgstr "Account &amp; Einstellungen"
+msgstr "Nalog &amp; podešavanja"
 
 #: View/Elements/navs/usernav.ctp:148 View/Users/view.ctp:92
 msgid "Manage Membership"
-msgstr "Mitgliedschaft bearbeiten"
+msgstr "Izmijena članstva"
 
 #: View/Elements/navs/usernav.ctp:156
 msgid "Change Password"
-msgstr "Passwort ändern"
+msgstr "Izmijeni lozinku"
 
 #: View/Elements/navs/usernav.ctp:170
 msgid "Recover old likes"
-msgstr "Alte Likes wiedererlangen"
+msgstr "Povrati stara sviđanja"
 
+# Nadogradi, dodaj još protoka
 #: View/Elements/navs/usernav.ctp:185 View/Layouts/frontend.ctp:133
 msgid "Upgrade"
-msgstr "Upgrade"
+msgstr "Nadogradi"
 
 #: View/Feedbacks/add.ctp:4
 msgid "Add Comment"
-msgstr "Kommentar hinzufügen"
+msgstr "Dodaj komentar"
 
 #: View/Helper/CommentListHelper.php:171 View/Messages/view.ctp:2
 msgid "Message"
-msgstr "Nachricht"
+msgstr "Poruka"
 
 #: View/Helper/DashboardHelper.php:80
 msgid "mentioned you on"
-msgstr "erwähnte dich bei"
+msgstr "pomenuo te je u"
 
 #: View/Helper/DashboardHelper.php:84
 msgid "gives you a warm welcome!"
-msgstr "heißt Sie herzlich willkommen!"
+msgstr "ti je poželio toplu dobrodošlicu !"
 
 #: View/Helper/DashboardHelper.php:88;92;100
 msgid "Admin Notice:"
-msgstr "Admin Hinweis:"
+msgstr "Admin obavještenje :"
 
+# Associates - saradnici, označeni
 #: View/Helper/DashboardHelper.php:96
 msgid "Associates Only: "
-msgstr "Nur Mitarbeiter:"
+msgstr "Samo saradnici : "
 
 #: View/Helper/DashboardHelper.php:104
 msgid "left a comment on"
-msgstr "hinterließ einen Kommentar bei"
+msgstr "je komentarisao na"
 
 #: View/Helper/DashboardHelper.php:108
 msgid "answered the question"
-msgstr "beantwortete die Frage"
+msgstr "je odgovorio na pitanje"
 
 #: View/Helper/DashboardHelper.php:113;117
 msgid "asked a new question:"
-msgstr "stellte eine neue Frage:"
+msgstr "je postavio pitanje :"
 
 #: View/Helper/DashboardHelper.php:121
 msgid "opened a new request:"
-msgstr "eröffnete eine neue Anfrage:"
+msgstr "je otvoren novi zahtjev :"
 
 #: View/Helper/DashboardHelper.php:125
 msgid "started following you"
-msgstr "fing an dir zu folgen"
+msgstr "prati vaš rad"
 
+# pomenuo te je, te je pomenuo
 #: View/Helper/DashboardHelper.php:129
 msgid "mentioned you on a comment"
-msgstr "erwähnte dich bei einem Kommentar"
+msgstr "te je pomenuo u komentaru"
 
 #: View/Helper/DashboardHelper.php:133
 msgid "published the new blend"
-msgstr "veröffentlichte die neue Blend"
+msgstr "objavio novi blend fajl"
 
 #: View/Helper/DashboardHelper.php:138
 msgid "published the new blend:"
-msgstr "published the new Blend:"
+msgstr "objavio novi blend fajl :"
 
+# likes - sviđa, lajkovao
 #: View/Helper/DashboardHelper.php:142
 msgid "likes the blend"
-msgstr "gefiel diese Blend"
+msgstr "se dopada blend fajl"
 
+# collected - kolekcija, sakupio
+# je stavio u kolekciju
 #: View/Helper/DashboardHelper.php:146
 msgid "collected the blend"
-msgstr "sammelte die Blend"
+msgstr "je stavio u kolekciju vaš blend fajl"
 
 #: View/Helper/DashboardHelper.php:150;155
 msgid "published a news update"
-msgstr "veröffentlichte ein Neuigkeiten Update"
+msgstr "je objavio vijest"
 
 #: View/Helper/DashboardHelper.php:159
 msgid "interacted with"
-msgstr "interagierte mit"
+msgstr "u saranji sa"
 
 #: View/Helper/SingleBlendHelper.php:45
 msgid ""
 "Looks like this blend file is too big for your allowed bandwidth this month!"
 msgstr ""
-"Es sieht so aus als wäre die Blend Datei zu gross für Ihre monatliche "
-"Bandbreite!"
+"Žao nam je ali ovaj blend fajl je prevelik za tvoj odobreni protok ovog "
+"mjeseca !"
 
 #: View/Helper/SingleBlendHelper.php:64
 msgid "You must log in to download this blend"
-msgstr "Se müssen sich einloggen um diese Blend runterzuladen"
+msgstr "Morate biti prijavljeni da bi preuzeli ovaj blend fajl"
 
 #: View/Helper/SingleBlendHelper.php:103
 msgid "Latest Change"
-msgstr "Letzte Änderung"
+msgstr "Zadnja izmjena"
 
 #: View/Helper/SingleBlendHelper.php:135
 msgid "An error ocurred while reading this license."
-msgstr "Es ist ein Fehler aufgetreten beim Lesen dieser Lizenz."
+msgstr "Dogodila se greška prilikom učitavanja licence."
 
 #: View/Helper/SingleBlendHelper.php:145
 msgid ""
 "It is recommended that you give credit for this blend but there's no "
 "obligation to do so"
 msgstr ""
-"Es wird empfohlen, dass Sie den Autor dieser Blend benennen, aber Sie sind "
-"nicht dazu verpflichtet"
+"Preporučuje se da navedete ime autora ovog blend fajla, ali nemate obavezu "
+"to da uradite"
 
 #: View/Helper/SingleBlendHelper.php:171
 msgid "This blend was taken down on "
-msgstr "Diese Blend wurde entfernt"
+msgstr "Ovaj blend fajl je uklonjen dana "
 
 #: View/Helper/SingleBlendHelper.php:180
 msgid "This blend was rejected on "
-msgstr "Diese Blend wurde abgelehnt am"
+msgstr "Ovaj blend fajl je odbijen dana "
 
 #: View/Helper/SingleBlendHelper.php:187
 msgid "This blend is pending and is not accessible by normal users"
-msgstr ""
-"Diese Blend ist in Vorbereitung und ist nicht zugänglich für normale Benutzer"
+msgstr "Ovaj blend fajl čeka odobrenje i nije dostupan običnim korisnicima"
 
 #: View/Keys/add.ctp:4
 msgid "Add Key"
-msgstr "Schlüssel hinzufügen"
+msgstr "Dodaj ključ"
 
 #: View/Keys/add.ctp:19 View/Keys/edit.ctp:21 View/Keys/view.ctp:41
 msgid "List Keys"
-msgstr "Schlüssel auflisten"
+msgstr "Lista ključeva"
 
 #: View/Keys/edit.ctp:4 View/Keys/view.ctp:39
 msgid "Edit Key"
-msgstr "Schlüssel bearbeiten"
+msgstr "Izmijeni ključ"
 
 #: View/Keys/index.ctp:2
 msgid "Keys"
-msgstr "Schlüssel"
+msgstr "Ključevi"
 
 #: View/Keys/index.ctp:48 View/Keys/view.ctp:42
 msgid "New Key"
-msgstr "Neuer Schlüssel"
+msgstr "Novi ključ"
 
 #: View/Keys/view.ctp:2;19 View/Options/admin_view.ctp:9
 msgid "Key"
-msgstr "Schlüssel"
+msgstr "Ključ"
 
 #: View/Keys/view.ctp:14
 msgid "Route"
-msgstr "Route"
+msgstr "Putanja"
 
 #: View/Keys/view.ctp:29 View/Users/bandwidth.ctp:40
 msgid "Expires"
-msgstr "erlischt"
+msgstr "Ističe"
 
 #: View/Keys/view.ctp:40
 msgid "Delete Key"
-msgstr "Schlüssel löschen"
+msgstr "Obriši ključ"
 
 #: View/Layouts/frontend.ctp:104
 msgid "Service"
-msgstr "Service"
+msgstr "Usluga"
 
 #: View/Layouts/frontend.ctp:107
 msgid "Browse All Blends"
-msgstr "Alle Blends blättern"
+msgstr "Pogledaj sve Blend radove"
 
 #: View/Layouts/frontend.ctp:113
 msgid "Browse Blend Requests"
-msgstr "Blend Anfragen blättern"
+msgstr "Pogledaj Blend zahtjeve"
 
 #: View/Layouts/frontend.ctp:116
 msgid "Browse Blend Collections"
-msgstr "Blend Sammlungen blättern"
+msgstr "Pogledaj Blend kolekciju"
 
+# User index - stranica korisnika ???
+# User index - početna stranica korisnika ???
 #: View/Layouts/frontend.ctp:119
 msgid "Users Index"
-msgstr "Benutzer Index"
+msgstr "Korisnički indeks"
 
 #: View/Layouts/frontend.ctp:130
 msgid "Accounts"
-msgstr "Accounts"
+msgstr "Nalozi"
 
 #: View/Layouts/frontend.ctp:136
 msgid "Free Membership"
-msgstr "Kostenlose Mitgliedschaft"
+msgstr "Besplatno članstvo"
 
+# Associate Membership - dodijeli, idruži ???
 #: View/Layouts/frontend.ctp:139
 msgid "Associate Membership"
-msgstr "Fördernde Mitgliedschaft"
+msgstr "Dodijeli članstvo"
 
+# Deadline
 #: View/Layouts/frontend.ctp:142
 msgid "Deadline Membership"
-msgstr "Deadline Mitgliedschaft"
+msgstr "Rok važenja članstva"
 
 #: View/Layouts/frontend.ctp:148
 msgid "Bandwidth Assignation"
-msgstr "Bandbreite Zuweisung"
+msgstr "Dodjeljivanje protoka"
 
 #: View/Layouts/frontend.ctp:153
 msgid "Site"
-msgstr "Seite"
+msgstr "Sajt"
 
 #: View/Layouts/frontend.ctp:156
 msgid "About"
-msgstr "Über"
+msgstr "O nama"
 
 #: View/Layouts/frontend.ctp:159
 msgid "Site News"
-msgstr "Seite Neuigkeiten"
+msgstr "Novosti sajta"
 
 #: View/Layouts/frontend.ctp:165
 msgid "Contact"
@@ -2944,249 +2970,249 @@ msgstr "Kontakt"
 
 #: View/Layouts/frontend.ctp:168
 msgid "Credits"
-msgstr "Credits"
+msgstr "Zasluga"
 
 #: View/Layouts/frontend.ctp:171
 msgid "Advertising"
-msgstr "Werbung"
+msgstr "Reklamiranje"
 
 #: View/Layouts/frontend.ctp:174
 msgid "Translations"
-msgstr "Übersetzungen"
+msgstr "Prevodi"
 
 #: View/Layouts/frontend.ctp:179
 msgid "Connect"
-msgstr "Verbunden"
+msgstr "Poveži"
 
 #: View/Layouts/frontend.ctp:206
 msgid "About Blender"
-msgstr "Über Blender"
+msgstr "O Blenderu"
 
 #: View/Layouts/frontend.ctp:209
 msgid "Get Blender"
-msgstr "Blender bekommen"
+msgstr "Preuzmi Blender"
 
 #: View/Layouts/frontend.ctp:212
 msgid "Learn Blender"
-msgstr "Blender lernen"
+msgstr "Nauči o Blender(u)"
 
 #: View/Layouts/frontend.ctp:219
 msgid "Support"
-msgstr "Support"
+msgstr "Pomoć"
 
 #: View/Layouts/frontend.ctp:241
 msgid "Reset Password"
-msgstr "Passwort zurücksetzen"
+msgstr "Resetuj lozinku"
 
 #: View/Layouts/frontend.ctp:247
 msgid "Legal"
-msgstr "Rechtliches"
+msgstr "Pravno legalno"
 
 #: View/Layouts/frontend.ctp:250
 msgid "File Licensing"
-msgstr "Datei Lizenzierungen"
+msgstr "Licenca fajlova"
 
 #: View/Layouts/frontend.ctp:253
 msgid "Terms of Use"
-msgstr "Nutzungsbedingungen"
+msgstr "Uslovi za korišćenje"
 
 #: View/Layouts/frontend.ctp:256
 msgid "Privacy Policy"
-msgstr "Datenschutz"
+msgstr "Polisa privatnosti"
 
 #: View/Layouts/frontend.ctp:263
 msgid "Take the guided tour!"
-msgstr "Nehmen Sie die Führung!"
+msgstr "Pogledaj obilazak sa vodičem !"
 
 #: View/Layouts/frontend.ctp:272
 msgid "All rights reserved"
-msgstr "Alle Rechte vorbehalten"
+msgstr "Sva prava su zadržana"
 
 #: View/Layouts/frontend.ctp:273
 msgid "Except where noted, all content is released under"
-msgstr "Soweit nicht anders angegeben sind alle Inhalte veröffentlicht unter"
+msgstr "Sem ako nije navedeno, sav sadržaj je objavljen pod"
 
 #: View/Limits/admin_add.ctp:4
 msgid "Add Limit"
-msgstr "Limit hinzufügen"
+msgstr "Dodaj ograničenje"
 
 #: View/Limits/admin_add.ctp:18 View/Limits/admin_edit.ctp:20
 #: View/Limits/admin_view.ctp:46 View/Users/admin_index.ctp:90
 msgid "List Limits"
-msgstr "Limits auflsten"
+msgstr "Lista ograničenja"
 
 #: View/Limits/admin_edit.ctp:4 View/Limits/admin_view.ctp:44
 msgid "Edit Limit"
-msgstr "Limits ändern"
+msgstr "Izmijeni ograničenja"
 
 #: View/Limits/admin_index.ctp:2
 msgid "Limits"
-msgstr "Limits"
+msgstr "Ograničenja"
 
 #: View/Limits/admin_index.ctp:50 View/Limits/admin_view.ctp:47
 #: View/Users/admin_index.ctp:91
 msgid "New Limit"
-msgstr "Neues Limit"
+msgstr "Novo ograničenje"
 
 #: View/Limits/admin_view.ctp:2
 msgid "Limit"
-msgstr "Limit"
+msgstr "Ograničenje"
 
 #: View/Limits/admin_view.ctp:24
 msgid "Applies"
-msgstr "Betrifft"
+msgstr "Prihvati"
 
 #: View/Limits/admin_view.ctp:29 View/Users/bandwidth.ctp:32
 msgid "Remaining"
-msgstr "übrig"
+msgstr "Preostalo"
 
 #: View/Limits/admin_view.ctp:34 View/Users/bandwidth.ctp:28
 msgid "Spent"
-msgstr "verbraucht"
+msgstr "Potroši"
 
 #: View/Limits/admin_view.ctp:45
 msgid "Delete Limit"
-msgstr "Limit löschen"
+msgstr "Limit brisanja"
 
 #: View/Messages/add.ctp:4
 msgid "Add Message"
-msgstr "Nachricht hinzufügen"
+msgstr "Dodaj poruku"
 
 #: View/Messages/add.ctp:18 View/Messages/edit.ctp:20
 #: View/Messages/view.ctp:46 View/Users/admin_index.ctp:82
 msgid "List Messages"
-msgstr "Nachrichten auflisten"
+msgstr "Lista poruka"
 
 #: View/Messages/edit.ctp:4 View/Messages/view.ctp:44
 msgid "Edit Message"
-msgstr "Nachrichten bearbeiten"
+msgstr "Izmijeni poruku"
 
 #: View/Messages/index.ctp:50 View/Messages/view.ctp:47
 #: View/Users/admin_index.ctp:83
 msgid "New Message"
-msgstr "Neue Nachricht"
+msgstr "Nova poruka"
 
 #: View/Messages/view.ctp:45
 msgid "Delete Message"
-msgstr "Nachricht löschen"
+msgstr "Obriši poruku"
 
 #: View/News/admin_add.ctp:18 View/News/admin_edit.ctp:15
 msgid "Save"
-msgstr "Speichern"
+msgstr "Sačuvaj"
 
 #: View/News/admin_index.ctp:3
 msgid "News"
-msgstr "Neuigkeiten"
+msgstr "Vijesti"
 
 #: View/News/rss/index.ctp:3
 msgid "Latest news"
-msgstr "Letzte Neuigketen"
+msgstr "Najnovije vijesti"
 
 #: View/News/rss/index.ctp:5
 msgid "Blend Swap Site news and updates."
-msgstr "Blend Swap Seite Neuigkeiten und Updates."
+msgstr "Blend Swap vijesti i informacije."
 
 #: View/Options/admin_add.ctp:4
 msgid "Add Option"
-msgstr "Option hinzufügen"
+msgstr "Dodaj opciju"
 
 #: View/Options/admin_add.ctp:19 View/Options/admin_edit.ctp:39
 #: View/Options/admin_view.ctp:31
 msgid "List Options"
-msgstr "Optionen auflisten"
+msgstr "Lista opcija"
 
 #: View/Options/admin_edit.ctp:4 View/Options/admin_view.ctp:29
 msgid "Edit Option"
-msgstr "Optionen bearbeiten"
+msgstr "Izmijena opcije"
 
 #: View/Options/admin_index.ctp:2 View/Options/admin_manage.ctp:2
 msgid "Options"
-msgstr "Optionen"
+msgstr "Opcije"
 
 #: View/Options/admin_index.ctp:48
 msgid "Manage Options (Superuser only)"
-msgstr "Optionen verwalten (Nur Superbenutzer)"
+msgstr "Izmijena opcije (Superuser privilegija)"
 
 #: View/Options/admin_manage.ctp:44 View/Options/admin_view.ctp:32
 msgid "New Option"
-msgstr "Neue Option"
+msgstr "Nova opcija"
 
 #: View/Options/admin_view.ctp:2
 msgid "Option"
-msgstr "Option"
+msgstr "Opcija"
 
 #: View/Options/admin_view.ctp:14
 msgid "Value"
-msgstr "Wert"
+msgstr "Vrijednost"
 
 #: View/Options/admin_view.ctp:30
 msgid "Delete Option"
-msgstr "Option löschen"
+msgstr "Obriši opciju"
 
 #: View/Pages/admin_add.ctp:5
 msgid "Add Page"
-msgstr "Seite hinzufügen"
+msgstr "Dodaj stranicu"
 
 #: View/Pages/admin_add.ctp:21
 msgid "List Pages"
-msgstr "Seiten auflisten"
+msgstr "Lista stranica"
 
 #: View/Pages/admin_edit.ctp:4
 msgid "View Page"
-msgstr "Seite zeigen"
+msgstr "Pogledaj stranicu"
 
 #: View/Pages/admin_edit.ctp:17
 msgid "Save changes"
-msgstr "Änderungen speichern"
+msgstr "Sačuvaj izmjene"
 
 #: View/Pages/admin_index.ctp:2
 msgid "Pages"
-msgstr "Seiten"
+msgstr "Stranice"
 
 #: View/Pages/admin_index.ctp:42
 msgid "New Page"
-msgstr "Neue Seite"
+msgstr "Nova stranica"
 
 #: View/Profiles/admin_add.ctp:4
 msgid "Admin Add Profile"
-msgstr "Profil hinzufügen (Admin)"
+msgstr "Admin dodavanje profila"
 
 #: View/Profiles/admin_add.ctp:28 View/Profiles/admin_edit.ctp:30
 #: View/Profiles/admin_view.ctp:96
 msgid "List Profiles"
-msgstr "Profile auflisten"
+msgstr "Lista profila"
 
 #: View/Profiles/admin_edit.ctp:4
 msgid "Admin Edit Profile"
-msgstr "Profil bearbeiten (Admin)"
+msgstr "Admin izmjena profila"
 
 #: View/Profiles/admin_index.ctp:2
 msgid "Profiles"
-msgstr "Profile"
+msgstr "Profili"
 
 #: View/Profiles/admin_index.ctp:70 View/Profiles/admin_view.ctp:97
 msgid "New Profile"
-msgstr "Neues Profil"
+msgstr "Novi profil"
 
 #: View/Profiles/admin_view.ctp:2
 msgid "Profile"
-msgstr "Profile"
+msgstr "Profil"
 
 #: View/Profiles/admin_view.ctp:14
 msgid "First Name"
-msgstr "Vorname"
+msgstr "Ime"
 
 #: View/Profiles/admin_view.ctp:19
 msgid "Last Name"
-msgstr "Nachnahme"
+msgstr "Prezime"
 
 #: View/Profiles/admin_view.ctp:24
 msgid "Website"
-msgstr "Webseite"
+msgstr "Vebsajt"
 
 #: View/Profiles/admin_view.ctp:39
 msgid "Bio"
-msgstr "Biographie"
+msgstr "Biografija"
 
 #: View/Profiles/admin_view.ctp:44
 msgid "Twitter"
@@ -3206,7 +3232,7 @@ msgstr "Vimeo"
 
 #: View/Profiles/admin_view.ctp:64
 msgid "Youtube"
-msgstr "Youtube"
+msgstr "YouTube"
 
 #: View/Profiles/admin_view.ctp:69
 msgid "Bartists"
@@ -3218,622 +3244,474 @@ msgstr "Flickr"
 
 #: View/Profiles/admin_view.ctp:79
 msgid "Blend Count"
-msgstr "Blend Zähler"
+msgstr "Brojač blend fajlova"
 
 #: View/Profiles/admin_view.ctp:95
 msgid "Delete Profile"
-msgstr "Profil löschen"
+msgstr "Obriši profil"
 
 #: View/Questions/add.ctp:23
 msgid "Ask a new Question!"
-msgstr "Stell eine neue Frage!"
+msgstr "Postavi pitanje !"
 
 #: View/Questions/admin_add.ctp:4
 msgid "Admin Add Question"
-msgstr "Frage hinzufügen (Admin)"
+msgstr "Admin postavi pitanje"
 
 #: View/Questions/admin_add.ctp:17 View/Questions/admin_edit.ctp:19
 #: View/Questions/admin_view.ctp:41
 msgid "List Questions"
-msgstr "Fragen auflisten"
+msgstr "Lista pitanja"
 
 #: View/Questions/admin_edit.ctp:4
 msgid "Admin Edit Question"
-msgstr "Frage bearbeiten (Admin)"
+msgstr "Admin izmijena pitanja"
 
 #: View/Questions/admin_view.ctp:2
 msgid "Question"
-msgstr "Frage"
+msgstr "Pitanje"
 
 #: View/Questions/admin_view.ctp:39 View/Questions/edit.ctp:4
 msgid "Edit Question"
-msgstr "Frage bearbeiten"
+msgstr "Izmijeni pitanje"
 
 #: View/Questions/admin_view.ctp:40
 msgid "Delete Question"
-msgstr "Frage löschen"
+msgstr "Obriši pitanje"
 
 #: View/Questions/index.ctp:1 View/Questions/view.ctp:1
 msgid " Questions"
-msgstr "Fragen"
+msgstr "Pitanja"
 
+# Brovswer
 #: View/Questions/index.ctp:8
 msgid "Comment Count"
-msgstr "Kommentar Zähler"
+msgstr "Brojač komentara"
 
 #: View/Questions/index.ctp:58
 msgid ""
 "Page {:page} of {:pages}, showing {:current} questions out of {:count} total."
 msgstr ""
-"Seite {:page} von {:pages}, zeigt {:current} Fragen von {:count} insgesamt."
+"Strana {:page} od {:pages}, prikazana(o) {:current} pitanja od ukupno {:"
+"count} ."
 
 #: View/Questions/view.ctp:12
 msgid "Answer"
-msgstr "Antwort"
+msgstr "Odgovor"
 
 #: View/Questions/rss/index.ctp:3
 msgid "Blend Swap Questions"
-msgstr "Blend Swap Fragen"
+msgstr "Blend Swap pitanja"
 
 #: View/Questions/rss/index.ctp:5
 msgid "Most recent questions on Blend Swap."
-msgstr "Neueste Fragen auf Blend Swap."
+msgstr "Ne davna pitanja na Blend Swap-u."
 
 #: View/Reports/__add.ctp:4
 msgid "Add Report"
-msgstr "Bericht hinzufügen"
+msgstr "Prijavi"
 
 #: View/Reports/__add.ctp:17 View/Reports/admin_edit.ctp:19
 #: View/Reports/admin_view.ctp:57 View/Reports/view.ctp:41
 msgid "List Reports"
-msgstr "Berichte auflisten"
+msgstr "Lista prijava"
 
 #: View/Reports/admin_edit.ctp:4 View/Reports/admin_view.ctp:55
 #: View/Reports/view.ctp:39
 msgid "Edit Report"
-msgstr "Bericht bearbeiten"
+msgstr "Izmijeni prijavu"
 
 #: View/Reports/admin_index.ctp:2
 msgid "Reports"
-msgstr "Berichte"
+msgstr "Prijave"
 
 #: View/Reports/admin_index.ctp:64 View/Reports/admin_view.ctp:58
 #: View/Reports/view.ctp:42
 msgid "New Report"
-msgstr "Neuer Bericht"
+msgstr "Nova prijava"
 
 #: View/Reports/admin_view.ctp:56 View/Reports/view.ctp:40
 msgid "Delete Report"
-msgstr "Bericht löschen"
+msgstr "Obriši prijavu"
 
 #: View/Reports/view.ctp:24
 msgid "Reason"
-msgstr "Grund"
+msgstr "Razlog"
 
 #: View/Requests/add.ctp:47
 msgid "Request a Blend"
-msgstr "Eine Blend anfordern"
+msgstr "Blend zahtjev"
 
 #: View/Requests/admin_add.ctp:4
 msgid "Admin Add Request"
-msgstr "Anfrage hinzufügen (Admin)"
+msgstr "Admin dodavanje zahtjeva"
 
 #: View/Requests/admin_edit.ctp:4
 msgid "Admin Edit Request"
-msgstr "Anfrage bearbeiten (Admin)"
+msgstr "Admin izmjena zahtjeva"
 
 #: View/Requests/admin_view.ctp:44 View/Requests/edit.ctp:4
 msgid "Edit Request"
-msgstr "Anfrage bearbeiten"
+msgstr "Izmijeni zahtjev"
 
 #: View/Requests/admin_view.ctp:45
 msgid "Delete Request"
-msgstr "Anfrage löschen"
+msgstr "Obriši zahtjev"
 
 #: View/Requests/admin_view.ctp:55
 msgid "Related Responses"
-msgstr "Verwandte Antworten"
+msgstr "Slični odgovori"
 
 #: View/Requests/admin_view.ctp:63
 msgid "Request Id"
-msgstr "Anfrage ID"
+msgstr "Id zahtjeva"
 
 #: View/Requests/index.ctp:1 View/Requests/view.ctp:1
 msgid " Requests"
-msgstr "Anfragen"
+msgstr "Zahtjevi"
 
 #: View/Requests/index.ctp:29
 msgid "Requested by"
-msgstr "angefordert von"
+msgstr "Zatražen od"
 
 #: View/Requests/index.ctp:32
 msgid "Workers"
-msgstr "Arbeiter"
+msgstr "Radnici"
 
 #: View/Requests/index.ctp:35
 msgid "Requirements"
-msgstr "Anforderungen"
+msgstr "Uslovi"
 
 #: View/Requests/view.ctp:72
 msgid ""
 "There are no answers to this Request yet. Do you have a blend that fulfills "
 "this Request?"
 msgstr ""
-"Es gibt noch keine Antworten auf diese Anfrage. Haben Sie eine Blend, die "
-"diese Anforderung erfüllt?"
+"Još uvijek nema odgovora na ovaj zahtjev. Da li ti možda imaš blend fajl "
+"koji bi popunio zahtjev ?"
 
 #: View/Requests/view.ctp:80
 msgid "Responders"
-msgstr "Beantworter"
+msgstr "Odgovorili na zahtjev"
 
 #: View/Requests/view.ctp:95
 msgid "No one has responded to this request, can you submit an answer?"
-msgstr ""
-"Niemand hat auf diese Anfrage reagiert, können Sie eine Antwort abgeben?"
+msgstr "Niko nije odgovorijo na ovaj zahtjev, možda ti imaš odgovor ?"
 
 #: View/Requests/view.ctp:104
 msgid "Work In Progress"
-msgstr "In Arbeit"
+msgstr "Izrada u toku"
 
 #: View/Requests/view.ctp:114
 msgid "There is no Work in progress for this Request. Pick it up now!"
-msgstr "Es gibt keine Laufende Arbeiten für diese Anfrage. Nehmen Sie es auf!"
+msgstr "Trenutno niko ne radi na ovom zahtjevu. Možeš da pomogneš !"
 
 #: View/Requests/rss/index.ctp:3
 msgid "Latest Requests"
-msgstr "Letzte ANfrage"
+msgstr "Najnoviji zahtjevi"
 
 #: View/Requests/rss/index.ctp:5
 msgid "Most recent requests on Blend Swap."
-msgstr "Neueste Anfragen auf Blend Swap."
+msgstr "Ne davni zahtjevi na Blend Swap-u."
 
 #: View/Users/account.ctp:4 View/Users/admin_view.ctp:231
 msgid "Edit User"
-msgstr "Benutzer bearbeiten"
+msgstr "Izmijena korisnika"
 
 #: View/Users/add.ctp:174
 msgid "Sign me up!"
-msgstr "Anmelden!"
+msgstr "Registruj se !"
 
 #: View/Users/admin_add.ctp:4
 msgid "Admin Add User"
-msgstr "Benutzer hinzufügen (ADmin)"
+msgstr "Admin dodavanje korisnika"
 
 #: View/Users/admin_edit.ctp:4
 msgid "Admin Edit User"
-msgstr "Benutzer bearbeiten (ADmin)"
+msgstr "Admin izmjena korisnika"
 
+# Wpusermetas ???
 #: View/Users/admin_index.ctp:84
 msgid "List Wpusermetas"
-msgstr "WP-Benutzermetadaten auflisten"
+msgstr "Lista wpusermeta"
 
+# Wpusermetas ???
 #: View/Users/admin_index.ctp:85
 msgid "New Wpusermeta"
-msgstr "Neue WP-Benutzermetadaten"
+msgstr "Novi wpusermeta"
 
 #: View/Users/admin_index.ctp:86
 msgid "List Collections"
-msgstr "Sammlungen auflisten"
+msgstr "Lista kolekcija"
 
 #: View/Users/admin_index.ctp:87
 msgid "New Collection"
-msgstr "Neue Sammlung"
+msgstr "Nova kolekcija"
 
 #: View/Users/admin_view.ctp:232
 msgid "Delete User"
-msgstr "Benutzer löschen"
+msgstr "Obriši korisnika"
 
 #: View/Users/associate.ctp:146
 msgid "Sign Me Up"
-msgstr "Registrieren"
+msgstr "Registruj se"
 
 #: View/Users/bandwidth.ctp:6
 msgid "Your bandwidth history by month"
-msgstr "Ihre Bandbreite History in Monaten"
+msgstr "Istorija preuzimanja po mjesecima"
 
 #: View/Users/bandwidth.ctp:8
 msgid "You have unlimited bandwidth! you can totally ignore this"
-msgstr "Sie haben unbegrenzte Bandbreite! Sie können das vollkommen ignorieren"
+msgstr "Imate neograničeno preuzimanje !"
 
 #: View/Users/bandwidth.ctp:12
 msgid "Learn how bandwidth is assigned"
-msgstr "Erfahren Sie, wie Bandbreite zugewiesen wird"
+msgstr "Saznajte kako se dodijeljuje protok"
 
 #: View/Users/bandwidth.ctp:36
 msgid "Initialized"
-msgstr "initialisiert"
+msgstr "Započet"
 
 #: View/Users/bandwidth.ctp:47
 msgid "Is this wrong?"
-msgstr "Ist das Falsch?"
+msgstr "Da li je ovo pogrešno ?"
 
 #: View/Users/bandwidth.ctp:49
 msgid "Fix it"
-msgstr "Reparieren Sie es"
+msgstr "Napravi ispravku"
 
 #: View/Users/bandwidth.ctp:64
 msgid "Download History for current month"
-msgstr "Download History für diesen Monat"
+msgstr "Istorija preuzimanja za ovaj mjesec"
 
 #: View/Users/bandwidth.ctp:73
 msgid "COUNTED"
-msgstr "GEZÄHLT"
+msgstr "Izbrojano"
 
 #: View/Users/bandwidth.ctp:73
 msgid "Not counted"
-msgstr "Nicht gezählt"
+msgstr "Nije izbrojano"
 
 #: View/Users/bandwidth.ctp:77
 msgid "Bandwidth"
-msgstr "Bandbreite"
+msgstr "Protok"
 
 #: View/Users/edit.ctp:1 View/Users/freeze.ctp:1
 msgid "Account and Settings"
-msgstr "Account und Einstellungen"
+msgstr "Nalog i podešavanja"
 
 #: View/Users/edit.ctp:8
 msgid "&larr; Don't see your avatar?"
-msgstr "&larr; sieht Ihren Avatar nicht?"
+msgstr "&larr; Avatar nije prikazan ?"
 
 #: View/Users/edit.ctp:9
 msgid "Get an account (or link your email below) on %s"
-msgstr "Zugang beantragen (oder Email unten linken) auf %s"
+msgstr "Registruj se ( ili unesi email adresu ispod ) na %"
 
 #: View/Users/edit.ctp:16
 msgid ""
 "Your real name will be publicly visible if you enter it, your email will be "
 "kept private"
 msgstr ""
-"Ihr realer Name wird öffentlich sichtbar sein wenn Sie ihn eingeben, aber "
-"Ihre Email wird privat gehalten."
+"Ukoliko unesete vaše pravo ime ono će biti vidljivo svima, a e-mail će biti "
+"sačuvan kao privatan"
 
 #: View/Users/edit.ctp:22
 msgid "Wanna change it?"
-msgstr "Wollen Sie es ändern?"
+msgstr "Želite uraditi izmjene ?"
 
 #: View/Users/edit.ctp:31
 msgid ""
 "Make sure this email is a permanent address so you can get email "
 "notifications and reset your password in case it's needed."
 msgstr ""
-"Stellen Sie sicher, dass diese Email Addresse permanent von ihnen genutzt "
-"wird, damit Sie Benachrichtigungen erhalten und Ihr Passwort zurücksetzen "
-"können falls nötig."
+"Uvjerite se da je ovaj email validan, tako da možete da dobijete obaveštenja "
+"kao i da resetujete lozinku u slučaju da to bude neophodno."
 
 #: View/Users/edit.ctp:38
 msgid "Notification Settings"
-msgstr "Benachrichtigung Einstellungen"
+msgstr "Podešavanje obavještenja"
 
 #: View/Users/edit.ctp:41
 msgid "Send me email notifications when"
-msgstr "Sende mir eine Email Benachrichtigung wenn"
+msgstr "Obavjestite me mail-om ukoliko"
 
 #: View/Users/edit.ctp:44
 msgid "My blends are published"
-msgstr "Meine Blends sind veröffentlicht"
+msgstr "Moj blend je objavljen"
 
 #: View/Users/edit.ctp:45
 msgid "My blends are added to a public collection."
-msgstr "Meine Blends werden zu  einer öffentlichen Sammlung hinzugefügt."
+msgstr "Moj blend je dodat u javnu kolekciju."
 
 #: View/Users/edit.ctp:46
 msgid "My blends are added to Staff Picks"
-msgstr "Meine Blends wurden zu den Staff Picks hinzugefügt"
+msgstr "Moj blend je dodat u odabir urednika"
 
 #: View/Users/edit.ctp:47
 msgid "Another user sends me a message"
-msgstr "Ein anderer Benutzer sendete mir eine Nachricht"
+msgstr "Imate jednu novu poruku"
 
 #: View/Users/edit.ctp:48
 msgid "I get a new User Badge"
-msgstr "I erhalte ein neues Benutzer Abzeichen"
+msgstr "Dobio sam korisnički bedž"
 
 #: View/Users/edit.ctp:55
 msgid "More Settings"
-msgstr "Mehr Einstellungen"
+msgstr "Dodatna podešavanja"
 
 #: View/Users/edit.ctp:71
 msgid "Preferred Language"
-msgstr "Bevorzugte Sprache"
+msgstr "Željeni jezik"
 
+# Associate ???
 #: View/Users/edit.ctp:82
 msgid "Associate Members"
-msgstr "Fördernde Mitglieder"
+msgstr "Pridruženi članovi"
 
 #: View/Users/edit.ctp:83
 msgid "can set the amount of Blends per index page up to 60"
-msgstr "kann die Anzahl der Blends pro Indexseite auf 60 festlegen"
+msgstr "možete podesiti da bude prikazano do 60 blend fajlova"
 
 #: View/Users/edit.ctp:94;95;96
 msgid "blends per page"
-msgstr "Blend pro Seite"
+msgstr "blend fajlova po stranici"
 
+# default - podrazumjeva ili podrazumjevana
 #: View/Users/edit.ctp:94
 msgid "default"
-msgstr "Default"
+msgstr "podrazumjevana"
 
+# Top Uploaders - Najveći dodavači ???
 #: View/Users/index.ctp:7
 msgid "Top Uploaders"
-msgstr "Top Uploader"
+msgstr "Top dodavači"
 
 #: View/Users/index.ctp:9
 msgid ""
 "These artists have the most uploads among all members. Do you wanna be among "
 "them, you better get to work!"
 msgstr ""
-"Diese Artists haben die meißten Uploads unter allen Mitgliedern. Willst du "
-"einer von ihnen sein? Dann mach dich besser an die Arbeit"
+"Ovi korisnici imaju najviše dodavanja među svim članovima. Da li i ti želiš "
+"da budeš među njima, bolje počni da radiš !"
 
 #: View/Users/index.ctp:27;62
 msgid "points"
-msgstr "Punkte"
+msgstr "bodovi"
 
 #: View/Users/index.ctp:49
 msgid ""
 "The top of the ranking! Points awarded on comments and sharing many blends"
 msgstr ""
-"Die Besten vom Rankng! Punkte vergeben für Kommentare und für das teilen "
-"vieler Blends"
+"Na vrhu ranga ! Bodovi osvojeni komentarisanjem i dijeljenjem blend fajlova"
 
 #: View/Users/index.ctp:75
 msgid "These artists have recently swapped blends"
-msgstr "Diese Artists haben kürzlich Blends getauscht"
+msgstr "Ovi su korisnici nedavno razmijenili blend fajlove"
 
 #: View/Users/login.ctp:30
 msgid "Problems logging in?"
-msgstr "Probleme beim Einloggen?"
+msgstr "Imate problem sa prijavljivanjem ?"
 
 #: View/Users/login.ctp:35
 msgid "Register now!"
-msgstr "Jetzt registrieren!"
+msgstr "Registruj se !"
 
 #: View/Users/m_login.ctp:11
 msgid "Forgot your password?"
-msgstr "Passwort vergessen?"
+msgstr "Zaboravili ste lozinku ?"
 
 #: View/Users/search.ctp:93
 msgid ""
 "Page {:page} of {:pages}, showing {:current} artists out of {:count} total."
 msgstr ""
-"Seite {:page} von {:pages}, zeigt {:current} Artists von {:count} insgesamt."
+"Strana {:page} od {:pages}, prikazan(a)o {:current} korisnik(a) od {:count} "
+"ukupno."
 
 #: View/Users/username.ctp:7
 msgid "Change your username"
-msgstr "Ändere deinen Benutzernamen"
+msgstr "Promijeni korisničko ime"
 
 #: View/Users/username.ctp:22
 msgid "Your current username is %s"
-msgstr "Ihre aktuelle Benutzername ist %s"
+msgstr "Vaše korisničko ime je %"
 
 #: View/Users/username.ctp:24
 msgid "Enter your desired username to check if it is available"
-msgstr ""
-"Geben Sie Ihren gewünschten Benutzernamen ein, um zu überprüfen, ob er "
-"verfügbar ist"
+msgstr "Unesite željeno korisničko ime i proverite da li je dostupno"
 
 #: View/Users/view.ctp:89
 msgid "Account & Settings"
-msgstr "Account & Einstellungen"
+msgstr "Nalog & podešavanja"
 
 #: View/Users/view.ctp:100
 msgid "Badges"
-msgstr "Abzeichen"
+msgstr "Bedževi"
 
 #: View/Users/view.ctp:119
 msgid "This user has not earned any badges yet..."
-msgstr "Dieser Benutzer hat noch keine Abzeichen verdient ..."
+msgstr "Ovaj korisnik nema zarađen bedž, za sada ..."
 
 #: View/Users/view.ctp:124
 msgid "Followers"
-msgstr "Followers"
+msgstr "Pratioci"
 
+# from the profile edit panel
 #: View/Users/view.ctp:177
 msgid "You should set up your skills from the profile edit panel"
-msgstr "Sie sollten Ihre Fähigkeiten einstellen im Profil Bearbeitungs-Panel"
+msgstr "Trebalo bi da upišete vaše vještine na profilu"
 
 #~ msgid "This blend is published so it can not be removed by you."
-#~ msgstr ""
-#~ "Diese Blend ist veröffentlicht, deshalb kann sie nicht von Ihnen entfernt "
-#~ "werden."
+#~ msgstr "Blend fajl je objavljen pa ga Vi ne možete obrisati."
 
 #~ msgid "Name"
-#~ msgstr "Name"
+#~ msgstr "Ime"
 
 #~ msgid "Published on"
-#~ msgstr "Veröffentlicht am"
+#~ msgstr "Objavljen dana"
 
 #~ msgid ""
 #~ "The author of this blend is temporarily blocked and so we will not serve "
 #~ "their blends, sorry for the inconvenience. "
 #~ msgstr ""
-#~ "Der Author dieser Blend ist vorübergehend blockiert, deshalb werden wir "
-#~ "seine Blends nicht zur verfügung stellen. Wir entschuldigen uns für die "
-#~ "Unannehmlichkeiten."
+#~ "Autor ovog blend fajla je privremeno blokiran tako da mi nećemo "
+#~ "prikazivati njegove blend fajlove, žao nam je zbog neprijatnosti."
 
 #~ msgid "Contacts"
-#~ msgstr "Kontakte"
+#~ msgstr "Kontakti"
 
 #~ msgid "Tour"
-#~ msgstr "Tour"
+#~ msgstr "Obilazak"
 
 #~ msgid "The Blend Swap Features"
-#~ msgstr "Die Blend Swap Features"
+#~ msgstr "Blend Swap karakteristike"
 
 #~ msgid "Faq"
-#~ msgstr "FAQ"
+#~ msgstr "Pitanja i odgovori"
 
 #~ msgid "About Blend Swap"
-#~ msgstr "Über Blend Swap"
+#~ msgstr "O Blend Swap(u)"
 
 #~ msgid "Contact us"
-#~ msgstr "Kontaktiere Uns"
+#~ msgstr "Kontaktirajte nas"
 
 #~ msgid "What is Blender and why you will love it."
-#~ msgstr "Was ist Blender und warum Sie es lieben werden."
+#~ msgstr "Šta je to Blender i zašto ćeš ga zavoljeti."
 
 #~ msgid "A listing of awesome Blender tutorials."
-#~ msgstr "Eine Auflistung herausragender Blender Tutorials."
+#~ msgstr "Lista odličnih Blender tutorijala."
 
 #~ msgid "Blend File Licensing"
-#~ msgstr "Blend Datei Lizenzierungen"
+#~ msgstr "Blend fajl licenca"
 
 #~ msgid "Our Privacy Policy"
-#~ msgstr "Unser Datenschutz"
+#~ msgstr "Naša polisa privatnosti"
 
 #~ msgid "The Terms of Use"
-#~ msgstr "Die Nutzungsbedingungen"
+#~ msgstr "Uslovi korišćenja"
 
 #~ msgid "Our RSS Feeds"
-#~ msgstr "Unsere RSS Feeds"
+#~ msgstr "Naš RSS Feed(ovi)"
 
 #~ msgid "All our available RSS feeds."
-#~ msgstr "Alle unserer verfügbaren RSS Feeds."
-
-#~ msgid "Latest activity"
-#~ msgstr "Letzte Aktivität"
-
-#~ msgid "Your Associate Membership has"
-#~ msgstr "Ihre Fördernde Mitgliedschaft hat"
-
-#~ msgid "Your Deadline Membership has"
-#~ msgstr "Ihre Deadline Mitgliedschaft hat"
-
-#~ msgid "Unlimited Bandwidth"
-#~ msgstr "Unbegrenzte Bandbreite"
-
-#~ msgid "Your Associate membership is set to auto-renew."
-#~ msgstr ""
-#~ "Ihre Fördernde Mitgliedschaft ist auf automatisch verlängern gesetzt."
-
-#~ msgid "Until"
-#~ msgstr "Bis"
-
-#~ msgid "Bandwidth information for this month"
-#~ msgstr "Bandbreite Information für diesen Monat"
-
-#~ msgid "Bandwidth for"
-#~ msgstr "Bandbreite für"
-
-#~ msgid "Allowed"
-#~ msgstr "erlaubt"
-
-#~ msgid "Get more bandwidth!"
-#~ msgstr "Mehr Bandbreite bekommen!"
-
-#~ msgid "Register your account now!"
-#~ msgstr "Ihren Account jetzt registrieren!"
-
-#~ msgid "Log in to swap some blends!"
-#~ msgstr "Enloggen um ein paar Blends zu tauschen!"
-
-#~ msgid "Upload"
-#~ msgstr "Upload"
-
-#~ msgid "Create a new blend Request"
-#~ msgstr "Erstelle eine neue Blend Anfrage"
-
-#~ msgid "Zip file MD5 checksum"
-#~ msgstr "Zip Daten MD5 Prüfsumme"
-
-#~ msgid "Membership"
-#~ msgstr "Mitgliedschaft"
-
-#~ msgid "Add News Update"
-#~ msgstr "Neuigkeiten Update hinzufügen"
-
-#~ msgid "List News"
-#~ msgstr "Listar Neuigkeiten auflisten"
-
-#~ msgid "Edit News"
-#~ msgstr "Neuigkeiten bearbeiten"
-
-#~ msgid "Delete Page"
-#~ msgstr "Seite löschen"
-
-#~ msgid "Invalid email"
-#~ msgstr "Ungültige Email"
-
-#~ msgid "The email has been saved"
-#~ msgstr "Die Email wurde gespeichert."
-
-#~ msgid "The email could not be saved. Please, try again."
-#~ msgstr "Die Email konnte nicht gespeichert werden. Bitte erneut versuchen."
-
-#~ msgid "Email deleted"
-#~ msgstr "Email gelöscht"
-
-#~ msgid "Email was not deleted"
-#~ msgstr "Email wurde nicht gelöscht"
-
-#~ msgid "List Responses"
-#~ msgstr "Antworten auflisten"
-
-#~ msgid "List Users"
-#~ msgstr "Benutzer auflisten"
-
-#~ msgid "New User"
-#~ msgstr "Neuer Benutzer"
-
-#~ msgid "List Requests"
-#~ msgstr "Anfragen auflisten"
-
-#~ msgid "Karma"
-#~ msgstr "Karma"
-
-#~ msgid "comment"
-#~ msgstr "kommentieren"
-
-#~ msgid "Repack Files"
-#~ msgstr "Dateien umpacken"
-
-#~ msgid "How bandwidth works"
-#~ msgstr "Wie die Bandbreite funktioniert"
-
-#, fuzzy
-#~ msgid "Invalid term"
-#~ msgstr "Ungültige Bedingung"
-
-#, fuzzy
-#~ msgid "The term has been saved"
-#~ msgstr "Die Bedingung wurde gespeichert"
-
-#, fuzzy
-#~ msgid "The term could not be saved. Please, try again."
-#~ msgstr ""
-#~ "Die Bedingung konnte nicht gespeichert werden. Bitte erneut versuchen"
-
-#, fuzzy
-#~ msgid "Term deleted"
-#~ msgstr "Bedingung gelöscht"
-
-#, fuzzy
-#~ msgid "Term was not deleted"
-#~ msgstr "Bedingung wurde nicht gelöscht"
-
-#~ msgid ""
-#~ "Page {:page} of {:pages}, showing {:current} records out of {:count} "
-#~ "total."
-#~ msgstr ""
-#~ "Página {:page} de {:pages}, mostrando {:current} entradas de {:count} en "
-#~ "total."
-
-#~ msgid " previous"
-#~ msgstr "anterior"
-
-#~ msgid "next "
-#~ msgstr "siguiente"
-
-#~ msgid "Click to start following comments here."
-#~ msgstr "Sigue los comentarios acá"
-
-#~ msgid "Click to stop following comments here."
-#~ msgstr "No seguir los comentarios acá"
-
-#~ msgid "Blend Swap, LLC"
-#~ msgstr "Blend Swap, LLC"
-
-#~ msgid " Previous"
-#~ msgstr "Anterior"
-
-#~ msgid "Next "
-#~ msgstr "Siguiente"
+#~ msgstr "Svi naši dostupni RSS feed(ovi)."

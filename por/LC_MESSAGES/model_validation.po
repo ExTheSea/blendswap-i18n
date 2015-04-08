@@ -4,294 +4,277 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Blend Swap Translation 0.1\n"
-"POT-Creation-Date: 2013-08-01 10:47-0600\n"
-"PO-Revision-Date: 2013-09-03 00:35+0100\n"
-"Last-Translator: CerFriBar <cerfribar@googlemail.com>\n"
+"POT-Creation-Date: 2013-02-17 16:00-0600\n"
+"PO-Revision-Date: 2013-03-30 01:01-0300\n"
+"Last-Translator: Giulana Zambotto Furlan <almatter@almatter.com>\n"
 "Language-Team: Blend Swap Translators <support@blendswap.com>\n"
-"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: pt_BR\n"
 "X-Generator: Poedit 1.5.5\n"
 
 #: Model/Blend.php:validation for field title
 msgid "Your blend must have a name!"
-msgstr "Ihre Blend muss einen Namen haben!"
+msgstr "Seu blend deve ter um nome!"
 
 #: Model/Blend.php:validation for field title
 msgid "The Blend Name must be between 2 and 140 chars long!"
-msgstr "Der Blend Name muss aus mindestens 2 und bis zu 140 Zeichen bestehen!"
+msgstr "O nome do blend deve ter entre 2 e 140 caracteres!"
 
 #: Model/Blend.php:validation for field body
 msgid "Your blend must have a description!"
-msgstr "Ihre Blend muss eine Beschreibung haben!"
+msgstr "Seu blend deve ter a descrição!"
 
 #: Model/Blend.php:validation for field body
 msgid "The description must be between 40 and 5000 chars long!"
-msgstr ""
-"Die Beschreibung muss aus mindestens 40 und bis zu 5000 Zeichen bestehen!"
+msgstr "A descrição deve ter entre 40 e 5000 caracteres!"
 
-#: Model/Blend.php:validation for field three_dee
+#: Model/Blend.php:validation for field p3d_url
 msgid "That is not a url!"
-msgstr "Das ist keine URL!"
+msgstr "Isso não parece uma URL!"
 
-#: Model/Blend.php:validation for field three_dee
+#: Model/Blend.php:validation for field p3d_url
 msgid "That is not a supported viewer."
-msgstr "Das ist kein unterstützter Anzeiger."
+msgstr "Este não é um visualizador suportado."
 
 #: Model/Blend.php:validation for field blend_license
 msgid "Please choose a license for your blend."
-msgstr "Bitte wählen Sie eine Lizenz für Ihre Blend."
+msgstr "Por favor, escolha a licença para seu blend."
 
 #: Model/Blend.php:validation for field blend_license
 msgid "Invalid value for Blend License!"
-msgstr "Ungültiger Wert für Blend Lizenz"
+msgstr "Valor inválido essa licença Blend!"
 
 #: Model/Blend.php:validation for field blender_version
 msgid "Please choose the version of blender you used to make this blend."
-msgstr ""
-"Bitte wählen Sie die Blender Version, mit welcher Sie die Blend erstellt "
-"haben"
+msgstr "Por favor, escolha a versão do Blender com qual foi feito esse blend."
 
 #: Model/Blend.php:validation for field blender_version
 msgid "Invalid value type for Blender version"
-msgstr "Ungültiger Wert für Blender Version"
+msgstr "Valor inválido para versão do Blender"
 
 #: Model/Blend.php:validation for field tags
 msgid ""
 "Tags help others find your blend. Use at least one tag and don't forget the "
 "commas!"
 msgstr ""
-"Tags helfen Anderen Ihre Blends zu finden. Verwenden Sie mindestens ein Tag "
-"und vergessen Sie nicht die Kommas!"
-
-#: Model/Blend.php:validation for field tags
-msgid "Those are not tags, write valid, comma separated tags!"
-msgstr ""
-"Das sind keine Tags. Schreiben Sie gültige, durch Komma getrennte Tags!"
+"Etiquetas ajudam outros usuários a encontrar seu Blend. Use pelo menos uma "
+"etiqueta e não esqueça de separa-las por vírgula!"
 
 #: Model/Blend.php:validation for field categories
 #: Model/Request.php:validation requirements
 msgid "Pick one to four categories."
-msgstr "Wähle ein bis vier Kathegorien."
+msgstr "Escolha uma até quatro categorias."
 
 #: Model/Blend.php:validation for field categories
 msgid "Invalid taxonomiy input."
-msgstr "Ungültige Taxonomie Eingabe."
+msgstr "Taxonomia inválida."
 
 #: Model/Blend.php:validation for field change_log
 msgid "Please tell us what you changed in the data or the files."
-msgstr ""
-"Bitte sagen Sie uns, was Sie in den Daten oder Dateien verändert haben."
+msgstr "Por favor, diga-nos o que mudou nos dados ou nos arquivos."
 
 #: Model/Blend.php:validation for field hello Model/Message.php:validation
 #: Model/Profile.php:validation Model/Report.php:validation
 #: Model/Request.php:validation Model/User.php:validation
 msgid "empty"
-msgstr "leer"
+msgstr "vazio"
 
 #: Model/Collection.php:validation for field name
 msgid "The collection Must have a name"
-msgstr "Die Sammlung muss einen Namen haben"
+msgstr "A coleção precisa ter um nome"
 
 #: Model/Collection.php:validation for field visibility
 msgid "Choose a visibility setting"
-msgstr "Wählen Sie eine Sichtbarkeit Einstellung"
+msgstr "Escolha as configurações de visibilidade"
 
 #: Model/Collection.php:validation for field visibility
 msgid "Invalid visibility value!!!"
-msgstr "Ungültiger Sichtbarkeit Wert!!!"
+msgstr "Valor de visibilidade inválido!"
 
 #: Model/Comment.php:validation for field body
 msgid "The comment cannot be empty!"
-msgstr "Der Kommentar kann nicht leer sein!"
+msgstr "O comentário não por ser vazio!"
 
 #: Model/Comment.php:validation for field user_id;validation
 #: parent_id;validation object_id Model/Revision.php:validation
 msgid "numeric"
-msgstr "numerisch"
+msgstr "numérico"
 
 #: Model/Contact.php:validation for field name;validation email;validation
 #: body
 msgid "This field is required."
-msgstr "Dieses Feld ist notwendig."
+msgstr "Este campo é obrigatório."
 
 #: Model/Contact.php:validation for field name
 msgid "This field contains invalid characters..."
-msgstr "Dieses Feld enthält ungültige Zeichen ..."
+msgstr "Este campo contem caractares inválidos..."
 
 #: Model/Contact.php:validation for field email
 msgid "This doesn't look like an email..."
-msgstr "Das sieht nicht nach einer Email aus..."
+msgstr "Isso não parece com um e-mail..."
 
 #: Model/Contact.php:validation for field subject
 msgid "Please select the subject."
-msgstr "Bitte wählen Sie das Thema."
+msgstr "Por favor, selecione um assunto."
 
 #: Model/Contact.php:validation for field subject
 msgid "An error happened, try again."
-msgstr "Ein Fehler ist aufgetreten, versuchen Sie es erneut."
+msgstr "Ocorreu um erro, tente novamente."
 
 #: Model/Contact.php:validation for field website
 msgid "This is not a url"
-msgstr "Das ist keine URL"
+msgstr "Isso não é uma url"
 
 #: Model/Email.php:validation for field name
 msgid "this email must have a name"
-msgstr "Diese Email muss einen Namen haben"
+msgstr "esse email precisa ter um nome"
 
 #: Model/Email.php:validation for field pointer
 msgid "emails must have a call key so they can be called from inside the app."
 msgstr ""
-"E-Mails benötigt einen Call Key, damit Sie aus dem Inneren der App "
-"aufgerufen werden können."
+"emails precisam ter a chave de chamada para que possam ser chamados pelo "
+"aplicativo internamente."
 
 #: Model/Email.php:validation for field pointer
 msgid "Only letters and underscores are allowed"
-msgstr "Nur Buchstaben und Unterstriche sind zulässig"
+msgstr "Só são permitidos letras em caixa baixa"
+
+#: Model/Feature.php:validation for field user_id
+msgid "Looks like this user is already featured!"
+msgstr "Parece que esse usuário já esta destacado!"
 
 #: Model/Message.php:validation for field body
 msgid "Empty messages are not allowed."
-msgstr "Leere Nachrichten sind nicht erlaubt."
+msgstr "Mensagens vazias não são permitidas."
 
 #: Model/Message.php:validation for field status
 msgid "allowedStatuses"
-msgstr "erlaubteStatus"
+msgstr "estadosPermitidos"
 
 #: Model/Profile.php:validation for field website;validation
 #: deviantart;validation bartists;validation flickr;validation
 #: facebook;validation youtube;validation vimeo;validation twitter;validation
 #: github;validation pinterest;validation behance;validation linkedin
 msgid "This does not look like an URL"
-msgstr "Das sieht nicht nach einer URL aus"
+msgstr "Isso não parece uma URL"
 
 #: Model/Question.php:validation for field body
 msgid "Your question needs a body with details."
-msgstr "Ihre Frage braucht einen Body mit Details."
+msgstr "Sua questão precisa de um corpo com detalhes."
 
 #: Model/Question.php:validation for field body
 msgid "Your question body must be between 40 and 2000 characters long."
-msgstr ""
-"Ihr Frage Body muss aus mindestens 40 und bis zu 2000 Zeichen bestehen."
+msgstr "O corpo de sua questão precisar ter entre 40 e 2000 caracteres."
 
 #: Model/Question.php:validation for field title
 msgid "Your question needs a title."
-msgstr "Die Frage benötigt einen Titel."
+msgstr "Sua pergunta precisa de um título."
 
 #: Model/Question.php:validation for field title
 msgid "Your question title must be between 10 and 256 characters long."
-msgstr ""
-"Der Frage Titel muss aus mindestens 10 und bis zu 256 Zeichen bestehen."
+msgstr "O título de sua questão precisa ter entre 10 e 256 caracteres."
 
 #: Model/Question.php:validation for field tags
 msgid ""
 "Tags help other users to find your question. You must use at least one tag."
 msgstr ""
-"Tags helfen Anderen Ihre Blends zu finden. Sie müssen mindestens einen Tag "
-"benutzen."
+"Etiquetas ajudam outros usuários encontrárem sua pergunta. Você precisa usar "
+"pelo menos uma etiqueta."
 
 #: Model/Report.php:validation for field reason
 msgid "You must choose an option."
-msgstr "Sie müssen eine Option auswählen."
+msgstr "Você deve escolher um opção."
 
 #: Model/Report.php:validation for field reason
 msgid "The reason contains invalid characters"
-msgstr "Der Grund enthält ungültige Zeichen"
+msgstr "O motivo contem caracteres inválidos"
 
 #: Model/Report.php:validation for field body
 msgid ""
 "You must provide links and/or notes for us to be able to take care of your "
 "report"
 msgstr ""
-"Sie müssen Links und / oder Hinweise für uns angeben, damit wir in der Lage "
-"sind ihren Bericht zu bearbeiten"
+"Você deve disponibilizar links e/ou notas para que nós possamos tomar conta "
+"de seu relato"
 
 #: Model/Request.php:validation for field title
 msgid "Your request must have a title"
-msgstr "Ihre Anrage muss einen Titel haben"
+msgstr "Seu pedido precisa ter um título"
 
 #: Model/Request.php:validation for field body
 msgid "You must provide notes and details about the request."
-msgstr "Sie müssen Hinweise und Details über Ihre Anfragen bereitstellen."
+msgstr "Você precisa disponibilizar detalhes sobre seu pedido."
 
 #: Model/Revision.php:validation for field user_id;validation
 #: object_id;validation object_class;validation object_data;validation log
 #: Model/Term.php:validation slug
 msgid "notEmpty"
-msgstr "notEmpty"
+msgstr "nãoVazio"
 
 #: Model/Revision.php:validation for field object_class
 msgid "alphanumeric"
-msgstr "alphanumerisch"
+msgstr "alfanumérico"
 
 #: Model/Term.php:validation for field slug
 msgid "isUnique"
-msgstr "isUnique"
+msgstr "éÚnico"
 
 #: Model/Term.php:validation for field slug
 msgid "validChars"
-msgstr "validChars"
+msgstr "caracteresVálidos"
 
 #: Model/Term.php:validation for field slug
 msgid "between"
-msgstr "zwischen"
+msgstr "entre"
 
 #: Model/User.php:validation for field username
 msgid "Only letters and numbers please."
-msgstr "Nur Buchstaben und Zahlen bitte."
+msgstr "Apenas letras e número, por favor."
 
 #: Model/User.php:validation for field username
 msgid "The username must be between 2 and 32 characters long!"
-msgstr "Der Benutzername muss aus mindestens 2 und bis zu 32 Zeichen bestehen!"
+msgstr "O nome de usuário deve ter entre 2 e 32 caracteres!"
 
 #: Model/User.php:validation for field username
 msgid "Can not be empty"
-msgstr "Kann nicht leer sein"
+msgstr "Não pode ser vazio"
 
 #: Model/User.php:validation for field username
 msgid "This username is already taken."
-msgstr "Dieser Benutzername existiert bereits."
+msgstr "Esse nome de usuário já está em uso."
 
 #: Model/User.php:validation for field email;validation password
 msgid "Can not be left empty"
-msgstr "Kann man nicht leer lassen"
+msgstr "Não pode ser deixado vazio"
 
 #: Model/User.php:validation for field email
 msgid "Does not look like an email"
-msgstr "Sieht nicht aus wie eine Email"
+msgstr "Isso não parece um email"
 
 #: Model/User.php:validation for field email
-msgid ""
-"That email is already in use, maybe you signed up with tha email before?"
-msgstr ""
-"Diese Email wird bereits genutzt. Vielleicht haben Sie sich bereits mit "
-"dieser Email registriert?"
+msgid "Wrong email..."
+msgstr "Email errado..."
 
 #: Model/User.php:validation for field email
 msgid "This email is not allowed. You must use a real email adress."
-msgstr ""
-"Diese Email ist nicht erlaubt. Sie müssen eine echte Email Addresse benutzen."
+msgstr "Esse emal não é permitido. Você precisa usar um email real."
 
 #: Model/User.php:validation for field password
 msgid "Must be between 8 and 128 characters long"
-msgstr "Muss aus mindestens 8 und bis zu 128 Zeichen bestehen"
+msgstr "Deve estar entre 8 e 128 caracteres"
 
 #: Model/User.php:validation for field first_name;validation last_name
 msgid "Must be 2 letters or more."
-msgstr "Muss aus 2 oder mehr Buchstaben bestehen"
+msgstr "Deve ter 2 letras ou mais."
 
 #: Model/User.php:validation for field accept_terms
 msgid "You must accept the Terms Of Use!"
-msgstr "Sie müssen die Nutzungsbedingungen akzeptieren!"
+msgstr "Você deve aceitar os Termos de Uso!"
 
 #: Model/User.php:validation for field bpp
 msgid "Invalid value type"
-msgstr "Ungültiger Wert Typ"
-
-#~ msgid "Looks like this user is already featured!"
-#~ msgstr "Es sieht so aus als wäre dieser Benutzer bereits vorhanden."
-
-#~ msgid "Wrong email..."
-#~ msgstr "Falsche Email..."
+msgstr "Tipo de valor inválido."

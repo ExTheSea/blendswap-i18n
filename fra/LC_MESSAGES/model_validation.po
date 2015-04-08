@@ -1,0 +1,373 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blend Swap Translation 0.1\n"
+"POT-Creation-Date: 2015-02-24 19:14-0600\n"
+"PO-Revision-Date: 2015-04-07 12:07+0100\n"
+"Last-Translator: Pyrophorus <l.sebilleauATfree.fr>\n"
+"Language-Team: Blend Swap Translators\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: Model/Blend.php:validation for field title
+msgid "Your blend must have a name!"
+msgstr "Votre blend doit avoir un nom !"
+
+#: Model/Blend.php:validation for field title
+msgid "The Blend Name must be between 2 and 140 chars long!"
+msgstr "Le nom de votre blend doit avoir entre 2 et 140 caractères !"
+
+#: Model/Blend.php:validation for field title;validation body;validation
+#: three_dee;validation tags Model/Collection.php:validation name;validation
+#: description Model/Comment.php:validation body Model/Profile.php:validation
+#: Model/Question.php:validation Model/Request.php:validation
+#: Model/User.php:validation username;validation bio;validation
+#: first_name;validation last_name
+msgid "This field contains an email, please remove it and try again"
+msgstr "Ce champ contient un email. Merci de l'effacer et de recommencer"
+
+#: Model/Blend.php:validation for field body
+msgid "Your blend must have a description!"
+msgstr "Votre blend doit avoir une description !"
+
+#: Model/Blend.php:validation for field body
+msgid "The description must be between 40 and 5000 chars long!"
+msgstr "La description doit avoir entre 40 et 5000 caractères !"
+
+#: Model/Blend.php:validation for field three_dee
+msgid "That is not a url!"
+msgstr "Ce n'est pas une url !"
+
+#: Model/Blend.php:validation for field three_dee
+msgid "That is not a supported viewer."
+msgstr "Ceci n'est pas un viewer supporté."
+
+#: Model/Blend.php:validation for field blend_license
+msgid "Please choose a license for your blend."
+msgstr "Veuillez sélectionner une licence pour votre blend."
+
+#: Model/Blend.php:validation for field blend_license
+msgid "Invalid value for Blend License!"
+msgstr "La valeur renseignée pour la licence du blend est invalide !"
+
+#: Model/Blend.php:validation for field blender_version
+msgid "Please choose the version of blender you used to make this blend."
+msgstr ""
+"Veuillez sélectionner la version de Blender avec laquelle vous avez réalisé "
+"ce blend."
+
+#: Model/Blend.php:validation for field blender_version
+msgid "Invalid value type for Blender version"
+msgstr "Valeur incorrecte pour la version de Blender"
+
+#: Model/Blend.php:validation for field tags
+msgid "Use at least two tags and don't forget the commas!"
+msgstr ""
+"Veuillez utiliser au moins deux tags et n'oubliez pas les virgules entre les "
+"tags !"
+
+#: Model/Blend.php:validation for field tags
+msgid "Those are not tags, enter two or more tags separated by commas."
+msgstr "Ces tags sont invalides, une virgule doit séparer les tags !"
+
+#: Model/Blend.php:validation for field categories
+#: Model/Request.php:validation requirements
+msgid "Pick one to four categories."
+msgstr "Choisir une à quatre catégories"
+
+#: Model/Blend.php:validation for field categories
+msgid "Invalid taxonomiy input."
+msgstr "Taxonomie (nom de catégorie) invalide."
+
+#: Model/Blend.php:validation for field change_log
+msgid "Please tell us what you changed in the data or the files."
+msgstr ""
+"Merci de nous signaler ce qui a été modifié parmi les données ou les "
+"fichiers."
+
+#: Model/Blend.php:validation for field is_fan_art Model/Report.php:validation
+#: reason
+msgid "You must choose an option."
+msgstr "Vous devez choisir une option."
+
+#: Model/Blend.php:validation for field status Model/News.php:validation
+#: Model/Sub.php:validation
+msgid "Invalid status"
+msgstr "Statut invalide"
+
+#: Model/Collection.php:validation for field name
+msgid "The collection Must have a name"
+msgstr "La collection doit porter un nom"
+
+#: Model/Collection.php:validation for field visibility
+msgid "Choose a visibility setting"
+msgstr "Veuillez choisir une option de visibilité"
+
+#: Model/Collection.php:validation for field visibility
+msgid "Invalid visibility value!!!"
+msgstr "Option de visibilité invalide !"
+
+#: Model/Comment.php:validation for field body
+msgid "The comment cannot be empty!"
+msgstr "Le commentaire ne peut être vide !"
+
+#: Model/Comment.php:validation for field body
+msgid "The comment must be between 2 and 2048 characters long."
+msgstr "Le commentaire doit avoir entre 2 et 2048 caractères de long !"
+
+#: Model/Comment.php:validation for field user_id;validation
+#: parent_id;validation object_id
+msgid "Invalid ID value"
+msgstr "Valeur d'ID invalide"
+
+#: Model/Contact.php:validation for field name;validation email;validation
+#: body
+msgid "This field is required."
+msgstr "Ce champ est obligatoire."
+
+#: Model/Contact.php:validation for field name
+msgid "This field contains invalid characters..."
+msgstr "Ce champ contient des caractères invalides..."
+
+#: Model/Contact.php:validation for field email
+msgid "This doesn't look like an email..."
+msgstr "Cela ne ressemble pas à une adresse mail..."
+
+#: Model/Contact.php:validation for field subject
+msgid "Please select the subject."
+msgstr "Merci de choisir le sujet."
+
+#: Model/Contact.php:validation for field subject
+msgid "An error happened, try again."
+msgstr "Une erreur est intervenue, essayez à nouveau."
+
+#: Model/Contact.php:validation for field website
+msgid "This is not a url"
+msgstr "Ceci n'est pas une url"
+
+#: Model/Conversation.php:validation for field user_id;validation to_user_id
+#: Model/Report.php:validation user_id
+msgid "Invalid user id"
+msgstr "ID d'utilisateur invalide"
+
+#: Model/Conversation.php:validation for field status
+msgid "Wrong value for conversation status"
+msgstr "Valeur erronnée pour l'état de la conversation"
+
+#: Model/Email.php:validation for field name
+msgid "this email must have a name"
+msgstr "cet email doit être nommé"
+
+#: Model/Email.php:validation for field pointer
+msgid "emails must have a call key so they can be called from inside the app."
+msgstr ""
+"Les adresses email doivent avoir un identifiant pour pouvoir être utilisées "
+"dans l'appplication. "
+
+#: Model/Email.php:validation for field pointer
+msgid "Only letters and underscores are allowed"
+msgstr "Seuls les lettres et les underscores(tiret bas) sont autorisés"
+
+#: Model/Event.php:validation for field object_class
+#: Model/Media.php:validation
+msgid "Invalid object class"
+msgstr "Classe d'objet invalide"
+
+#: Model/Event.php:validation for field object_name;validation body
+#: Model/Revision.php:validation user_id;validation object_id;validation
+#: object_class;validation object_data;validation log
+#: Model/Term.php:validation slug
+msgid "notEmpty"
+msgstr "Non_vide"
+
+#: Model/Follow.php:validation for field object_class;validation status
+msgid "Invalid object_class value"
+msgstr "Valeur d'object_class invalide"
+
+#: Model/Media.php:validation for field status
+msgid "Invalid status string"
+msgstr "Chaîne d'état invalide"
+
+#: Model/Message.php:validation for field body
+msgid "Empty messages are not allowed."
+msgstr "Les messages vides ne sont pas autorisés."
+
+#: Model/Message.php:validation for field body
+msgid "Your message must be between 2 and 2048 characters"
+msgstr "Votre message doit avoir entre 2 et 2048 caractères !"
+
+#: Model/Message.php:validation for field status
+msgid "allowedStatuses"
+msgstr "Statuts autorisés"
+
+#: Model/News.php:validation for field title
+msgid "Title must be between 2 and 256 characters long"
+msgstr "Un titre doit avoir entre 2 et 256 caractères"
+
+#: Model/Profile.php:validation for field website;validation
+#: deviantart;validation bartists;validation flickr;validation
+#: facebook;validation youtube;validation vimeo;validation twitter;validation
+#: github;validation pinterest;validation behance;validation linkedin
+msgid "This does not look like an URL"
+msgstr "Cela ne ressemble pas à une URL"
+
+#: Model/Profile.php:validation for field hello
+msgid "empty"
+msgstr "vide"
+
+#: Model/Profile.php:validation for field description
+msgid "The bio must be between 2 and 512 characters long"
+msgstr "La biographie doit avoir entre 24 et 512 caractères de long !"
+
+#: Model/Question.php:validation for field body
+msgid "Your question needs a body with details."
+msgstr "Votre question a besoin d'un contenu détaillé."
+
+#: Model/Question.php:validation for field body
+msgid "Your question body must be between 40 and 2000 characters long."
+msgstr "Votre question doit avoir entre 40 et 2000 caractères de long."
+
+#: Model/Question.php:validation for field title
+msgid "Your question needs a title."
+msgstr "Votre question doit avoir un titre."
+
+#: Model/Question.php:validation for field title
+msgid "Your question title must be between 10 and 256 characters long."
+msgstr ""
+"Le titre de votre question doit avoir entre 10  et 256 caractères de long."
+
+#: Model/Question.php:validation for field tags
+msgid ""
+"Tags help other users to find your question. You must use at least one tag."
+msgstr ""
+"Les tags facilitent la recherche des questions. Vous devez en préciser au "
+"moins un."
+
+#: Model/Question.php:validation for field status
+msgid "Invalid status."
+msgstr "Etat invalide"
+
+#: Model/Report.php:validation for field reason
+msgid "The reason contains invalid characters"
+msgstr "Le motif contient des caractères invalides"
+
+#: Model/Report.php:validation for field body
+msgid ""
+"You must provide links and/or notes for us to be able to take care of your "
+"report"
+msgstr ""
+"Vous devez nous fournir des liens et/ou des précisions pour que nous "
+"puissions étudier votre rapport"
+
+#: Model/Report.php:validation for field object_class
+msgid "This object cannot be reported"
+msgstr "Cet objet ne peut être signalé"
+
+#: Model/Report.php:validation for field object_id
+msgid "Invalid object id"
+msgstr "ID d'objet invalide"
+
+#: Model/Request.php:validation for field title
+msgid "Your request must have a title"
+msgstr "Votre requête doit avoir un titre"
+
+#: Model/Request.php:validation for field body
+msgid "You must provide notes and details about the request."
+msgstr "Vous devez fournir des précisions à propos de votre requête."
+
+#: Model/Revision.php:validation for field user_id;validation object_id
+msgid "numeric"
+msgstr "numérique"
+
+#: Model/Revision.php:validation for field object_class
+msgid "alphanumeric"
+msgstr "alphanumérique"
+
+#: Model/Term.php:validation for field slug
+msgid "unique"
+msgstr "unique"
+
+#: Model/Term.php:validation for field slug
+msgid "validChars"
+msgstr "caractères_valides"
+
+#: Model/Term.php:validation for field slug
+msgid "between"
+msgstr "entre"
+
+#: Model/Termrel.php:validation for field term_id
+msgid "value"
+msgstr "valeur"
+
+#: Model/User.php:validation for field username
+msgid "Only letters and numbers please."
+msgstr "Uniquement des lettres ou des chiffres."
+
+#: Model/User.php:validation for field username
+msgid "The username must be between 2 and 32 characters long!"
+msgstr "Le pseudo doit avoir entre 2 et 32 caractères !"
+
+#: Model/User.php:validation for field username
+msgid "Can not be empty"
+msgstr "Ne peut être vide"
+
+#: Model/User.php:validation for field username
+msgid "This username is already taken."
+msgstr "Ce pseudo est déjà utilisé."
+
+#: Model/User.php:validation for field email;validation password
+msgid "Can not be left empty"
+msgstr "Ne peut pas être laissé vide"
+
+#: Model/User.php:validation for field email
+msgid "Does not look like an email"
+msgstr "Cela ne ressemble pas à une adresse mail"
+
+#: Model/User.php:validation for field email
+msgid ""
+"That email is already in use, maybe you signed up with tha email before?"
+msgstr ""
+"Cette adresse mail est déjà utilisée, vous vous êtes peut-être déjà "
+"enregistré avec ce mail ?"
+
+#: Model/User.php:validation for field email
+msgid ""
+"This email is not allowed because Blend Swap's automated emails are not "
+"received by this domain/server."
+msgstr ""
+"Cet email est inutilisable car le serveur associé n'accepte pas les emails "
+"automatiques envoyés par Blend Swap."
+
+#: Model/User.php:validation for field password
+msgid "Must be between 8 and 1024 characters long"
+msgstr "Doit faire entre 8 et 1024 caractères de long"
+
+#: Model/User.php:validation for field first_name;validation last_name
+msgid "Must be 2 letters or more."
+msgstr "Doit avoir au moins 2 lettres"
+
+#: Model/User.php:validation for field accept_terms
+msgid "You must accept the Terms Of Use!"
+msgstr "Vous devez accepter les Conditions d'Utilisation !"
+
+#: Model/User.php:validation for field bpp
+msgid "Invalid value type"
+msgstr "type de valeur invalide"
+
+#: Model/Vote.php:validation for field vote
+msgid "Invalid vote value"
+msgstr "Valeur de vote invalide"
+
+#~ msgid "This email is not allowed. You must use a real email adress."
+#~ msgstr ""
+#~ "Ce mail n'est pas autorisé... Vous devez avoir une vraie adresse mail."
+
+#~ msgid "Wrong email..."
+#~ msgstr "Mauvaise adresse mail..."
